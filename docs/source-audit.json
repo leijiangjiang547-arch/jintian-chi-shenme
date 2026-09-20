@@ -1,0 +1,449 @@
+{
+  "upstreamCommit": "c2063eb7050bac0cb998779c62fa08c649c9882f",
+  "checkedOn": "2026-09-20",
+  "sources": [
+    {
+      "title": "HowToCook · 西红柿炒鸡蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/西红柿炒鸡蛋.md",
+      "kind": "recipe",
+      "path": "dishes/vegetable_dish/西红柿炒鸡蛋.md",
+      "sha256": "ff668dedcb59fdae9e521de9db1c05cee386c883ad1979fe52346ff0cc1aecb8"
+    },
+    {
+      "title": "HowToCook · 韭菜炒蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md",
+      "sha256": "b3dde49393e4196b1677b0f2db8200263d985c056457fe12c7ff222c0e949f5e"
+    },
+    {
+      "title": "HowToCook · 西葫芦炒鸡蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "sha256": "bfadfaeb8c5f765a5bfb84532d3bf5ced2b28294e241b219705152a7662f52dd"
+    },
+    {
+      "title": "HowToCook · 洋葱炒鸡蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+      "sha256": "383ce85ab5a20414cc11a713b06f3882e8088d1d839f6cb9ad49eafa5e64e262"
+    },
+    {
+      "title": "HowToCook · 菠菜炒鸡蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+      "sha256": "4012ccf64969ba96fa6b481dc05f37ea85f5cabbf4fd2b0094191f2ab0e47ae5"
+    },
+    {
+      "title": "HowToCook · 鸡蛋火腿炒黄瓜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "sha256": "9abddb276f47f78ab9c7cb878f02482c30ba46412ae362eca6b475b8e3e3f0b9"
+    },
+    {
+      "title": "HowToCook · 酸辣土豆丝",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/酸辣土豆丝.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/酸辣土豆丝.md",
+      "sha256": "0873c784bb0a60d712c4a07353174b5734d58b0ff5827c8c834144348e1d423a"
+    },
+    {
+      "title": "HowToCook · 手撕包菜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/手撕包菜/手撕包菜.md",
+      "kind": "recipe",
+      "path": "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
+      "sha256": "4bf76c5b6951dfa37e2924e2bb674d0bbadea1d9d4339f9a97224e2a87061969"
+    },
+    {
+      "title": "HowToCook · 蒜蓉西兰花",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/蒜蓉西兰花.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/蒜蓉西兰花.md",
+      "sha256": "fdea0d70e95f8a3e4adbc0d2d8f95a0c57c07bd0855c2c9b15d79304bf1b3f33"
+    },
+    {
+      "title": "HowToCook · 蒜蓉空心菜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+      "kind": "recipe",
+      "path": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+      "sha256": "3547bf0dc5ae02f583ac6ebbce775123991f9dd64aa7d85975c68491c727dfab"
+    },
+    {
+      "title": "HowToCook · 炒青菜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒青菜.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/炒青菜.md",
+      "sha256": "5bdcd2e508775d1d2ebd7f86b1f9041b31f68dab3b78224e31cf5eb56361958e"
+    },
+    {
+      "title": "HowToCook · 蒜蓉炒芹菜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.md",
+      "sha256": "e8256bb4023e3c92b4f1f77372f83800ebfefea0734ad8601249bdaecec39487"
+    },
+    {
+      "title": "HowToCook · 清炒花菜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/清炒花菜.md",
+      "kind": "recipe",
+      "path": "dishes/vegetable_dish/清炒花菜.md",
+      "sha256": "790074a63ae1b8e3771a1578f6f2037601fe138163c4b238f519de3a83973e6d"
+    },
+    {
+      "title": "HowToCook · 小炒藕丁",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
+      "sha256": "3ee355ba84f27d357fb38d9a1977812cc2094b7c947572db13ddd419fa9b63ed"
+    },
+    {
+      "title": "HowToCook · 荷兰豆炒腊肠",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
+      "sha256": "73fe01af54bfe66471c907296d2505087a3c93850a441f91dabdf22197e9ef93"
+    },
+    {
+      "title": "HowToCook · 蚝油三鲜菇",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
+      "sha256": "c9ced07f57be1643188b9a074e452310881aee6d3125187b7752b048d58562b8"
+    },
+    {
+      "title": "HowToCook · 清蒸南瓜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/清蒸南瓜.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/清蒸南瓜.md",
+      "sha256": "d0ab4b7334d7a49ac18daf7ef42e00f9d57b3c86a003e07e5252b6efffac9967"
+    },
+    {
+      "title": "HowToCook · 松仁玉米",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/松仁玉米.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/松仁玉米.md",
+      "sha256": "b67377285e85736c4cf3b9c066ecac546d7d7801ad1385c6e0c6ad76817465c8"
+    },
+    {
+      "title": "HowToCook · 香干肉丝",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/香干肉丝.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/香干肉丝.md",
+      "sha256": "04b91b8b00f34607a4ec1d7419fd9800d494951a09881d00f8987c0ac8158439"
+    },
+    {
+      "title": "HowToCook · 香干芹菜炒肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+      "sha256": "a5abaded37a70d78af951db6fa301139cf619ce5820d3a7280829fc9ca3a77e6"
+    },
+    {
+      "title": "HowToCook · 蒜苔炒肉末",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/蒜苔炒肉末.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/蒜苔炒肉末.md",
+      "sha256": "6d098d6e9cc5cb091609e944cd82ebc584cc8c9061437b7edab35e1adf25cd6d"
+    },
+    {
+      "title": "HowToCook · 黄瓜炒肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/黄瓜炒肉.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/黄瓜炒肉.md",
+      "sha256": "bdcb08c1c58c477d990ff4756ba26e9596fe4c2877d6095bf150dd3efcaa39a6"
+    },
+    {
+      "title": "HowToCook · 洋葱炒猪肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/洋葱炒猪肉.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/洋葱炒猪肉.md",
+      "sha256": "6dc8c8ae5d6d81878b2ccd9adb57458c3ddc7d5662d8810cd792ad3ca1f57834"
+    },
+    {
+      "title": "HowToCook · 鱼香肉丝",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/鱼香肉丝.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/鱼香肉丝.md",
+      "sha256": "ca9f769c30aac3f3102f9e88be92ca440b648dd9881e478bcf9c56df96a2d930"
+    },
+    {
+      "title": "HowToCook · 茭白炒肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/茭白炒肉/茭白炒肉.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
+      "sha256": "ccd7dd3f4e7d33c6cf330397e3fff739c92ef9442c86e9f66490025c424cdccb"
+    },
+    {
+      "title": "HowToCook · 瘦肉土豆片",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
+      "sha256": "730798180562586f8d658820c22ac389ffbd2e4931d1fef5f8ea16bc0628015f"
+    },
+    {
+      "title": "HowToCook · 干锅花菜",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+      "sha256": "68f7d5be2bbb30181d5a5b07559612816e96570aeb20d16ab46b185b25cfcc59"
+    },
+    {
+      "title": "HowToCook · 尖椒炒牛肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/尖椒炒牛肉.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/尖椒炒牛肉.md",
+      "sha256": "96820865a8cfe4e950922fa765bd1124dd20acac4c337e606cf2ea3b1162eb87"
+    },
+    {
+      "title": "HowToCook · 黑椒牛柳",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "sha256": "aa984da42924b2b484b0e947562db04f8d3bc327bc66de801a2370bbb9c38b5a"
+    },
+    {
+      "title": "HowToCook · 孜然牛肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/孜然牛肉.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/孜然牛肉.md",
+      "sha256": "1a6e715354c5915612a389a62f356dee0fd795559c021fbe0fca800e22158f1b"
+    },
+    {
+      "title": "HowToCook · 小炒黄牛肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+      "sha256": "4bd7f5b1084c364c2337888d5f3d01ce1731a10faff0e716bf81cf24a493e448"
+    },
+    {
+      "title": "HowToCook · 香菇滑鸡",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+      "sha256": "e91648d0fa467b8cd1175ce2a3ad130c54e2df4879629106f185d9cb4f7fbc04"
+    },
+    {
+      "title": "HowToCook · 宫保鸡丁",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+      "sha256": "27e561ab3d9660a5b12aa31f7f2d0417edc08b042bba7a6b092b7767f09bb7e3"
+    },
+    {
+      "title": "HowToCook · 姜炒鸡",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+      "sha256": "c6fdc659cc7412a94224e1829fd5c0c05a46bd733a850d6261c045a879fc3838"
+    },
+    {
+      "title": "HowToCook · 黄油煎虾",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/黄油煎虾/黄油煎虾.md",
+      "kind": "technique",
+      "path": "dishes/aquatic/黄油煎虾/黄油煎虾.md",
+      "sha256": "6a2b8c0985e084cc0ed4bd4ce45c081eacbcfa0b225cb1877266f99bd6c7f5d9"
+    },
+    {
+      "title": "HowToCook · 蒜香黄油虾",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+      "kind": "technique",
+      "path": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+      "sha256": "2f40abd6120b4051c35019a7759492ddec7efb38d035b545a730713ffa731390"
+    },
+    {
+      "title": "HowToCook · 炒滑蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+      "sha256": "8d84989f445ed542e29e5c405d10a2cb767b9fbd1b2758d0155ea1fa1eed384f"
+    },
+    {
+      "title": "HowToCook · 麻婆豆腐",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+      "sha256": "1068e8855feadcde90adf5948477aa3602e38ef8fb7640eb09f31e395d43cab2"
+    },
+    {
+      "title": "HowToCook · 葱煎豆腐",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/葱煎豆腐.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/葱煎豆腐.md",
+      "sha256": "41bf5086ec26c95209f423816f5132c5c8c754c69787b18be9fbda77918c90b1"
+    },
+    {
+      "title": "HowToCook · 榄菜肉末四季豆",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+      "sha256": "2eab7d78b1c9d75d8312180938ce255e2a43204fd2726a5168cff6972cd5b36f"
+    },
+    {
+      "title": "HowToCook · 鱼香茄子",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+      "kind": "recipe",
+      "path": "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+      "sha256": "90666b1b2bf935b5941cb1e13f7bbd3196e4fe02169fc9b1212a39c7bf81f8c5"
+    },
+    {
+      "title": "HowToCook · 小米粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/小米粥.md",
+      "kind": "technique",
+      "path": "dishes/soup/小米粥.md",
+      "sha256": "028098466e8880a8603fc42619272a5c951740606e79632b5a5a22dcfc1a8268"
+    },
+    {
+      "title": "HowToCook · 米粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/米粥.md",
+      "kind": "technique",
+      "path": "dishes/soup/米粥.md",
+      "sha256": "a4aa3b411643a9cf87cf0a1fc75c5c7cbce5ffee1f4e8cec07be23d29818a794"
+    },
+    {
+      "title": "HowToCook · 桂圆红枣粥",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/桂圆红枣粥.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/桂圆红枣粥.md",
+      "sha256": "a96f4c89f78420191d904866d3195c1cddc63cd4a2076eb27917a13534e1aa0a"
+    },
+    {
+      "title": "HowToCook · 牛奶燕麦",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/牛奶燕麦.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/牛奶燕麦.md",
+      "sha256": "cf4ce31a6416e7200a92ce85a3b270a2b17fadd32d79bf4c606baa8b1066754d"
+    },
+    {
+      "title": "HowToCook · 燕麦鸡蛋饼",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/燕麦鸡蛋饼.md",
+      "kind": "recipe",
+      "path": "dishes/breakfast/燕麦鸡蛋饼.md",
+      "sha256": "d631f2976a73b5e220eb483b567d75a256eae7172f8120d67d416d16babc640e"
+    },
+    {
+      "title": "HowToCook · 莴笋叶煎饼",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+      "sha256": "e846b3160dea3057fb82202b2b7e0b7b536465175af2268be96dd06d2629fd69"
+    },
+    {
+      "title": "HowToCook · 鸡蛋三明治",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/鸡蛋三明治.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/鸡蛋三明治.md",
+      "sha256": "05a04493a3b97063cb62f435995c8b924b9a818a46cc0c453187a9f63a10c304"
+    },
+    {
+      "title": "HowToCook · 金枪鱼酱三明治",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/金枪鱼酱三明治.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/金枪鱼酱三明治.md",
+      "sha256": "e0b75b9f450579e4fa4fb4405551785d7e48a29367ecb71c951c35a2fb0ddd88"
+    },
+    {
+      "title": "HowToCook · 吐司果酱",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/吐司果酱.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/吐司果酱.md",
+      "sha256": "fa2137342783a5cd55bfc0aadd98c49cd24f0694b712bfd0062912962dd469c9"
+    },
+    {
+      "title": "HowToCook · 西红柿鸡蛋挂面",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+      "kind": "recipe",
+      "path": "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+      "sha256": "f6489389433aca6337a1a346fdd0fcd10dca956b1b24a08f4641bed46b428dff"
+    },
+    {
+      "title": "HowToCook · 汤面",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/汤面.md",
+      "kind": "technique",
+      "path": "dishes/staple/汤面.md",
+      "sha256": "c9b11f90c382183e1c69897b7c20c1a1abff951b92b1f32bcc74d2253e8760fc"
+    },
+    {
+      "title": "HowToCook · 紫菜蛋花汤",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/紫菜蛋花汤.md",
+      "kind": "technique",
+      "path": "dishes/soup/紫菜蛋花汤.md",
+      "sha256": "232e375e4c602a6731fd5060f980228ef2f492e484b8cd3b5a1b07309cf8924b"
+    },
+    {
+      "title": "HowToCook · 蒸水蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/蒸水蛋.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/蒸水蛋.md",
+      "sha256": "281f9c0d83a61465a02bd405127911a8aaeb650b5312e82f259ad98f48f4cabd"
+    },
+    {
+      "title": "HowToCook · 水煮玉米",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/水煮玉米.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/水煮玉米.md",
+      "sha256": "e7460992dfee3ab8c34fdd2482813c66e92258b78124da918f1ed61ce52b2988"
+    },
+    {
+      "title": "HowToCook · 完美水煮蛋",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/完美水煮蛋.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/完美水煮蛋.md",
+      "sha256": "a520399b0fdfdff8ec923cff36574d9e96989c1c1e564381fff89c622eefe0d8"
+    },
+    {
+      "title": "HowToCook · 煎饺",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/煎饺.md",
+      "kind": "recipe",
+      "path": "dishes/breakfast/煎饺.md",
+      "sha256": "ae39c8fbe19929ab9ba0d7b99b1debd68fd2ec804edfb21ef7ff9ecfa256a0fe"
+    },
+    {
+      "title": "HowToCook · 速冻馄饨",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/semi-finished/速冻馄饨.md",
+      "kind": "technique",
+      "path": "dishes/semi-finished/速冻馄饨.md",
+      "sha256": "59c4bf778b146a522cee6a375e5a2813fc3af77190f3bb813d1aef583206b683"
+    },
+    {
+      "title": "HowToCook · 蛋炒饭",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/蛋炒饭.md",
+      "kind": "recipe",
+      "path": "dishes/staple/蛋炒饭.md",
+      "sha256": "9168b0fad9058458f5455bbac35a8a91c623777a019e993f70f9c5281fc01c32"
+    },
+    {
+      "title": "HowToCook · 手抓饼",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/手抓饼.md",
+      "kind": "technique",
+      "path": "dishes/breakfast/手抓饼.md",
+      "sha256": "cd17c2a4e8ad3f5a93ec3fdc065f4533ebb0770e52d45ca80c5227854f9fbb9b"
+    },
+    {
+      "title": "HowToCook · 葱油拌面",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/葱油拌面.md",
+      "kind": "recipe",
+      "path": "dishes/staple/葱油拌面.md",
+      "sha256": "1265b41a27b7f7f4f3b17b5f9a5cd2eef553f2385e4b5e0b98be90018c7dc7dc"
+    },
+    {
+      "title": "HowToCook · 韭菜盒子",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/韭菜盒子.md",
+      "kind": "technique",
+      "path": "dishes/staple/韭菜盒子.md",
+      "sha256": "c49e335f8ec1bda1cc034a95d101100492babc8cef6fb3dc17fbad291fe2317d"
+    },
+    {
+      "title": "HowToCook · 火腿饭团",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/火腿饭团/火腿饭团.md",
+      "kind": "recipe",
+      "path": "dishes/staple/火腿饭团/火腿饭团.md",
+      "sha256": "7043221fad96843d96c83602cad39a83a4be7023b4904c4cf5b775acddcc16b3"
+    }
+  ],
+  "recipeCount": 100,
+  "note": "本应用独立量化改编；对应原菜谱或明确标示相关技法。视频仅链接，不搬运视频和截图。"
+}

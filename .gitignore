@@ -1,0 +1,10 @@
+build/
+node_modules/
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.clixml
+.env*
+__pycache__/
+*.pyc
