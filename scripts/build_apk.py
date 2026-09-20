@@ -19,7 +19,8 @@ if not KEY.exists():
 run(B/('aapt2'+ext),'compile','--dir',ROOT/'android/res','-o',OUT/'resources.zip')
 assets=OUT/'assets/web'; assets.mkdir(parents=True,exist_ok=True)
 for f in (ROOT/'web').iterdir():
-    if f.is_file() and f.suffix in {'.html','.js','.css','.svg'}: shutil.copyfile(f,assets/f.name)
+    if f.is_file() and f.suffix in {'.html','.js','.css','.svg'}:
+        (assets/f.name).write_text(f.read_text(encoding='utf-8'),encoding='utf-8',newline='\n')
 run(B/('aapt2'+ext),'link','-o',OUT/'base.apk','-I',A,'--manifest',ROOT/'android/AndroidManifest.xml','-A',OUT/'assets','--min-sdk-version','26','--target-sdk-version','35',OUT/'resources.zip')
 classes=OUT/'classes'; classes.mkdir(exist_ok=True)
 run(J/('javac'+ext),'-encoding','UTF-8','--release','8','-classpath',A,'-d',classes,*sorted((ROOT/'android/src').rglob('*.java')))
