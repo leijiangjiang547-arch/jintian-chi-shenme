@@ -30,7 +30,7 @@ with zipfile.ZipFile(OUT/'base.apk') as base, zipfile.ZipFile(OUT/'unsigned.apk'
         z.writestr(entry.filename,base.read(entry.filename),compress_type=zipfile.ZIP_STORED if entry.filename=='resources.arsc' else zipfile.ZIP_DEFLATED)
     z.write(OUT/'classes.dex','classes.dex')
 run(B/('zipalign'+ext),'-f','4',OUT/'unsigned.apk',OUT/'aligned.apk')
-APK=OUT/'cookdaily-v0.1.0.apk'
+APK=OUT/'cookdaily-v0.2.0.apk'
 run(J/('java'+ext),'-jar',B/'lib/apksigner.jar','sign','--ks',KEY,'--ks-key-alias','cookdaily','--ks-pass','env:COOK_KEYSTORE_PASS','--key-pass','env:COOK_KEYSTORE_PASS','--out',APK,OUT/'aligned.apk')
 run(J/('java'+ext),'-jar',B/'lib/apksigner.jar','verify','--verbose',APK)
 run(B/('zipalign'+ext),'-c','4',APK)

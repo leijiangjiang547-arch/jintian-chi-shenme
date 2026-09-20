@@ -1,6 +1,6 @@
 import pathlib,zipfile,json,hashlib
 root=pathlib.Path(__file__).resolve().parents[1]
-apk=root/'downloads/cookdaily-v0.1.0.apk'
+apk=root/'downloads/cookdaily-v0.2.0.apk'
 with zipfile.ZipFile(apk) as z:
     assert z.testzip() is None
     assets=[f for f in (root/'web').iterdir() if f.suffix in {'.html','.js','.css','.svg'}]
@@ -10,7 +10,7 @@ with zipfile.ZipFile(apk) as z:
     assert z.getinfo('resources.arsc').compress_type==zipfile.ZIP_STORED
     assert not any(n.endswith(('.jks','.keystore','.clixml','.env')) for n in z.namelist())
     data=z.read('assets/web/recipes.js').decode('utf-8').removeprefix('window.RECIPES = ').strip().removesuffix(';')
-    assert len(json.loads(data))==100
+    assert len(json.loads(data))==166
 expected=(root/'downloads/SHA256SUMS.txt').read_text().split()[0]
 assert hashlib.sha256(apk.read_bytes()).hexdigest()==expected
-print('APK: CRC, assets, 100 recipes, uncompressed resources, checksum and secret-file exclusion passed.')
+print('APK: CRC, assets, 166 recipes, uncompressed resources, checksum and secret-file exclusion passed.')
