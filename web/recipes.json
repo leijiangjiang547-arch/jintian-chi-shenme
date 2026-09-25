@@ -94,7 +94,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d02",
@@ -180,7 +189,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d03",
@@ -266,7 +284,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d04",
@@ -352,7 +379,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d05",
@@ -438,7 +474,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d06",
@@ -524,7 +569,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d07",
@@ -616,7 +670,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d08",
@@ -702,7 +765,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d09",
@@ -788,7 +860,16 @@
       "蛋"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d10",
@@ -887,7 +968,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d11",
@@ -976,7 +1066,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d12",
@@ -1060,7 +1159,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d13",
@@ -1144,7 +1252,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d14",
@@ -1228,7 +1345,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d15",
@@ -1312,7 +1438,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d16",
@@ -1396,7 +1531,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d17",
@@ -1480,7 +1624,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d18",
@@ -1569,7 +1722,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d19",
@@ -1653,7 +1815,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d20",
@@ -1752,7 +1923,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d21",
@@ -1836,7 +2016,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d22",
@@ -1920,7 +2109,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d23",
@@ -2009,7 +2207,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d24",
@@ -2108,7 +2315,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d25",
@@ -2197,7 +2413,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d26",
@@ -2281,7 +2506,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d27",
@@ -2365,7 +2599,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d28",
@@ -2449,7 +2692,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d29",
@@ -2538,7 +2790,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d30",
@@ -2629,7 +2890,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蔬菜小炒"
+    "group": "蔬菜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d31",
@@ -2742,7 +3012,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d32",
@@ -2860,7 +3139,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d33",
@@ -2973,7 +3261,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d34",
@@ -3086,7 +3383,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d35",
@@ -3199,7 +3505,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d36",
@@ -3312,7 +3627,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d37",
@@ -3430,7 +3754,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d38",
@@ -3543,7 +3876,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d39",
@@ -3656,7 +3998,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d40",
@@ -3769,7 +4120,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d41",
@@ -3882,7 +4242,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d42",
@@ -4005,7 +4374,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d43",
@@ -4128,7 +4506,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d44",
@@ -4241,7 +4628,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d45",
@@ -4354,7 +4750,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d46",
@@ -4467,7 +4872,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d47",
@@ -4580,7 +4994,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d48",
@@ -4693,7 +5116,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d49",
@@ -4806,7 +5238,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d50",
@@ -4919,7 +5360,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d51",
@@ -5057,7 +5507,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "川菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d52",
@@ -5191,7 +5650,16 @@
       "花生"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "川菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "d53",
@@ -5287,7 +5755,16 @@
       "虾"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "海鲜小炒"
+    "group": "海鲜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d54",
@@ -5383,7 +5860,16 @@
       "虾"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "海鲜小炒"
+    "group": "海鲜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d55",
@@ -5479,7 +5965,16 @@
       "虾"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "海鲜小炒"
+    "group": "海鲜小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d56",
@@ -5566,7 +6061,16 @@
       "虾"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "蛋类小炒"
+    "group": "蛋类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d57",
@@ -5677,7 +6181,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "豆腐小炒"
+    "group": "豆腐小炒",
+    "cuisine": "川菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d58",
@@ -5778,7 +6291,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "豆腐小炒"
+    "group": "豆腐小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d59",
@@ -5867,7 +6389,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d60",
@@ -5983,7 +6514,16 @@
       "大豆"
     ],
     "equipment": "不粘炒锅 / 刀板 / 厨房秤",
-    "group": "肉类小炒"
+    "group": "肉类小炒",
+    "cuisine": "川菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b01",
@@ -6062,7 +6602,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b02",
@@ -6146,7 +6695,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b03",
@@ -6230,7 +6788,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b04",
@@ -6314,7 +6881,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b05",
@@ -6398,7 +6974,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b06",
@@ -6482,7 +7067,16 @@
     "editorial": "家庭量化改编；份量和计时为参考，未逐道试做。以本页熟透判断为准。",
     "allergens": [],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b07",
@@ -6568,7 +7162,16 @@
       "乳"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b08",
@@ -6659,7 +7262,16 @@
       "乳"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "粥羹碗餐"
+    "group": "粥羹碗餐",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b09",
@@ -6764,7 +7376,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b10",
@@ -6863,7 +7484,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b11",
@@ -6962,7 +7592,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b12",
@@ -7061,7 +7700,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b13",
@@ -7160,7 +7808,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b14",
@@ -7259,7 +7916,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b15",
@@ -7353,7 +8019,16 @@
       "乳"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b16",
@@ -7452,7 +8127,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "煎饼烙饼"
+    "group": "煎饼烙饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b17",
@@ -7538,7 +8222,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "吐司面包"
+    "group": "吐司面包",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b18",
@@ -7624,7 +8317,16 @@
       "鱼"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "吐司面包"
+    "group": "吐司面包",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b19",
@@ -7709,7 +8411,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "吐司面包"
+    "group": "吐司面包",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b20",
@@ -7794,7 +8505,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "吐司面包"
+    "group": "吐司面包",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b21",
@@ -7874,7 +8594,16 @@
       "花生"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "吐司面包"
+    "group": "吐司面包",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b22",
@@ -7954,7 +8683,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "吐司面包"
+    "group": "吐司面包",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b23",
@@ -8052,7 +8790,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b24",
@@ -8150,7 +8897,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b25",
@@ -8248,7 +9004,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b26",
@@ -8346,7 +9111,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b27",
@@ -8444,7 +9218,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b28",
@@ -8542,7 +9325,16 @@
       "虾"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b29",
@@ -8639,7 +9431,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b30",
@@ -8719,7 +9520,16 @@
       "芝麻"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "蛋料理"
+    "group": "蛋料理",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b31",
@@ -8800,7 +9610,16 @@
       "蛋"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "蛋料理"
+    "group": "蛋料理",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b32",
@@ -8874,7 +9693,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "包点饺子"
+    "group": "包点饺子",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b33",
@@ -8965,7 +9793,16 @@
       "芝麻"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "包点饺子"
+    "group": "包点饺子",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b34",
@@ -9062,7 +9899,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "米饭饭团"
+    "group": "米饭饭团",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b35",
@@ -9160,7 +10006,16 @@
       "小麦"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "馒头卷饼"
+    "group": "馒头卷饼",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b36",
@@ -9239,7 +10094,16 @@
       "乳"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "薯芋杂粮"
+    "group": "薯芋杂粮",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b37",
@@ -9325,7 +10189,16 @@
       "蛋"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "蛋料理"
+    "group": "蛋料理",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b38",
@@ -9422,7 +10295,16 @@
       "大豆"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "面条粉类"
+    "group": "面条粉类",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b39",
@@ -9523,7 +10405,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
@@ -9531,7 +10413,16 @@
     "allergens": [
       "蛋",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b40",
@@ -9625,7 +10516,16 @@
       "芝麻"
     ],
     "equipment": "按步骤准备煮锅、蒸锅或不粘平底锅 / 厨房秤",
-    "group": "米饭饭团"
+    "group": "米饭饭团",
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b41",
@@ -9666,46 +10566,74 @@
     ],
     "steps": [
       {
-        "title": "切香蕉、打蛋",
+        "title": "称量并备锅",
         "heat": "不开火",
         "seconds": 0,
-        "text": "香蕉纵向切成约5毫米薄条。将{{鸡蛋}}打入碗，加{{牛奶}}，搅匀至蛋白不再成团。",
-        "check": "香蕉条尽量等厚，不把整根香蕉包进去。"
+        "text": "称好{{香蕉（去皮）}}、{{牛奶}}和{{食用油}}，取{{鸡蛋}}。准备18～20厘米不粘锅、碗和两把耐热锅铲；油分成三小份，每次用其中一份。",
+        "check": "所有材料在手边，锅内干燥，分出的三份油合计等于清单总量。"
       },
       {
-        "title": "预热并分蛋液",
+        "title": "切香蕉",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "香蕉先横切成约6厘米段，再纵切约5毫米厚的条，平放盘内。不要用整根香蕉，否则中心太厚不容易卷熟。",
+        "check": "香蕉条厚度接近，长度小于锅底直径。"
+      },
+      {
+        "title": "搅匀蛋液",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "将鸡蛋打入碗，加入称好的牛奶。筷子贴近碗底划圈搅打，挑散透明蛋白，再将蛋液大致分成三份。",
+        "check": "提起筷子时没有大团透明蛋白，蛋液颜色均匀。"
+      },
+      {
+        "title": "预热薄刷油",
         "heat": "小火",
         "seconds": 30,
-        "text": "用18～20厘米不粘锅。{{食用油@0.333333}}刷薄薄一层，预热30秒。蛋液分成三份。",
-        "check": "锅温温热，油不冒烟。"
+        "text": "锅底刷{{食用油@0.333333}}，小火预热约30秒。若油开始冒烟，立即离火降温后再继续。",
+        "check": "锅底只有薄油膜，没有明显积油或烟。"
       },
       {
-        "title": "煎第一层",
+        "title": "摊第一层蛋皮",
         "heat": "小火",
         "seconds": 90,
-        "text": "倒入第一份蛋液，转锅摊平。香蕉排在靠近自己的三分之一处，煎约90秒。",
-        "check": "边缘可铲起，表面大部分凝固。"
+        "text": "倒入第一份蛋液，轻转锅铺成薄层。香蕉条排在靠近自己的三分之一处，煎约60～90秒。",
+        "check": "蛋皮边缘凝固并能用铲子挑起，表面没有成片流动蛋液。"
       },
       {
-        "title": "卷起并续蛋液",
+        "title": "卷起第一层",
+        "heat": "小火",
+        "seconds": 0,
+        "text": "一把铲子托住靠近自己的边，另一把压住香蕉；向远端卷两三折，把蛋卷轻推至锅边。动作慢一些，破口用下一层蛋液补。",
+        "check": "香蕉被包住，蛋卷能整体移动；若铲起就散，先再煎20～30秒。"
+      },
+      {
+        "title": "续第二层",
         "heat": "小火",
         "seconds": 120,
-        "text": "用两把铲子把蛋皮连香蕉卷向远端；空处刷{{食用油@0.333333}}，倒第二份蛋液，抬起蛋卷让蛋液流到底下。约2分钟后往回卷。",
-        "check": "第二层与蛋卷连在一起；破一点也可继续卷。"
+        "text": "空出的锅底刷{{食用油@0.333333}}，倒入第二份蛋液；轻抬蛋卷，让少量蛋液流入下方再放下。煎约90～120秒，待边缘能铲起，再从蛋卷一端卷回另一端。",
+        "check": "新蛋皮与原蛋卷连成一体，不在仍流动时强行卷。"
       },
       {
-        "title": "完成第三层",
+        "title": "续第三层",
         "heat": "小火",
         "seconds": 120,
-        "text": "再刷{{食用油@0.333333}}，倒余下蛋液，重复卷起。不要为赶时间升大火。",
-        "check": "外层成形，蛋液没有流出。"
+        "text": "空处刷最后{{食用油@0.333333}}，倒入剩余蛋液，再抬起蛋卷让两层相连。仍用小火煎约90～120秒，按前一步卷起。",
+        "check": "第三层表面基本凝固，外面没有液体流出；锅温过高就短暂离火。"
       },
       {
-        "title": "焖熟切段",
+        "title": "加盖焖透",
         "heat": "小火",
         "seconds": 180,
-        "text": "加盖焖3分钟，中途翻面一次；切开最厚一段检查。未凝固时切段后各面再煎1分钟。",
-        "check": "中心蛋液完全凝固，温度计测中心达到75℃。"
+        "text": "蛋卷摆在锅中央，加盖小火焖约3分钟，约一分半时用两把铲子托着翻面一次。多人份分批做，保持同样蛋皮厚度。",
+        "check": "两面浅黄而非焦黑，定型后仍略有弹性。"
+      },
+      {
+        "title": "检查切段",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "盛到干净熟食砧板上，切开最厚处，确认蛋液完全凝固；温度计检查中心达到75℃。若未凝固，把切段放回锅中，小火各面再煎约1分钟后复查。确认熟透后再切成便于入口的小段。",
+        "check": "中心无湿生蛋液；不能只因外层变黄就出锅。"
       }
     ],
     "tips": [
@@ -9728,7 +10656,7 @@
         "status": "已核查平台智能文稿，未完整观看视频；本版改为全蛋卷法，不是博主原配方。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "可搭配一片全麦面包和一杯无糖豆浆。",
@@ -9736,7 +10664,16 @@
     "allergens": [
       "蛋",
       "奶"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "b42",
@@ -9849,7 +10786,7 @@
         "status": "已核查平台智能文稿中的西多士部分，未完整观看视频；用量为家庭改编。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -9858,7 +10795,16 @@
       "蛋",
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b43",
@@ -9985,7 +10931,7 @@
         "status": "仅核查标题与简介；包法和具体用量未通过完整视频复核。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "煮锅、漏勺、厨房秤",
     "pairing": "",
@@ -9995,7 +10941,16 @@
       "小麦",
       "甲壳类",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b44",
@@ -10099,12 +11054,21 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "饭勺、保鲜膜、厨房秤",
     "pairing": "配一杯热牛奶或无糖豆浆。",
     "tokenAmounts": true,
-    "allergens": []
+    "allergens": [],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b45",
@@ -10222,7 +11186,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -10230,7 +11194,16 @@
     "allergens": [
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b46",
@@ -10341,7 +11314,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘锅、寿司帘或保鲜膜、锋利小刀",
     "pairing": "",
@@ -10349,7 +11322,16 @@
     "allergens": [
       "蛋",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b47",
@@ -10460,7 +11442,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -10468,7 +11450,16 @@
     "allergens": [
       "蛋",
       "大豆"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b48",
@@ -10589,7 +11580,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、蒸布、炒锅、擀面杖",
     "pairing": "配清爽蔬菜或无糖豆浆。",
@@ -10597,7 +11588,16 @@
     "allergens": [
       "大豆",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "b49",
@@ -10713,7 +11713,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、蒸纸、拌馅碗",
     "pairing": "",
@@ -10722,7 +11722,16 @@
       "大豆",
       "小麦",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "b50",
@@ -10840,7 +11849,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "煮锅、不粘锅、厨房秤",
     "pairing": "",
@@ -10849,7 +11858,16 @@
       "蛋",
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b51",
@@ -10940,14 +11958,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b52",
@@ -11048,7 +12075,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -11056,7 +12083,16 @@
     "allergens": [
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b53",
@@ -11157,14 +12193,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、压泥叉、手套",
     "pairing": "配鸡蛋或牛奶，作为早餐的一部分。",
     "tokenAmounts": true,
     "allergens": [
       "奶"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b54",
@@ -11265,7 +12310,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "烤箱、两个耐烤浅碗、蒸锅",
     "pairing": "",
@@ -11273,7 +12318,16 @@
     "allergens": [
       "蛋",
       "奶"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b55",
@@ -11381,14 +12435,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b56",
@@ -11482,7 +12545,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、奶锅、压泥叉",
     "pairing": "",
@@ -11490,7 +12553,16 @@
     "allergens": [
       "奶",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b57",
@@ -11586,14 +12658,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "料理机、蒸锅、耐热浅碗",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "蛋"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b58",
@@ -11709,7 +12790,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、15厘米耐热模具",
     "pairing": "",
@@ -11717,7 +12798,16 @@
     "allergens": [
       "蛋",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "b59",
@@ -11825,7 +12915,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、两个耐热浅碗",
     "pairing": "",
@@ -11833,7 +12923,16 @@
     "allergens": [
       "蛋",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b60",
@@ -11934,14 +13033,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、四个耐热浅杯",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "奶"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b61",
@@ -12047,7 +13155,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -12056,7 +13164,16 @@
       "蛋",
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b62",
@@ -12152,14 +13269,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "蛋"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b63",
@@ -12272,7 +13398,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -12281,7 +13407,16 @@
       "蛋",
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b64",
@@ -12385,7 +13520,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "烤箱、烤盘",
     "pairing": "",
@@ -12393,7 +13528,16 @@
     "allergens": [
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b65",
@@ -12506,7 +13650,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "烤箱、四连耐烤杯模",
     "pairing": "",
@@ -12515,7 +13659,16 @@
       "蛋",
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b66",
@@ -12627,7 +13780,7 @@
         "status": "已核查平台智能文稿中的西多士部分，未完整观看视频；用量为家庭改编。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -12637,7 +13790,16 @@
       "奶",
       "小麦",
       "花生"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b67",
@@ -12755,7 +13917,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -12764,7 +13926,16 @@
       "蛋",
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b68",
@@ -12870,7 +14041,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、不粘锅",
     "pairing": "",
@@ -12878,7 +14049,16 @@
     "allergens": [
       "蛋",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b69",
@@ -12991,14 +14171,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "蛋"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b70",
@@ -13104,7 +14293,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -13112,7 +14301,16 @@
     "allergens": [
       "蛋",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b71",
@@ -13226,7 +14424,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、小煮锅",
     "pairing": "",
@@ -13235,7 +14433,16 @@
       "大豆",
       "小麦",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b72",
@@ -13348,7 +14555,7 @@
         "status": "已核查账号署名与平台智能文稿；参考早餐搭配思路和绿豆沙牛乳，未完整观看视频。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "煮锅、压泥勺、不粘锅",
     "pairing": "",
@@ -13356,7 +14563,16 @@
     "allergens": [
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b73",
@@ -13455,7 +14671,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "小煮锅",
     "pairing": "",
@@ -13464,7 +14680,16 @@
       "奶",
       "大豆",
       "坚果"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b74",
@@ -13590,7 +14815,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、能放入锅内的平底金属盘、刮板",
     "pairing": "",
@@ -13600,7 +14825,16 @@
       "大豆",
       "小麦",
       "甲壳类"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "b75",
@@ -13716,7 +14950,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "煮锅、不粘锅、平盘",
     "pairing": "",
@@ -13725,7 +14959,16 @@
       "蛋",
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b76",
@@ -13831,7 +15074,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、蒸锅、擀面杖",
     "pairing": "",
@@ -13839,7 +15082,16 @@
     "allergens": [
       "大豆",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "b77",
@@ -13935,12 +15187,21 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、筷子、耐热和面碗",
     "pairing": "",
     "tokenAmounts": true,
-    "allergens": []
+    "allergens": [],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "b78",
@@ -14029,14 +15290,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "蛋"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b79",
@@ -14142,7 +15412,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "烤箱、两个耐烤浅碗",
     "pairing": "",
@@ -14151,7 +15421,16 @@
       "蛋",
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "b80",
@@ -14269,7 +15548,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "不粘平底锅、锅铲、厨房秤",
     "pairing": "",
@@ -14277,7 +15556,16 @@
     "allergens": [
       "奶",
       "小麦"
-    ]
+    ],
+    "cuisine": "早餐",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d61",
@@ -14378,7 +15666,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -14386,7 +15674,16 @@
     "allergens": [
       "奶",
       "甲壳类"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d62",
@@ -14504,7 +15801,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、浅盘、小炒锅",
     "pairing": "",
@@ -14512,7 +15809,16 @@
     "allergens": [
       "大豆",
       "甲壳类"
-    ]
+    ],
+    "cuisine": "粤菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d63",
@@ -14628,14 +15934,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、耐热浅盘",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "粤菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d64",
@@ -14751,7 +16066,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、两个浅碗",
     "pairing": "",
@@ -14760,7 +16075,16 @@
       "蛋",
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d65",
@@ -14876,7 +16200,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、浅盘",
     "pairing": "",
@@ -14884,7 +16208,16 @@
     "allergens": [
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d66",
@@ -15005,14 +16338,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d67",
@@ -15130,7 +16472,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、耐热浅盘",
     "pairing": "",
@@ -15138,7 +16480,16 @@
     "allergens": [
       "大豆",
       "贝类"
-    ]
+    ],
+    "cuisine": "粤菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d68",
@@ -15254,7 +16605,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -15262,7 +16613,16 @@
     "allergens": [
       "大豆",
       "贝类"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d69",
@@ -15373,7 +16733,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、不粘平底锅",
     "pairing": "",
@@ -15381,7 +16741,16 @@
     "allergens": [
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d70",
@@ -15502,14 +16871,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、不粘锅",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "东北风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d71",
@@ -15620,14 +16998,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "坚果"
-    ]
+    ],
+    "cuisine": "东北风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d72",
@@ -15743,7 +17130,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -15752,7 +17139,16 @@
       "蛋",
       "大豆",
       "贝类"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d73",
@@ -15878,14 +17274,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "川菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d74",
@@ -16001,14 +17406,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "带盖煮锅",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "东北风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d75",
@@ -16124,7 +17538,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "煮锅、熟食刀板、两把叉子",
     "pairing": "",
@@ -16132,7 +17546,16 @@
     "allergens": [
       "大豆",
       "芝麻"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d76",
@@ -16243,12 +17666,21 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "带盖煮锅",
     "pairing": "",
     "tokenAmounts": true,
-    "allergens": []
+    "allergens": [],
+    "cuisine": "粤菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d77",
@@ -16359,7 +17791,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -16367,7 +17799,16 @@
     "allergens": [
       "蛋",
       "大豆"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d78",
@@ -16494,7 +17935,7 @@
         "status": "已核查视频标题、简介食材表，未完整观看；步骤和克数为家庭改编。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -16502,7 +17943,16 @@
     "allergens": [
       "奶",
       "大豆"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d79",
@@ -16608,7 +18058,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -16616,7 +18066,16 @@
     "allergens": [
       "蛋",
       "大豆"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d80",
@@ -16742,14 +18201,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d81",
@@ -16820,53 +18288,88 @@
     ],
     "steps": [
       {
+        "title": "称料并分装",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "称好{{带皮五花肉}}、{{姜}}、{{大葱}}、{{冰糖}}和{{食用油}}，备{{八角}}。把{{生抽}}、{{老抽}}、{{料酒}}倒入小碗混匀。另备焯水用冷水，后面入菜的{{开水}}单独准备。",
+        "check": "调味汁与焯水分开；本配方不另放盐，也不需要炒糖色。"
+      },
+      {
         "title": "切肉与香料",
         "heat": "不开火",
         "seconds": 0,
-        "text": "五花肉检查无残毛，切约2.5厘米方块；姜切片，葱切段。",
-        "check": "不使用4～5厘米大块套用本时间。"
+        "text": "五花肉检查无残毛，吸去表面水，用生肉刀板切成约2.5厘米方块。姜切约2毫米薄片，葱切约4厘米段，姜分两份。接触生肉后洗手和器具。",
+        "check": "肉块大小相近；不要把4～5厘米大块套用同样炖煮时间。"
       },
       {
-        "title": "焯去浮沫",
+        "title": "冷水下锅焯肉",
+        "heat": "中火",
+        "seconds": 0,
+        "text": "肉块放入锅中，倒入冷水至高出肉面约2厘米，放入一半姜。开中火加热，不盖锅盖。水沸腾后再开始下一步计时。",
+        "check": "肉块全部浸在水中；锅有足够空间，不装满至锅沿。"
+      },
+      {
+        "title": "撇沫并沥干",
         "heat": "中火",
         "seconds": 300,
-        "text": "肉块冷水入锅，水没过肉，加入一半姜；煮开后撇沫，再煮5分钟，捞出沥干。",
-        "check": "表面浮沫洗净，焯水倒掉。"
+        "text": "沸腾后用勺子撇去灰白浮沫，保持轻微翻滚5分钟。漏勺捞肉，如表面仍有浮沫，用少量温水冲净；焯水和这部分姜倒掉。肉沥水后用厨房纸吸干。",
+        "check": "表面无明显浮沫和水珠；充分沥干可减少下锅溅油。"
       },
       {
-        "title": "煎出香气",
+        "title": "煎肉第一面",
         "heat": "中小火",
-        "seconds": 360,
-        "text": "锅放{{食用油}}，肉块摊开慢煎6分钟，轮流翻面；明显多余油脂可舀出。",
-        "check": "边缘浅黄，不烧成黑壳。"
+        "seconds": 180,
+        "text": "擦干锅，加入{{食用油}}润底，肉块单层摆入，留一点间隙。中小火煎约3分钟，先不要反复翻动。锅小就分批煎。",
+        "check": "贴锅的一面浅黄、能轻推移动；粘住时稍等，不用铲子硬撬。"
       },
       {
-        "title": "直接调味",
+        "title": "翻面煸出油",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "用锅铲翻动肉块，再煎约3分钟，让几个侧面略上色。锅底若积很多油，关小火后用勺子舀出部分，保留薄油润锅。",
+        "check": "边缘浅黄、肥肉略透明，不煎出黑色硬壳；不要倒热锅甩油。"
+      },
+      {
+        "title": "炒香并加调味汁",
         "heat": "小火",
         "seconds": 60,
-        "text": "放余下姜、葱、八角，加{{生抽}}、{{老抽}}与{{料酒}}翻匀1分钟。",
-        "check": "不要求新手炒糖色，酱油不能熬焦。"
+        "text": "转小火，放余下姜、葱和八角翻动约20秒；沿锅边缓慢倒入调好的汁，再翻匀约40秒。若锅底开始发干，提前进入下一步加水。",
+        "check": "香料有香气，酱汁裹住肉，不把酱油熬成焦黑黏块。"
       },
       {
-        "title": "加水冰糖炖煮",
+        "title": "加热水和冰糖",
+        "heat": "中火",
+        "seconds": 0,
+        "text": "缓慢倒入备好的{{开水}}，加入{{冰糖}}，轻推使糖浸入汤中。液面应基本没过肉；宽锅不够时少量补开水，记录实际补水量。烧开后再转下一步。",
+        "check": "糖逐渐融化，液体沸腾；热水小心沿锅边倒，避开蒸汽。"
+      },
+      {
+        "title": "加盖小火炖",
         "heat": "小火",
         "seconds": 3600,
-        "text": "倒入{{开水}}及{{冰糖}}，液面基本没过肉；烧开盖盖转小火轻沸60分钟，每20分钟翻动检查一次。",
-        "check": "锅底始终有汤；水不足补开水。"
+        "text": "盖盖并转小火，从汤重新轻沸开始计时约60分钟。每20分钟揭盖一次，从底部轻翻肉块，确认锅底有汤；揭盖时避开热蒸汽。水位明显下降则补开水至基本没过肉。",
+        "check": "汤面间歇冒小泡，不剧烈翻滚，也不完全静止；不能烧干。"
       },
       {
-        "title": "检查软烂",
+        "title": "判断是否软烂",
         "heat": "小火",
         "seconds": 0,
-        "text": "用筷子扎肉皮和瘦肉，能较轻松穿透才继续收汁；仍韧就加盖再炖15～20分钟。",
-        "check": "熟透不等于软烂，以肉皮软度为准。"
+        "text": "取一块较大的肉，用干净筷子分别扎肉皮和瘦肉，能较轻松穿透才收汁。肉皮仍韧就检查水量，加盖再炖15～20分钟后复查。",
+        "check": "熟透不等于软烂；以最厚肉块和肉皮的阻力为准，不凭固定时间强行出锅。"
       },
       {
-        "title": "收汁",
+        "title": "开盖收汁",
         "heat": "中火",
         "seconds": 300,
-        "text": "开盖收汁约3～5分钟，翻动防糊，汁能挂住肉就关火，挑出八角葱姜。",
-        "check": "保留薄汁，不收干成焦糖；本配方不另加盐。"
+        "text": "肉软后开盖，挑出八角和葱姜。中火收汁约3～5分钟，每20～30秒从底部轻翻一次；若汤仍很多就继续观察，变稠后调小火。",
+        "check": "酱汁能薄薄挂住肉，锅底仍有流动汤汁；不收成干黏焦糖。"
+      },
+      {
+        "title": "装盘与补救",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "关火后用干净餐具装盘。若汁过稠但没焦，先关火，沿锅边少量加入开水，再小火搅匀；若已发黑发苦，不刮锅底焦层混入菜中。",
+        "check": "肉块软而完整，汁有光泽；轻放几分钟再入口，避免烫口。"
       }
     ],
     "tips": [
@@ -16888,7 +18391,7 @@
         "status": "已核查官方简介中的焯、煎、炖技法；本版不加鱿鱼与腐乳，克数独立量化。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "带盖炖锅、漏勺",
     "pairing": "",
@@ -16899,7 +18402,16 @@
     "aliases": [
       "红烧五花肉",
       "五花肉红烧"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d82",
@@ -17021,7 +18533,7 @@
         "status": "已核查作者、标题与川菜标签，未完整观看；详细步骤参考另列图文并独立量化。"
       }
     ],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -17032,7 +18544,16 @@
     "aliases": [
       "回锅肉",
       "川菜"
-    ]
+    ],
+    "cuisine": "川菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   },
   {
     "id": "d83",
@@ -17143,14 +18664,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "大豆"
-    ]
+    ],
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d84",
@@ -17251,14 +18781,23 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "蒸锅、鱼盘、隔热夹、小油锅",
     "pairing": "",
     "tokenAmounts": true,
     "allergens": [
       "鱼"
-    ]
+    ],
+    "cuisine": "粤菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
   },
   {
     "id": "d85",
@@ -17379,7 +18918,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -17392,7 +18931,16 @@
     "aliases": [
       "鲁菜",
       "山东菜"
-    ]
+    ],
+    "cuisine": "鲁菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 3,
+    "difficultyReason": "需要成形、上浆、快速炒制或多道工序，建议先看完整做法。"
   },
   {
     "id": "d86",
@@ -17518,7 +19066,7 @@
       }
     ],
     "videos": [],
-    "editorial": "参考公开资料后的家庭量化改编；新增配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
+    "editorial": "参考公开资料后的家庭量化改编；配方未逐道试做。时间是单批参考，请结合厚度与熟透标志检查。",
     "edition": "0.2.0",
     "equipment": "炒锅、锅铲、厨房秤",
     "pairing": "",
@@ -17531,6 +19079,1208 @@
       "独面筋",
       "津菜",
       "天津菜"
-    ]
+    ],
+    "cuisine": "津菜",
+    "cuisineNote": "家庭改编；菜系用于风味浏览，不代表唯一产地。",
+    "review": {
+      "editorial": "needs-detail-review",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d88",
+    "name": "辣椒炒肉",
+    "category": "家常菜",
+    "group": "肉类小炒",
+    "cuisine": "湘菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 30,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": true,
+    "ingredients": [
+      {
+        "name": "猪瘦肉",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "螺丝椒",
+        "amount": 200.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "大蒜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "豆豉",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "蚝油",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "先切辣椒",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "螺丝椒洗净沥干，去蒂，纵切开后斜切成约3厘米块。蒜切片，姜切细丝；处理辣椒后洗手，避免揉眼。",
+        "check": "辣椒表面不滴水，香料已备好。"
+      },
+      {
+        "title": "切薄肉片",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "猪瘦肉去筋膜，切约2毫米薄片，放独立生肉碗。清洁接触生肉的刀板和手。",
+        "check": "肉片厚度均匀，不能切成厚肉块。"
+      },
+      {
+        "title": "腌肉",
+        "heat": "不开火",
+        "seconds": 600,
+        "text": "肉中加入{{生抽@0.5}}及{{蚝油}}，抓拌约半分钟，冷藏腌10分钟。剩余生抽放旁边待用。",
+        "check": "调味液附着肉片，没有把全部生抽重复加入。"
+      },
+      {
+        "title": "干煸辣椒",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "不粘锅不加油，放辣椒，中火翻动约3分钟，间或用铲背轻压。",
+        "check": "椒皮出现少量浅褐斑、稍变软，不等到整片焦黑。"
+      },
+      {
+        "title": "放盐盛椒",
+        "heat": "中火",
+        "seconds": 30,
+        "text": "撒入{{盐}}，翻匀约30秒，盛出。锅底若有焦黑碎屑，关火擦净再继续。",
+        "check": "辣椒有干香，盘中没有很多水。"
+      },
+      {
+        "title": "炒姜蒜豆豉",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "锅放{{食用油}}，加入姜、蒜与{{豆豉}}炒约30秒。",
+        "check": "蒜片微黄但不发黑，油不冒烟。"
+      },
+      {
+        "title": "炒散肉片",
+        "heat": "中大火",
+        "seconds": 150,
+        "text": "放肉片，迅速铺散，用铲子不断翻开重叠处，炒约2～3分钟。锅小或人数多时分批炒。",
+        "check": "肉片全部变色、无粘团；此时仍需下一步继续加热。"
+      },
+      {
+        "title": "合炒与调味",
+        "heat": "中大火",
+        "seconds": 90,
+        "text": "倒回辣椒，沿锅边加剩余{{生抽@0.5}}，翻炒约1～1分半。",
+        "check": "辣椒热透，酱汁附着而不积成汤。"
+      },
+      {
+        "title": "检查出锅",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "检查最厚肉片中心达到75℃，未熟则回锅继续加热；确认后立即盛出，避免在热锅里久焖变柴。",
+        "check": "使用干净餐盘，不把熟菜装回生肉碗。"
+      }
+    ],
+    "tips": [
+      "螺丝椒辣度有差异；换甜椒可降低辣度，但风味也会变化。"
+    ],
+    "sources": [
+      {
+        "title": "HowToCook · 辣椒炒肉",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/辣椒炒肉.md",
+        "kind": "technique",
+        "path": "dishes/meat_dish/辣椒炒肉.md",
+        "sha256": "6e0c3bd54347f4de4aad4b08bb6e394b8409691ed20bb8caf6d77d2ee649202e",
+        "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "炒锅、不粘锅、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "大豆",
+      "小麦",
+      "贝类"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d91",
+    "name": "糖醋里脊（香煎版）",
+    "category": "家常菜",
+    "group": "煎烧",
+    "cuisine": "家常风味",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 40,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "番茄酱",
+        "amount": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "米醋",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 15.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "清水",
+        "amount": 60.0,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 20.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切细肉条",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "里脊去筋，切约5厘米长、8毫米粗的条。清洁生肉刀板后再处理其他材料。",
+        "check": "粗细接近，不使用手指粗的大条套用时间。"
+      },
+      {
+        "title": "腌入底味",
+        "heat": "不开火",
+        "seconds": 600,
+        "text": "肉条拌{{盐}}、{{生抽}}和{{清水@0.166667}}，冷藏腌10分钟。",
+        "check": "调味水被吸收，碗底没有大量水。"
+      },
+      {
+        "title": "调糖醋汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "另碗混合{{番茄酱}}、{{米醋}}、{{白糖}}与余下{{清水@0.833333}}，搅开糖。",
+        "check": "酱汁提前准备，不在煎肉时临时找调料。"
+      },
+      {
+        "title": "薄裹淀粉",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{玉米淀粉}}铺盘，肉条逐根裹粉并抖掉多余粉，放置约2分钟。",
+        "check": "粉层贴在肉上，不裹成干粉大团。"
+      },
+      {
+        "title": "预热下肉",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "不粘锅放{{食用油}}预热约30秒，肉条一根根放入，留间隙。锅小分两批，油也按批分。",
+        "check": "油不冒烟，肉条不粘成团。"
+      },
+      {
+        "title": "煎第一面",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "保持中小火煎约3分钟，先不频繁拨动，底面定形后再翻。",
+        "check": "底面浅金色；上色太快应减火。"
+      },
+      {
+        "title": "翻面煎熟",
+        "heat": "中小火",
+        "seconds": 240,
+        "text": "翻面再煎约3分钟，并用夹子将侧面贴锅，各煎片刻；检查最厚肉条中心达到75℃。",
+        "check": "没有生肉芯；未达标时继续小火煎，不能只看外壳金黄。"
+      },
+      {
+        "title": "盛出煮汁",
+        "heat": "小火",
+        "seconds": 90,
+        "text": "熟肉盛出，倒出锅内明显多余油，留薄油；倒入糖醋汁，小火搅至冒泡，再煮约1分钟。",
+        "check": "汁能薄挂锅铲，不熬成干糖块。"
+      },
+      {
+        "title": "拌匀装盘",
+        "heat": "中火",
+        "seconds": 30,
+        "text": "肉条回锅，翻匀约20～30秒让汁包住表面，立即关火盛出。",
+        "check": "每条裹汁，没有长时间浸煮导致粉皮脱落。"
+      }
+    ],
+    "tips": [
+      "这是香煎家庭版，口感不同于餐厅复炸版；不将其宣传为传统鲁菜标准做法。"
+    ],
+    "sources": [
+      {
+        "title": "HowToCook · 糖醋里脊",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/糖醋里脊.md",
+        "kind": "technique",
+        "path": "dishes/meat_dish/糖醋里脊.md",
+        "sha256": "7a5ddfe316c1cb94dc811ad9efdfdfe296f3c8d14cee534671f821a60d6d6dcd",
+        "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "炒锅、不粘锅、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d92",
+    "name": "油焖大虾",
+    "category": "家常菜",
+    "group": "焖炖",
+    "cuisine": "鲁菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 30,
+    "prepMinutes": 0,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "带壳大虾",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 15.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "清水",
+        "amount": 100.0,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 15.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "剪虾",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "大虾完全解冻，用剪刀剪去虾须和尖硬虾枪。沿背壳剪开浅口，挑去虾线，清理后沥水。",
+        "check": "保留虾壳，不把背肉剪断；清洁接触生虾的器具。"
+      },
+      {
+        "title": "吸干表面",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "用厨房纸吸干虾壳、腹部和剪口的水；葱切段、姜切细丝。",
+        "check": "虾表面不滴水，减少煎时溅油。"
+      },
+      {
+        "title": "调焖汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "小碗混合{{料酒}}、{{白糖}}、{{盐}}和{{清水}}。",
+        "check": "糖盐搅散，不需要另加酱油。"
+      },
+      {
+        "title": "煸葱香",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "锅放{{食用油}}，放葱段煸约1分钟，葱边微黄时夹出备用。",
+        "check": "油有葱香而不变黑，锅底没有焦葱。"
+      },
+      {
+        "title": "煎虾一面",
+        "heat": "中火",
+        "seconds": 90,
+        "text": "虾单层排入锅，煎约1～1分半。锅小分批，不堆叠。",
+        "check": "贴锅侧虾壳变红，不能凭壳变红就判断肉已熟。"
+      },
+      {
+        "title": "翻面放姜",
+        "heat": "中火",
+        "seconds": 90,
+        "text": "逐只翻面，加入姜丝，再煎约1～1分半。",
+        "check": "另一面壳变红、虾身逐渐弯曲。"
+      },
+      {
+        "title": "加汁焖透",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "倒入调好的汁，放回葱段，烧开后加盖，中小火焖约3分钟。",
+        "check": "锅内有轻沸声，始终有汤汁；过干时少量补热水。"
+      },
+      {
+        "title": "检查虾肉",
+        "heat": "小火",
+        "seconds": 0,
+        "text": "取最大一只，检查最厚处虾肉完全不透明，温度计中心达到63℃；未达标则继续加热后复查。",
+        "check": "虾背内部没有透明生肉，不能只看虾弯曲程度。"
+      },
+      {
+        "title": "收汁出锅",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "开盖轻翻，收约30～60秒，酱汁挂壳即关火；保留少量薄汁。",
+        "check": "汤汁不烧干、不发苦；挑出葱段，吃时去壳。"
+      }
+    ],
+    "tips": [
+      "将葱油制作简化为少量油煸葱，并量化焖汁；虾大小会改变熟透时间。"
+    ],
+    "sources": [
+      {
+        "title": "HowToCook · 油焖大虾",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/油焖大虾/油焖大虾.md",
+        "kind": "technique",
+        "path": "dishes/aquatic/油焖大虾/油焖大虾.md",
+        "sha256": "e1deea63a53b4b85e538181f4b8e760604fdbe08b4285e36636413e5444a4d33",
+        "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "炒锅、不粘锅、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "甲壳类"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d93",
+    "name": "白灼菜心",
+    "category": "家常菜",
+    "group": "白灼",
+    "cuisine": "粤菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 18,
+    "prepMinutes": 0,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "菜心",
+        "amount": 300.0,
+        "unit": "g"
+      },
+      {
+        "name": "大蒜",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "蚝油",
+        "amount": 5.0,
+        "unit": "g"
+      },
+      {
+        "name": "白糖",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "清水",
+        "amount": 60.0,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "title": "择洗菜心",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "去掉黄叶和硬老根，流水逐棵洗净叶柄缝隙。较粗菜梗纵向剖开。",
+        "check": "梗厚尽量接近约5毫米，避免叶烂而梗仍硬。"
+      },
+      {
+        "title": "切蒜调汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "蒜切末；{{生抽}}、{{蚝油}}、{{白糖}}及{{清水}}混匀放碗中。",
+        "check": "清单这份水用于料汁，焯菜水另备。"
+      },
+      {
+        "title": "烧焯菜水",
+        "heat": "大火",
+        "seconds": 0,
+        "text": "另用煮锅加足量水，能让菜心完全浸入，烧至明显沸腾。",
+        "check": "锅不装满至锅沿，水沸后再下菜。"
+      },
+      {
+        "title": "先烫菜梗",
+        "heat": "中大火",
+        "seconds": 60,
+        "text": "用长夹子夹着菜叶端，让菜梗先浸在沸水中约1分钟。若无法安全夹稳，直接将梗叶分切后先下梗。",
+        "check": "手远离蒸汽，菜梗颜色更鲜亮。"
+      },
+      {
+        "title": "再烫全棵",
+        "heat": "中大火",
+        "seconds": 60,
+        "text": "整棵浸入水中，再煮约1分钟，夹起最粗梗检查。",
+        "check": "叶片柔软，梗可轻咬断而无明显生硬芯；太硬再煮30秒复查。"
+      },
+      {
+        "title": "沥水摆盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "用漏勺捞起，沥约半分钟，顺向摆盘。不要把焯菜水一起倒入盘中。",
+        "check": "盘底不积大量水，否则料汁会被冲淡。"
+      },
+      {
+        "title": "小火炒蒜",
+        "heat": "小火",
+        "seconds": 30,
+        "text": "另锅放{{食用油}}，蒜末炒约20～30秒，出现香味即可。",
+        "check": "蒜末浅色，不能炒焦变苦。"
+      },
+      {
+        "title": "煮汁淋菜",
+        "heat": "中火",
+        "seconds": 30,
+        "text": "倒入调好的汁，煮沸约30秒，沿菜梗位置均匀浇下。",
+        "check": "汁已煮沸、菜心仍热；生抽蚝油含盐，不另加盐。"
+      }
+    ],
+    "tips": [
+      "保留先烫梗后烫叶的顺序；焯水不加盐，咸味来自少量料汁。"
+    ],
+    "sources": [
+      {
+        "title": "HowToCook · 白灼菜心",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+        "kind": "technique",
+        "path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+        "sha256": "6bae5aad8872dd52d41c85b9ea8a9b8606db76238f7d01d8eb483f02e5a90af1",
+        "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "炒锅、不粘锅、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "大豆",
+      "小麦",
+      "贝类"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 1,
+    "difficultyReason": "操作较少，以基础切配和状态检查为主；耗时仍需单独查看。"
+  },
+  {
+    "id": "d95",
+    "name": "龙井虾仁",
+    "category": "家常菜",
+    "group": "海鲜小炒",
+    "cuisine": "浙菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 30,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "虾仁",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "龙井茶",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 5.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 50.0,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 12.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "检查虾仁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "虾仁完全解冻，挑去虾线，沥水后用厨房纸吸干。选大小接近的虾仁，接触生虾后洗手。",
+        "check": "无硬冻芯，表面没有大量水。"
+      },
+      {
+        "title": "拌匀薄浆",
+        "heat": "不开火",
+        "seconds": 600,
+        "text": "虾仁加{{盐}}与{{料酒}}抓匀，再拌{{玉米淀粉}}，冷藏静置10分钟。",
+        "check": "浆薄薄附着，不用厚面糊包住虾仁。"
+      },
+      {
+        "title": "冲泡茶叶",
+        "heat": "不开火",
+        "seconds": 60,
+        "text": "将{{龙井茶}}放入杯中，用{{清水}}烧开后略放至约85～90℃再冲入，浸泡1分钟。",
+        "check": "茶汤浅黄绿；不是浓茶，也不长时间泡到苦涩。"
+      },
+      {
+        "title": "分出茶汤",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "滤出茶汤另放小碗，可留下几片柔嫩茶叶。取出冷藏虾仁，检查没有结成一团。",
+        "check": "茶汤与虾仁都在手边，后面下锅连续操作。"
+      },
+      {
+        "title": "预热薄油",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "不粘锅加入{{食用油}}，预热约30秒，晃锅使油覆盖锅底。",
+        "check": "油能流动但不冒烟，不用高温大油锅滑炸。"
+      },
+      {
+        "title": "摊开虾仁",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "虾仁单层放入，轻轻拨散，煎炒约1分钟后翻面。",
+        "check": "虾仁逐渐从透明变白，淀粉薄膜不被用力搅碎。"
+      },
+      {
+        "title": "加茶汤",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "倒入滤出的茶汤，加入保留的嫩茶叶，轻翻并煮约1～2分钟。",
+        "check": "汁略有稠度，不能把茶叶炒焦。"
+      },
+      {
+        "title": "查熟透装盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "检查最大虾仁中心达到63℃，虾肉完全不透明；未达标则继续加热复查。确认后立刻盛盘。",
+        "check": "虾仁熟透、茶香清淡，盘底保留一点薄汁。"
+      }
+    ],
+    "tips": [
+      "使用淀粉薄浆和少量油，非餐厅滑油原配方。茶泡久会苦，虾大时延长熟度检查。"
+    ],
+    "sources": [
+      {
+        "title": "人民网 · 龙井虾仁做法",
+        "url": "https://health.people.com.cn/n/2015/0330/c14739-26768162.html",
+        "kind": "web",
+        "checked": "2026-09-25",
+        "note": "本轮读到检索摘录中的上浆、泡茶、炒虾技法；全文重开失败。家庭版不用蛋清和大量滑油，用量独立编辑；未采用健康功效宣称。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "炒锅、不粘锅、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "甲壳类"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d97",
+    "name": "徽州一品锅（家常版）",
+    "category": "家常菜",
+    "group": "焖炖",
+    "cuisine": "徽菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 90,
+    "prepMinutes": 0,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "水发笋干",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "大白菜",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "熟猪肉丸",
+        "amount": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "冷藏蛋饺",
+        "amount": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "豆腐皮",
+        "amount": 80.0,
+        "unit": "g"
+      },
+      {
+        "name": "熟鹌鹑蛋（去壳）",
+        "amount": 60.0,
+        "unit": "g"
+      },
+      {
+        "name": "金华火腿",
+        "amount": 20.0,
+        "unit": "g"
+      },
+      {
+        "name": "小青菜",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "清水",
+        "amount": 800.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "核对半成品",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "选已充分泡软、可烹调用的水发笋干；核对肉丸和蛋饺包装是否生制及加热要求。冷冻品提前冷藏解冻至无硬芯。",
+        "check": "使用清单中的水发笋干重量，不是等重干笋；生制品不能当熟食尝味。"
+      },
+      {
+        "title": "煮软笋干",
+        "heat": "中火",
+        "seconds": 600,
+        "text": "笋干切约3厘米片，另锅沸水煮约10分钟，尝试用筷子夹断，仍硬则继续煮，捞出沥水。",
+        "check": "笋纤维已软，提前煮软避免整锅完成后笋还咬不动。"
+      },
+      {
+        "title": "洗切蔬菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "白菜洗净切大片，青菜洗净另放；姜切片。豆腐皮切约4厘米片，火腿切约2毫米薄片。",
+        "check": "青菜留到最后加，避免久炖烂黄。"
+      },
+      {
+        "title": "铺锅底",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "取可加热的带盖深锅，先铺白菜、再铺笋片，摆上姜片。锅具容量至少约2升。",
+        "check": "食材不要压实，留出汤汁流通的空隙。"
+      },
+      {
+        "title": "码好上层",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "依次放豆腐皮、肉丸、蛋饺、熟鹌鹑蛋和火腿，容易破的蛋饺摆在上方。",
+        "check": "食材总量不超过锅的约三分之二，不堆到锅沿。"
+      },
+      {
+        "title": "倒水煮开",
+        "heat": "中火",
+        "seconds": 0,
+        "text": "沿锅边倒入{{清水}}，基本浸到上层食材；太宽的锅可少量补水。中火加热至持续轻沸。",
+        "check": "锅内各处受热，未沸时不要开始计算炖煮时间。"
+      },
+      {
+        "title": "文火煨透",
+        "heat": "小火",
+        "seconds": 3600,
+        "text": "盖盖转小火轻沸约60分钟，每20分钟查看一次汤量，必要时补开水。半成品包装要求更长时取更长时间。",
+        "check": "汤轻轻冒泡而不猛烈翻滚，蛋饺不被冲破。"
+      },
+      {
+        "title": "加青菜调味",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "加入青菜轻压浸入汤中，煮约3分钟。尝一小勺放凉的汤，按咸度逐步加入清单{{盐}}，火腿咸时可不加完。",
+        "check": "青菜梗变软，盐是本配方上限，不要求全部加入。"
+      },
+      {
+        "title": "检查中心",
+        "heat": "小火",
+        "seconds": 0,
+        "text": "检查最大肉丸和最厚蛋饺馅心达到75℃，未达到就继续加热再查。夹出检查时用干净餐具。",
+        "check": "不能只看汤沸或蛋皮熟就判定馅心熟。"
+      },
+      {
+        "title": "端锅上桌",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "关火，用隔热手套端到稳固隔热垫上，再分碗。汤和鹌鹑蛋内部很烫，稍放后食用。",
+        "check": "锅具不直接接触怕热台面，端锅路线无障碍。"
+      }
+    ],
+    "tips": [
+      "保留分层码放和文火煨制；采用已泡发笋干，不包含干笋泡发时间。不是传统宴席一品锅的完整配料。"
+    ],
+    "sources": [
+      {
+        "title": "黄山市文化和旅游局 · 徽府一品锅",
+        "url": "https://www.huangshan.gov.cn/site/tpl/4636?id=19735&type=food",
+        "kind": "web",
+        "checked": "2026-09-25",
+        "note": "已阅读官方食材与层叠文火煨制流程；本家庭版减少内脏等配料，改用清水与易购买的半成品，非完整宴席配方。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "至少2升带盖深锅、漏勺、隔热手套、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "蛋",
+      "大豆"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d98",
+    "name": "虾仁烩干丝",
+    "category": "家常菜",
+    "group": "煮菜",
+    "cuisine": "苏菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 25,
+    "prepMinutes": 0,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "原味豆腐干丝",
+        "amount": 200.0,
+        "unit": "g"
+      },
+      {
+        "name": "虾仁",
+        "amount": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "鲜香菇",
+        "amount": 60.0,
+        "unit": "g"
+      },
+      {
+        "name": "小青菜",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 5.0,
+        "unit": "g"
+      },
+      {
+        "name": "清水",
+        "amount": 650.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 5.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备干丝",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "选择已切好的原味豆腐干丝，不用咸味即食辣条；用清水轻冲分散。香菇切薄片，姜切丝，青菜洗净。",
+        "check": "使用现成干丝省去薄片刀工，干丝没有异味。"
+      },
+      {
+        "title": "清理虾仁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "虾仁完全解冻，去虾线，沥水放独立小碗。处理后洗手并清洁器具。",
+        "check": "无硬冻芯，大小尽量接近。"
+      },
+      {
+        "title": "焯软干丝",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "另锅水煮沸，放干丝轻煮约2分钟，捞起沥水。",
+        "check": "干丝柔软散开，不用力搅成碎屑。"
+      },
+      {
+        "title": "炒香汤料",
+        "heat": "中小火",
+        "seconds": 90,
+        "text": "汤锅放{{食用油}}，姜丝炒约20秒，香菇片再炒约1分钟。",
+        "check": "香菇变软，有香味而不焦。"
+      },
+      {
+        "title": "煮干丝汤",
+        "heat": "中火",
+        "seconds": 480,
+        "text": "加入{{清水}}烧开，放干丝，保持轻沸约8分钟，间或从底部轻推。",
+        "check": "干丝热透、吸入汤味，锅底不粘。"
+      },
+      {
+        "title": "下虾青菜",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "放虾仁和青菜，轻沸煮约3分钟，检查最大虾仁中心达到63℃；未达标继续煮后复查。",
+        "check": "虾肉完全不透明，青菜梗变软。"
+      },
+      {
+        "title": "调味盛碗",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "加{{盐}}轻轻拌匀，连汤盛出；若所购干丝本身含盐，可先加一半，尝放凉的小勺汤后决定余量。",
+        "check": "汤与干丝一同食用，不收干汁。"
+      }
+    ],
+    "tips": [
+      "以现成干丝降低切配难度；保留烫软、汤煮方法，不宣称为传统大煮干丝。"
+    ],
+    "sources": [
+      {
+        "title": "央视网 · 大煮干丝的原料与烫煮技法",
+        "url": "https://people.cctv.com/2025/02/05/ARTI6kBo6lCxvY0WsDrfJCze250205.shtml",
+        "kind": "web",
+        "checked": "2026-09-25",
+        "note": "已阅读干丝烫软后与虾仁、香菇入汤的介绍；本家庭菜使用现成干丝和清水，不等同于传统大煮干丝的高汤、刀工及配料。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "汤锅、漏勺、厨房秤、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "大豆",
+      "甲壳类"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
+  },
+  {
+    "id": "d99",
+    "name": "海蛎煎",
+    "category": "家常菜",
+    "group": "煎烧",
+    "cuisine": "闽菜",
+    "cuisineNote": "家庭改编；按常见风味归类，不表示唯一产地或传统标准配方。",
+    "minutes": 25,
+    "prepMinutes": 0,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "ingredients": [
+      {
+        "name": "小海蛎肉",
+        "amount": 180.0,
+        "unit": "g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2.0,
+        "unit": "个"
+      },
+      {
+        "name": "小葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "红薯淀粉",
+        "amount": 15.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "料酒",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "洗净挑壳",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "选冷藏新鲜小海蛎肉，轻轻冲洗，逐个检查碎壳后沥干。大颗生蚝不适用同样时间。",
+        "check": "没有碎壳和明显泥沙，清洁处理生海蛎的器具。"
+      },
+      {
+        "title": "拌薄浆",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "海蛎加{{生抽}}、{{料酒}}、{{红薯淀粉}}和{{清水}}轻拌。",
+        "check": "薄浆能附着海蛎，不用手大力揉碎。"
+      },
+      {
+        "title": "打蛋切葱",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "鸡蛋打散，加{{盐}}搅匀；小葱切细末备用。",
+        "check": "蛋白搅散，葱末不混入生海蛎碗后直接当生配料。"
+      },
+      {
+        "title": "先煎海蛎",
+        "heat": "中小火",
+        "seconds": 240,
+        "text": "20～22厘米不粘锅放{{食用油}}，倒入海蛎并铺散成单层。中小火煎约2分钟，轻翻后再煎约2分钟。",
+        "check": "海蛎开始不透明，粉浆凝固；不堆成厚层。"
+      },
+      {
+        "title": "倒入蛋液",
+        "heat": "小火",
+        "seconds": 120,
+        "text": "均匀倒入蛋液、撒葱末，轻转锅让蛋液填满空隙，小火煎约2分钟。",
+        "check": "蛋液边缘定形，底面浅黄；若上色太快，调小火。"
+      },
+      {
+        "title": "分块翻熟",
+        "heat": "小火",
+        "seconds": 180,
+        "text": "不用整张颠锅：用锅铲分成四块，逐块托起翻面，再煎约2～3分钟。",
+        "check": "每块都翻到，蛋液不流动，海蛎中心不透明。"
+      },
+      {
+        "title": "检查中心",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "食品温度计检查最厚海蛎和蛋层中心达到75℃；不足则继续小火加热复查。确认熟透后盛盘。",
+        "check": "不可为了嫩而留下生海蛎或流动蛋液，刚出锅内部很烫。"
+      }
+    ],
+    "tips": [
+      "使用小海蛎，分块翻面即可，不追求完整大饼；这是家庭做法，非标准化餐厅配方。"
+    ],
+    "sources": [
+      {
+        "title": "福建省商务厅 · 厦门海蛎煎",
+        "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202309/t20230928_6267113.htm",
+        "kind": "web",
+        "checked": "2026-09-25",
+        "note": "已阅读公开做法中的清洗、红薯粉拌海蛎、先煎后加蛋流程；用量为家庭量化，采用分块翻面降低操作难度。"
+      }
+    ],
+    "videos": [],
+    "editorial": "家庭量化配方，尚未逐道厨房试做。时间为参考，以状态与熟透检查为准。",
+    "edition": "0.3.0",
+    "tokenAmounts": true,
+    "equipment": "20～22厘米不粘锅、宽铲、厨房秤、食品温度计",
+    "pairing": "配米饭及一道清淡蔬菜；本菜为两人份配菜。",
+    "allergens": [
+      "蛋",
+      "大豆",
+      "小麦",
+      "贝类"
+    ],
+    "review": {
+      "editorial": "detailed-draft",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "difficulty": 2,
+    "difficultyReason": "需要分次下料、翻面或控制汁量，先备齐材料会更从容。"
   }
 ]

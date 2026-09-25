@@ -1,0 +1,103 @@
+{
+  "total": 174,
+  "cuisines": {
+    "家常风味": 71,
+    "川菜": 6,
+    "早餐": 80,
+    "粤菜": 6,
+    "东北风味": 3,
+    "鲁菜": 2,
+    "津菜": 1,
+    "湘菜": 1,
+    "浙菜": 1,
+    "徽菜": 1,
+    "苏菜": 1,
+    "闽菜": 1
+  },
+  "stepCounts": {
+    "4": 54,
+    "5": 37,
+    "3": 15,
+    "6": 58,
+    "10": 2,
+    "12": 1,
+    "9": 3,
+    "8": 2,
+    "7": 2
+  },
+  "detailedDrafts": [
+    "香蕉厚蛋烧",
+    "红烧肉",
+    "辣椒炒肉",
+    "糖醋里脊（香煎版）",
+    "油焖大虾",
+    "白灼菜心",
+    "龙井虾仁",
+    "徽州一品锅（家常版）",
+    "虾仁烩干丝",
+    "海蛎煎"
+  ],
+  "kitchenTested": 0,
+  "sources": [
+    {
+      "title": "HowToCook · 辣椒炒肉",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/辣椒炒肉.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/辣椒炒肉.md",
+      "sha256": "6e0c3bd54347f4de4aad4b08bb6e394b8409691ed20bb8caf6d77d2ee649202e",
+      "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+    },
+    {
+      "title": "HowToCook · 糖醋里脊",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/糖醋里脊.md",
+      "kind": "technique",
+      "path": "dishes/meat_dish/糖醋里脊.md",
+      "sha256": "7a5ddfe316c1cb94dc811ad9efdfdfe296f3c8d14cee534671f821a60d6d6dcd",
+      "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+    },
+    {
+      "title": "HowToCook · 油焖大虾",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/油焖大虾/油焖大虾.md",
+      "kind": "technique",
+      "path": "dishes/aquatic/油焖大虾/油焖大虾.md",
+      "sha256": "e1deea63a53b4b85e538181f4b8e760604fdbe08b4285e36636413e5444a4d33",
+      "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+    },
+    {
+      "title": "HowToCook · 白灼菜心",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+      "kind": "technique",
+      "path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+      "sha256": "6bae5aad8872dd52d41c85b9ea8a9b8606db76238f7d01d8eb483f02e5a90af1",
+      "note": "已阅读固定版本图文；参考技法，用量与操作为家庭改编，非原文照搬。"
+    },
+    {
+      "title": "人民网 · 龙井虾仁做法",
+      "url": "https://health.people.com.cn/n/2015/0330/c14739-26768162.html",
+      "kind": "web",
+      "checked": "2026-09-25",
+      "note": "本轮读到检索摘录中的上浆、泡茶、炒虾技法；全文重开失败。家庭版不用蛋清和大量滑油，用量独立编辑；未采用健康功效宣称。"
+    },
+    {
+      "title": "黄山市文化和旅游局 · 徽府一品锅",
+      "url": "https://www.huangshan.gov.cn/site/tpl/4636?id=19735&type=food",
+      "kind": "web",
+      "checked": "2026-09-25",
+      "note": "已阅读官方食材与层叠文火煨制流程；本家庭版减少内脏等配料，改用清水与易购买的半成品，非完整宴席配方。"
+    },
+    {
+      "title": "央视网 · 大煮干丝的原料与烫煮技法",
+      "url": "https://people.cctv.com/2025/02/05/ARTI6kBo6lCxvY0WsDrfJCze250205.shtml",
+      "kind": "web",
+      "checked": "2026-09-25",
+      "note": "已阅读干丝烫软后与虾仁、香菇入汤的介绍；本家庭菜使用现成干丝和清水，不等同于传统大煮干丝的高汤、刀工及配料。"
+    },
+    {
+      "title": "福建省商务厅 · 厦门海蛎煎",
+      "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202309/t20230928_6267113.htm",
+      "kind": "web",
+      "checked": "2026-09-25",
+      "note": "已阅读公开做法中的清洗、红薯粉拌海蛎、先煎后加蛋流程；用量为家庭量化，采用分块翻面降低操作难度。"
+    }
+  ]
+}

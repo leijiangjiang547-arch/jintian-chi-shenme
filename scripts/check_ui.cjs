@@ -15,13 +15,22 @@ const click=s=>{assert.ok(d.querySelector(s),s);d.querySelector(s).click();};
 const input=(s,value,type='input')=>{const e=d.querySelector(s);if(typeof value==='boolean')e.checked=value;else e.value=value;e.dispatchEvent(new w.Event(type,{bubbles:true}));};
 const page=name=>{w.history.replaceState(null,'','#'+name);w.dispatchEvent(new w.HashChangeEvent('hashchange'));};
 try {
- assert.match(d.querySelector('#main').textContent,/166 道/);
- page('recipes');assert.equal(d.querySelectorAll('.recipe-card').length,166);
+ assert.match(d.querySelector('#main').textContent,/174 道/);
+ page('recipes');assert.equal(d.querySelectorAll('.recipe-card').length,174);
+ assert.doesNotMatch(d.querySelector('#main').textContent,/新增|验收版|新 ·/);
+ click('[data-difficulty="3"]');input('#cuisine','湘菜','change');
+ assert.equal(d.querySelectorAll('.recipe-card').length,0);click('[data-difficulty="2"]');assert.ok(d.querySelector('[data-open="d88"]'),'everyday Hunan dish');
+ assert.equal(d.querySelectorAll('.recipe-card').length,1);
+ click('[data-reset-filters]');assert.equal(d.querySelectorAll('.recipe-card').length,174);
+ input('#cuisine','鲁菜','change');assert.equal(d.querySelectorAll('.recipe-card').length,2);
+ click('[data-category="早餐"]');assert.equal(d.querySelector('#cuisine'),null);
+ assert.equal(d.querySelectorAll('.recipe-card').length,80);
+ click('[data-category=""]');
  input('#search','红烧肉');assert.equal(d.querySelectorAll('.recipe-card').length,1);
  input('#search','');click('[data-category="早餐"]');
- input('#new-only',true,'change');input('#no-noodles',true,'change');
- assert.equal(d.querySelectorAll('.recipe-card').length,38);
- input('#new-only',false,'change');input('#no-noodles',false,'change');click('[data-category=""]');
+ input('#no-noodles',true,'change');
+ assert.equal(d.querySelectorAll('.recipe-card').length,70);
+ input('#no-noodles',false,'change');click('[data-category=""]');
  for(const r of w.RECIPES){
    input('#search',r.name);click('[data-open="'+r.id+'"]');
    const detail=d.querySelector('#recipe-dialog').textContent;
@@ -37,5 +46,5 @@ try {
  page('shopping');assert.match(d.querySelector('#main').textContent,/香蕉厚蛋烧/);
  assert.ok(d.querySelectorAll('.shop-item').length>0);
  assert.deepEqual(errors,[]);
- console.log('DOM QA passed: 166 details and cooking navigation; search; 38 filtered breakfasts; servings; existing favorites; shopping. Not visual/device QA.');
+ console.log('DOM QA passed: 174 details and cooking navigation; search; 70 filtered breakfasts; servings; existing favorites; shopping. Not visual/device QA.');
 } finally {w.close();}
