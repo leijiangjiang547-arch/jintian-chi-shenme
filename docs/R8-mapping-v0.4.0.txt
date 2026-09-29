@@ -1,0 +1,263 @@
+# compiler: R8
+# compiler_version: 8.6.2-dev
+# min_api: 26
+# compiler_hash: abaab469b5ebd4dd2bb91ba0ed6f45277faae4ca
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.2"}
+# pg_map_id: 5fad11e
+# pg_map_hash: SHA-256 5fad11eec082d3687e8089520c711c01334ffbdc7682b54bf16e6ad245256259
+com.leijiang.cookdaily.KitchenTimer -> com.leijiang.cookdaily.KitchenTimer:
+    int $r8$clinit -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    8:28:android.app.PendingIntent pending(android.content.Context):0:0 -> a
+    8:28:void cancel(android.content.Context):0 -> a
+    29:42:void cancel(android.content.Context):0:0 -> a
+    43:49:android.content.SharedPreferences prefs(android.content.Context):0:0 -> a
+    43:49:void cancel(android.content.Context):0 -> a
+    50:69:void cancel(android.content.Context):0:0 -> a
+    0:63:void channel(android.content.Context):0:0 -> b
+    0:24:boolean exact(android.content.Context):0:0 -> c
+    0:32:boolean notifications(android.content.Context):0:0 -> d
+    28:34:android.content.SharedPreferences prefs(android.content.Context):0:0 -> onReceive
+    28:34:void onReceive(android.content.Context,android.content.Intent):0 -> onReceive
+    35:44:void onReceive(android.content.Context,android.content.Intent):0:0 -> onReceive
+    45:48:android.content.SharedPreferences prefs(android.content.Context):0:0 -> onReceive
+    45:48:void onReceive(android.content.Context,android.content.Intent):0 -> onReceive
+    49:68:void onReceive(android.content.Context,android.content.Intent):0:0 -> onReceive
+    69:72:android.content.SharedPreferences prefs(android.content.Context):0:0 -> onReceive
+    69:72:void onReceive(android.content.Context,android.content.Intent):0 -> onReceive
+    73:138:void onReceive(android.content.Context,android.content.Intent):0:0 -> onReceive
+    139:142:android.content.SharedPreferences prefs(android.content.Context):0:0 -> onReceive
+    139:142:void onReceive(android.content.Context,android.content.Intent):0 -> onReceive
+    143:184:void onReceive(android.content.Context,android.content.Intent):0:0 -> onReceive
+com.leijiang.cookdaily.KitchenTimer$$ExternalSyntheticApiModelOutline0 -> a.a:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    0:4:boolean a.KitchenTimer$$ExternalSyntheticApiModelOutline0.m(android.app.AlarmManager):0:0 -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+com.leijiang.cookdaily.MainActivity -> com.leijiang.cookdaily.MainActivity:
+    android.webkit.WebView web -> a
+    java.lang.String backup -> b
+    int $r8$clinit -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    3:29:android.webkit.WebResourceResponse blocked():0:0 -> a
+    3:29:android.webkit.WebResourceResponse access$000(com.leijiang.cookdaily.MainActivity):0 -> a
+    5:18:void launch(android.content.Intent,int):0:0 -> b
+    5:18:void access$200(com.leijiang.cookdaily.MainActivity,android.content.Intent,int):0 -> b
+    0:9:void message(java.lang.String):0:0 -> c
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticApiModelOutline0 -> a.b:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    0:4:int a.MainActivity$$ExternalSyntheticApiModelOutline0.m():0:0 -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:4:android.graphics.Insets a.MainActivity$$ExternalSyntheticApiModelOutline0.m(android.view.WindowInsets,int):0:0 -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:2:android.view.WindowInsets a.MainActivity$$ExternalSyntheticApiModelOutline0.m():0:0 -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:4:void a.MainActivity$$ExternalSyntheticApiModelOutline0.m(android.view.Window):0:0 -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:4:int a.MainActivity$$ExternalSyntheticApiModelOutline0.m$1():0:0 -> e
+      # {"id":"com.android.tools.r8.synthesized"}
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticApiModelOutline4 -> a.c:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    0:2:int a.MainActivity$$ExternalSyntheticApiModelOutline4.m(android.graphics.Insets):0:0 -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:2:int a.MainActivity$$ExternalSyntheticApiModelOutline4.m$1(android.graphics.Insets):0:0 -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:2:int a.MainActivity$$ExternalSyntheticApiModelOutline4.m$2(android.graphics.Insets):0:0 -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:2:int a.MainActivity$$ExternalSyntheticApiModelOutline4.m$3(android.graphics.Insets):0:0 -> d
+      # {"id":"com.android.tools.r8.synthesized"}
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticLambda10 -> a.d:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    int a.MainActivity$$ExternalSyntheticLambda10.$r8$classId -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$1$3cfbe22d2c1496dad0ef5ba2b85aa3f93bdbc5094c0f88173c049662e1be1a04$1.f$0 -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Ljava/lang/Object;"}
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.net.Uri com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$1$3cfbe22d2c1496dad0ef5ba2b85aa3f93bdbc5094c0f88173c049662e1be1a04$1.f$1 -> c
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Ljava/lang/Comparable;"}
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:9:void a.MainActivity$$ExternalSyntheticLambda10.<init>(java.lang.Object,java.lang.Comparable,int):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+    9:16:java.lang.String com.leijiang.cookdaily.MainActivity.access$302(com.leijiang.cookdaily.MainActivity,java.lang.String):0:0 -> run
+    9:16:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$exportBackup$6(java.lang.String):0 -> run
+    9:16:void a.MainActivity$$ExternalSyntheticLambda10.run():0 -> run
+      # {"id":"com.android.tools.r8.synthesized"}
+    17:84:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$exportBackup$6(java.lang.String):0:0 -> run
+    17:84:void a.MainActivity$$ExternalSyntheticLambda10.run():0 -> run
+    85:93:void a.MainActivity$$ExternalSyntheticLambda10.run():0:0 -> run
+    94:203:void com.leijiang.cookdaily.MainActivity.lambda$onActivityResult$4(android.net.Uri):0:0 -> run
+    94:203:void a.MainActivity$$ExternalSyntheticLambda10.run():0 -> run
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticLambda11 -> a.e:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$1$7edfcc6d14f46daf00fcc8021b5085419a81c0c80f55758e4d5f46586b43f37d$0.f$0 -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:5:void a.MainActivity$$ExternalSyntheticLambda11.<init>(com.leijiang.cookdaily.MainActivity):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+    9:20:void com.leijiang.cookdaily.MainActivity.lambda$onBackPressed$5(java.lang.String):0:0 -> onReceiveValue
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Ljava/lang/Object;)V"}
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticLambda12 -> a.f:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    2:38:android.view.WindowInsets com.leijiang.cookdaily.MainActivity.lambda$onCreate$0(android.view.View,android.view.WindowInsets):0:0 -> onApplyWindowInsets
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticLambda13 -> a.g:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    int a.MainActivity$$ExternalSyntheticLambda13.$r8$classId -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$2$a8760ed78cc70587fb2538299ab28daae57209f25a3c2a20d762a47c3add9696$0.f$0 -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.String com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$2$a8760ed78cc70587fb2538299ab28daae57209f25a3c2a20d762a47c3add9696$0.f$1 -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:9:void a.MainActivity$$ExternalSyntheticLambda13.<init>(com.leijiang.cookdaily.MainActivity,java.lang.String,int):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+    5:40:void com.leijiang.cookdaily.MainActivity.lambda$onActivityResult$3(java.lang.String):0:0 -> run
+      # {"id":"com.android.tools.r8.residualsignature","signature":"()V"}
+    41:77:void com.leijiang.cookdaily.MainActivity.lambda$message$1(java.lang.String):0:0 -> run
+com.leijiang.cookdaily.MainActivity$$ExternalSyntheticLambda9 -> a.h:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$1$3cfbe22d2c1496dad0ef5ba2b85aa3f93bdbc5094c0f88173c049662e1be1a04$0.f$0 -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    android.net.Uri com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$1$3cfbe22d2c1496dad0ef5ba2b85aa3f93bdbc5094c0f88173c049662e1be1a04$0.f$1 -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.String com.leijiang.cookdaily.MainActivity$$InternalSyntheticLambda$1$3cfbe22d2c1496dad0ef5ba2b85aa3f93bdbc5094c0f88173c049662e1be1a04$0.f$2 -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:9:void a.MainActivity$$ExternalSyntheticLambda9.<init>(com.leijiang.cookdaily.MainActivity,android.net.Uri,java.lang.String):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+    11:65:void com.leijiang.cookdaily.MainActivity.lambda$onActivityResult$2(android.net.Uri,java.lang.String):0:0 -> run
+      # {"id":"com.android.tools.r8.residualsignature","signature":"()V"}
+com.leijiang.cookdaily.MainActivity$1 -> a.i:
+    android.widget.FrameLayout val$root -> a
+    android.widget.TextView val$loading -> b
+    com.leijiang.cookdaily.MainActivity this$0 -> c
+    0:9:void <init>(com.leijiang.cookdaily.MainActivity,android.widget.FrameLayout,android.widget.TextView):0:0 -> <init>
+    0:7:void onPageFinished(android.webkit.WebView,java.lang.String):0:0 -> onPageFinished
+    0:150:android.webkit.WebResourceResponse shouldInterceptRequest(android.webkit.WebView,android.webkit.WebResourceRequest):0:0 -> shouldInterceptRequest
+    0:69:boolean shouldOverrideUrlLoading(android.webkit.WebView,android.webkit.WebResourceRequest):0:0 -> shouldOverrideUrlLoading
+com.leijiang.cookdaily.MainActivity$NativeKitchen -> a.m:
+    com.leijiang.cookdaily.MainActivity this$0 -> a
+    0:5:void <init>(com.leijiang.cookdaily.MainActivity):0:0 -> <init>
+    0:11:void appearance(boolean):0:0 -> appearance
+    0:5:void cancelTimer():0:0 -> cancelTimer
+    0:11:void cooking(boolean):0:0 -> cooking
+    0:11:void exactSettings():0:0 -> exactSettings
+    26:31:void com.leijiang.cookdaily.MainActivity.access$100(com.leijiang.cookdaily.MainActivity,java.lang.String):0:0 -> exportBackup
+    26:31:void exportBackup(java.lang.String):0 -> exportBackup
+    0:11:void importBackup():0:0 -> importBackup
+    0:11:void landscape(boolean):0:0 -> landscape
+    0:11:void notificationSettings():0:0 -> notificationSettings
+    12:59:java.lang.String com.leijiang.cookdaily.KitchenTimer.start(android.content.Context,int,java.lang.String,java.lang.String):0:0 -> startTimer
+    12:59:java.lang.String startTimer(int,java.lang.String,java.lang.String):0 -> startTimer
+    60:66:android.content.SharedPreferences com.leijiang.cookdaily.KitchenTimer.prefs(android.content.Context):0:0 -> startTimer
+    60:66:java.lang.String com.leijiang.cookdaily.KitchenTimer.start(android.content.Context,int,java.lang.String,java.lang.String):0 -> startTimer
+    60:66:java.lang.String startTimer(int,java.lang.String,java.lang.String):0 -> startTimer
+    67:111:java.lang.String com.leijiang.cookdaily.KitchenTimer.start(android.content.Context,int,java.lang.String,java.lang.String):0:0 -> startTimer
+    67:111:java.lang.String startTimer(int,java.lang.String,java.lang.String):0 -> startTimer
+    112:133:android.app.PendingIntent com.leijiang.cookdaily.KitchenTimer.pending(android.content.Context):0:0 -> startTimer
+    112:133:java.lang.String com.leijiang.cookdaily.KitchenTimer.start(android.content.Context,int,java.lang.String,java.lang.String):0 -> startTimer
+    112:133:java.lang.String startTimer(int,java.lang.String,java.lang.String):0 -> startTimer
+    134:146:java.lang.String com.leijiang.cookdaily.KitchenTimer.start(android.content.Context,int,java.lang.String,java.lang.String):0:0 -> startTimer
+    134:146:java.lang.String startTimer(int,java.lang.String,java.lang.String):0 -> startTimer
+    0:21:boolean systemDark():0:0 -> systemDark
+    9:19:void systemTimer(int,java.lang.String):0:0 -> systemTimer
+    2:16:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0:0 -> timerStatus
+    2:16:java.lang.String timerStatus():0 -> timerStatus
+    17:20:android.content.SharedPreferences com.leijiang.cookdaily.KitchenTimer.prefs(android.content.Context):0:0 -> timerStatus
+    17:20:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0 -> timerStatus
+    17:20:java.lang.String timerStatus():0 -> timerStatus
+    21:52:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0:0 -> timerStatus
+    21:52:java.lang.String timerStatus():0 -> timerStatus
+    53:56:android.content.SharedPreferences com.leijiang.cookdaily.KitchenTimer.prefs(android.content.Context):0:0 -> timerStatus
+    53:56:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0 -> timerStatus
+    53:56:java.lang.String timerStatus():0 -> timerStatus
+    57:63:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0:0 -> timerStatus
+    57:63:java.lang.String timerStatus():0 -> timerStatus
+    64:67:android.content.SharedPreferences com.leijiang.cookdaily.KitchenTimer.prefs(android.content.Context):0:0 -> timerStatus
+    64:67:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0 -> timerStatus
+    64:67:java.lang.String timerStatus():0 -> timerStatus
+    68:76:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0:0 -> timerStatus
+    68:76:java.lang.String timerStatus():0 -> timerStatus
+    77:80:android.content.SharedPreferences com.leijiang.cookdaily.KitchenTimer.prefs(android.content.Context):0:0 -> timerStatus
+    77:80:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0 -> timerStatus
+    77:80:java.lang.String timerStatus():0 -> timerStatus
+    81:89:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0:0 -> timerStatus
+    81:89:java.lang.String timerStatus():0 -> timerStatus
+    90:93:android.content.SharedPreferences com.leijiang.cookdaily.KitchenTimer.prefs(android.content.Context):0:0 -> timerStatus
+    90:93:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0 -> timerStatus
+    90:93:java.lang.String timerStatus():0 -> timerStatus
+    94:121:java.lang.String com.leijiang.cookdaily.KitchenTimer.status(android.content.Context):0:0 -> timerStatus
+    94:121:java.lang.String timerStatus():0 -> timerStatus
+com.leijiang.cookdaily.MainActivity$NativeKitchen$$ExternalSyntheticLambda0 -> a.j:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    int a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.$r8$classId -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity$NativeKitchen com.leijiang.cookdaily.MainActivity$NativeKitchen$$InternalSyntheticLambda$2$178b62d4520608fa6fc8f8bb65586cf12dc92e592a5d799683968716c49b7188$0.f$0 -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"La/m;"}
+      # {"id":"com.android.tools.r8.synthesized"}
+    boolean com.leijiang.cookdaily.MainActivity$NativeKitchen$$InternalSyntheticLambda$2$178b62d4520608fa6fc8f8bb65586cf12dc92e592a5d799683968716c49b7188$0.f$1 -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:9:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.<init>(a.MainActivity$NativeKitchen,boolean,int):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(La/m;ZI)V"}
+    5:34:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$cooking$4(boolean):0:0 -> run
+    5:34:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+      # {"id":"com.android.tools.r8.synthesized"}
+    35:39:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0:0 -> run
+    40:52:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$landscape$5(boolean):0:0 -> run
+    40:52:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+    53:57:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0:0 -> run
+    58:68:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$appearance$0(boolean):0:0 -> run
+    58:68:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+    69:72:android.webkit.WebView com.leijiang.cookdaily.MainActivity.access$400(com.leijiang.cookdaily.MainActivity):0:0 -> run
+    69:72:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$appearance$0(boolean):0 -> run
+    69:72:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+    73:75:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$appearance$0(boolean):0:0 -> run
+    73:75:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+    76:77:android.webkit.WebView com.leijiang.cookdaily.MainActivity.access$400(com.leijiang.cookdaily.MainActivity):0:0 -> run
+    76:77:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$appearance$0(boolean):0 -> run
+    76:77:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+    78:119:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$appearance$0(boolean):0:0 -> run
+    78:119:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda0.run():0 -> run
+com.leijiang.cookdaily.MainActivity$NativeKitchen$$ExternalSyntheticLambda1 -> a.k:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    int a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.$r8$classId -> a
+      # {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity$NativeKitchen com.leijiang.cookdaily.MainActivity$NativeKitchen$$InternalSyntheticLambda$2$1f0ce32cccd6c3b35ab3c8fbeb9930eee62db57fe6c24b39d1570ab82db198e9$0.f$0 -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"La/m;"}
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:7:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.<init>(a.MainActivity$NativeKitchen,int):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(La/m;I)V"}
+    8:50:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$exactSettings$1():0:0 -> run
+    8:50:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.run():0 -> run
+      # {"id":"com.android.tools.r8.synthesized"}
+    51:56:void com.leijiang.cookdaily.MainActivity.access$100(com.leijiang.cookdaily.MainActivity,java.lang.String):0:0 -> run
+    51:56:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$exactSettings$1():0 -> run
+    51:56:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.run():0 -> run
+    57:59:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.run():0:0 -> run
+    60:86:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$importBackup$7():0:0 -> run
+    60:86:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.run():0 -> run
+    87:169:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$notificationSettings$2():0:0 -> run
+    87:169:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda1.run():0 -> run
+com.leijiang.cookdaily.MainActivity$NativeKitchen$$ExternalSyntheticLambda4 -> a.l:
+# {"id":"sourceFile","fileName":"R8$$SyntheticClass"}
+# {"id":"com.android.tools.r8.synthesized"}
+    com.leijiang.cookdaily.MainActivity$NativeKitchen com.leijiang.cookdaily.MainActivity$NativeKitchen$$InternalSyntheticLambda$2$ac3bb1d39685acfab52b605142472944f25a6d1e86ecfb19e4e09b45e28356fd$0.f$0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"La/m;"}
+      # {"id":"com.android.tools.r8.synthesized"}
+    int com.leijiang.cookdaily.MainActivity$NativeKitchen$$InternalSyntheticLambda$2$ac3bb1d39685acfab52b605142472944f25a6d1e86ecfb19e4e09b45e28356fd$0.f$1 -> b
+      # {"id":"com.android.tools.r8.synthesized"}
+    java.lang.String com.leijiang.cookdaily.MainActivity$NativeKitchen$$InternalSyntheticLambda$2$ac3bb1d39685acfab52b605142472944f25a6d1e86ecfb19e4e09b45e28356fd$0.f$2 -> c
+      # {"id":"com.android.tools.r8.synthesized"}
+    0:9:void a.MainActivity$NativeKitchen$$ExternalSyntheticLambda4.<init>(a.MainActivity$NativeKitchen,int,java.lang.String):0:0 -> <init>
+      # {"id":"com.android.tools.r8.synthesized"}
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(La/m;ILjava/lang/String;)V"}
+    5:40:void com.leijiang.cookdaily.MainActivity$NativeKitchen.lambda$systemTimer$3(int,java.lang.String):0:0 -> run
+      # {"id":"com.android.tools.r8.residualsignature","signature":"()V"}

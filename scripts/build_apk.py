@@ -14,23 +14,26 @@ KEY=env_path('COOK_KEYSTORE'); KEY.parent.mkdir(parents=True,exist_ok=True)
 if not os.environ.get('COOK_KEYSTORE_PASS'): raise SystemExit('Missing COOK_KEYSTORE_PASS')
 ext='.exe' if os.name=='nt' else ''
 def run(*args): subprocess.run([str(x) for x in args],check=True)
-if not KEY.exists():
-    run(J/('keytool'+ext),'-genkeypair','-keystore',KEY,'-storetype','JKS','-storepass:env','COOK_KEYSTORE_PASS','-keypass:env','COOK_KEYSTORE_PASS','-alias','cookdaily','-keyalg','RSA','-keysize','3072','-validity','10000','-dname','CN=CookDaily Preview, O=Personal')
+if not KEY.exists(): raise SystemExit('Signing key missing; refusing to create a replacement upgrade identity')
 run(B/('aapt2'+ext),'compile','--dir',ROOT/'android/res','-o',OUT/'resources.zip')
 assets=OUT/'assets/web'; assets.mkdir(parents=True,exist_ok=True)
 for f in (ROOT/'web').iterdir():
     if f.is_file() and f.suffix in {'.html','.js','.css','.svg'}:
         (assets/f.name).write_text(f.read_text(encoding='utf-8'),encoding='utf-8',newline='\n')
 run(B/('aapt2'+ext),'link','-o',OUT/'base.apk','-I',A,'--manifest',ROOT/'android/AndroidManifest.xml','-A',OUT/'assets','--min-sdk-version','26','--target-sdk-version','35',OUT/'resources.zip')
-classes=OUT/'classes'; classes.mkdir(exist_ok=True)
-run(J/('javac'+ext),'-encoding','UTF-8','--release','8','-classpath',A,'-d',classes,*sorted((ROOT/'android/src').rglob('*.java')))
-run(J/('java'+ext),'-cp',B/'lib/d8.jar','com.android.tools.r8.D8','--lib',A,'--min-api','26','--output',OUT,*sorted(classes.rglob('*.class')))
+classes=OUT/'classes'
+if classes.exists():
+    assert classes.parent == OUT and classes.name == 'classes'
+    shutil.rmtree(classes)
+classes.mkdir()
+run(J/('javac'+ext),'-g:none','-encoding','UTF-8','--release','8','-classpath',A,'-d',classes,*sorted((ROOT/'android/src').rglob('*.java')))
+run(J/('java'+ext),'-cp',B/'lib/d8.jar','com.android.tools.r8.R8','--release','--pg-conf',ROOT/'android/proguard-rules.pro','--pg-map-output',OUT/'mapping.txt','--lib',A,'--min-api','26','--output',OUT,*sorted(classes.rglob('*.class')))
 with zipfile.ZipFile(OUT/'base.apk') as base, zipfile.ZipFile(OUT/'unsigned.apk','w',compression=zipfile.ZIP_DEFLATED) as z:
     for entry in base.infolist():
         z.writestr(entry.filename,base.read(entry.filename),compress_type=zipfile.ZIP_STORED if entry.filename=='resources.arsc' else zipfile.ZIP_DEFLATED)
     z.write(OUT/'classes.dex','classes.dex')
 run(B/('zipalign'+ext),'-f','4',OUT/'unsigned.apk',OUT/'aligned.apk')
-APK=OUT/'cookdaily-v0.3.0.apk'
+APK=OUT/'cookdaily-v0.4.0.apk'
 run(J/('java'+ext),'-jar',B/'lib/apksigner.jar','sign','--ks',KEY,'--ks-key-alias','cookdaily','--ks-pass','env:COOK_KEYSTORE_PASS','--key-pass','env:COOK_KEYSTORE_PASS','--out',APK,OUT/'aligned.apk')
 run(J/('java'+ext),'-jar',B/'lib/apksigner.jar','verify','--verbose',APK)
 run(B/('zipalign'+ext),'-c','4',APK)

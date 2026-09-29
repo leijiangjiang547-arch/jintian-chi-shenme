@@ -2,14 +2,14 @@
 
 一个为家庭厨房做的离线 Android 应用：随机选一道家常菜或早餐，按人数准备材料，照步骤做饭。
 
-**当前为 v0.3.0 阶段验收版。适用于 Android 8.0+，面向荣耀 Magic6 / 荣耀400 的 MagicOS。用户已安装并体验第二版；第三版尚待用户真机验收。不包含 HarmonyOS NEXT 原生安装包，尚未达到商业上架验收标准。**
+**当前为 v0.4.0 阶段验收版。适用于 Android 8.0+，面向荣耀 Magic6 / 荣耀400 的 MagicOS。用户已安装并体验第二版；第四版尚待用户真机验收。不包含 HarmonyOS NEXT 原生安装包，尚未达到商业上架验收标准。**
 
-[下载新版 APK](https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/download/v0.3.0/cookdaily-v0.3.0.apk) · [本次发布](https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/tag/v0.3.0) · [分阶段计划](docs/ROADMAP.md)
+[下载新版 APK](https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/download/v0.4.0/cookdaily-v0.4.0.apk) · [本次发布](https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/tag/v0.4.0) · [分阶段计划](docs/ROADMAP.md)
 
 ## 手机安装
 
 1. 在手机浏览器打开本仓库，进入 **Releases（发布）**。
-2. 下载 `cookdaily-v0.3.0.apk`，不要下载 Source code 压缩包当作安装包。
+2. 下载 `cookdaily-v0.4.0.apk`，不要下载 Source code 压缩包当作安装包。
 3. 点击下载的 APK，按手机提示仅允许当前下载来源安装，然后安装。无需关闭全局安全保护。
 4. 在桌面打开“今天吃什么”。全部174道文字菜谱已内置，首次打开也不依赖联网；外部教程需要网络。
 
@@ -19,7 +19,7 @@
 
 ## 已实现
 
-- 94道家常菜、80道早餐；固定内置数据，不调用大模型。第三阶段优先常见家常菜与整体筛选流程。
+- 94道家常菜、80道早餐；固定内置数据，不调用大模型。第四阶段优先日常可靠性，本轮未增加菜谱数量。
 - 增加香蕉厚蛋烧、蓝莓西多士、虾滑馄饨面、烧卖、饭团、蒸糕等；早餐中面条粉类为10道。
 - 补入红烧肉、回锅肉、可乐鸡翅、清蒸鲈鱼、锅塌豆腐、天津独面筋等常见菜。
 - 菜系、菜名/地区别名或食材搜索、最长用时、不吃辣、排除食材、菜品种类、不吃面条粉类。
@@ -29,7 +29,12 @@
 - 随机推荐避开最近10次结果，有候选时优先换一种菜品类型，再选具体菜；候选太少时逐级放宽。
 - 1–6人份量换算：食材和调料换算，计时不倍增，多人份分批做。
 - 收藏、购物清单、同名同单位食材合并，保存在本机。
-- 大字分步做菜、熟透检查、勾选步骤、单个倒计时；后台不能保证及时响铃，回到前台按实际时间恢复。
+- 原生 AlarmManager 单个步骤提醒、通知声音与振动；需用户开启通知与精确计时，未授权明确降级为前台提醒。系统时钟为备用入口。声音仍受音量、勿扰及厂商省电影响，强行停止/重启后需重新计时。
+- 大按钮做菜、可选横屏、触控锁、下一步防重复点击；仅做菜模式保持屏幕常亮。
+- JSON 文件导出/恢复、深色与跟随系统外观、最近做过记录，随机推荐尽量避开近7天做过的菜。
+- 食材同义词、多关键词交集、菜名拼音首字母搜索；15分钟空结果显示实际最低用时，放宽时间时保留忌口。
+- 买菜勾选仅在食材用量增加时需重新核对；减少用量时保留勾选。计数单位给取用提示；鸡蛋保留比例并提示蛋液克数。
+- 醒目过敏原标签；每道菜附成品图片搜索入口，清楚提示联网、登录和广告可能性。
 - 原文、相关技法和视频核查状态分别标示；外链通过系统浏览器打开。
 - 无账号、无广告、无付费接口、无统计 SDK。
 
@@ -56,7 +61,7 @@ npm run preview
 
 ## 重建 APK
 
-使用官方 JDK 17、Android SDK Platform 35、Build Tools 35.0.0。构建只调用 `aapt2`、`javac`、`D8`、`zipalign` 和 `apksigner`，无需 Gradle、Kotlin、Compose 或网络依赖。
+使用官方 JDK 17、Android SDK Platform 35、Build Tools 35.0.0。构建只调用 `aapt2`、`javac`、`R8`、`zipalign` 和 `apksigner`，无需 Gradle、Kotlin、Compose 或网络依赖。
 
 先设置环境变量，再运行 `python scripts/build_apk.py`：
 
@@ -65,17 +70,17 @@ npm run preview
 | `JAVA_HOME` | JDK 17 根目录 |
 | `ANDROID_BUILD_TOOLS` | 包含 aapt2、zipalign、lib 的 Build Tools 35.0.0 目录 |
 | `ANDROID_PLATFORM` | 包含 android.jar 的 android-35 目录 |
-| `COOK_KEYSTORE` | 仓库外的持久签名文件路径；不存在时自动生成 |
+| `COOK_KEYSTORE` | 仓库外的持久签名文件路径；缺失时停止构建，避免误换升级证书 |
 | `COOK_KEYSTORE_PASS` | 通过进程环境注入的签名密码，不写进源码 |
 | `COOK_BUILD_DIR` | 可选，构建输出目录；默认 build/ |
 
 成功后生成 APK 和 `SHA256SUMS.txt`。升级安装必须使用相同签名密钥；密钥不能提交到 GitHub。当前密钥保存在开发机的仓库外，密码通过 Windows DPAPI 加密，未包含在交付包中。
 
-编辑菜谱可直接修改 `web/recipes.json` 并运行 `python scripts/sync_recipes.py`，再运行测试。编辑源在 `scripts/expand_catalog.py` 和 `scripts/expand_v03.py`；重新生成时按此顺序运行两者，最后应为174道。对本批次的持久修订先改对应脚本，避免重建时覆盖。`make_recipes.py` 保留最初100道生成规则；不要单独运行它覆盖新版目录。
+编辑菜谱可直接修改 `web/recipes.json` 并运行 `python scripts/sync_recipes.py`，再运行测试。编辑源在 `scripts/expand_catalog.py` 和 `scripts/expand_v03.py`；重新生成时按此顺序运行两者，最后应为174道。新增/更名后用 `pypinyin==0.55.0` 运行 `scripts/build_search_index.py` 更新首字母索引；拼音仅为构建时依赖，应用运行无依赖。对本批次的持久修订先改对应脚本，避免重建时覆盖。`make_recipes.py` 保留最初100道生成规则；不要单独运行它覆盖新版目录。
 
 ## 验收建议
 
-先验证手机安装、飞行模式启动、随机抽菜、收藏重开、份量换算、计时与返回键。再实做西红柿炒鸡蛋、葱花鸡蛋饼、香菇炒鸡片各一次，记录锅具、火力、实际用时、咸淡和难懂步骤。
+本轮18项核心测试和两组DOM检查通过；未完成第四版浏览器视觉或安卓真机验证。手机逐项检查见 [第四版验收单](docs/ACCEPTANCE-v0.4.0.md)。先验证覆盖安装、飞行模式、后台计时权限/响铃、文件备份恢复、深色与横屏。再实做西红柿炒鸡蛋、葱花鸡蛋饼、香菇炒鸡片各一次，记录锅具、火力、实际用时、咸淡和难懂步骤。
 
 应用市场上架、收费、广告、支付和商业化均未执行。后续以真机与厨房验收结果决定是否投入。
 

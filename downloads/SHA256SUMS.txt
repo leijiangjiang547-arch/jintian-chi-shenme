@@ -1,1 +1,1 @@
-c8daec0fe3b298bfcab406f9b678255c7cb0e2f83cffaf913535d47d0987dd16  cookdaily-v0.3.0.apk
+9299ba7ca3e9ecc0af37492c4342eae192bc3d49b2000d105fbb586b959a902a  cookdaily-v0.4.0.apk

@@ -1,0 +1,16 @@
+{
+  "version": "0.4.0",
+  "versionCode": 4,
+  "package": "com.leijiang.cookdaily",
+  "recipes": 174,
+  "apkBytes": 119855,
+  "sha256": "9299ba7ca3e9ecc0af37492c4342eae192bc3d49b2000d105fbb586b959a902a",
+  "signerSha256": "98dbc08957fea4364655caaadfdcb1591c548157162d09254b3131784dcf7434",
+  "coreTests": 18,
+  "domFullCatalog": true,
+  "domV04SimulatedNative": true,
+  "browserVisualVerified": false,
+  "androidDeviceVerified": false,
+  "kitchenVerified": false,
+  "build": "R8 release, javac -g:none; not debuggable"
+}

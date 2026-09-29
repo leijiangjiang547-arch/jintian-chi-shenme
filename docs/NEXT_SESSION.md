@@ -1,3 +1,19 @@
+# 2026-09-29 第四版继续入口（优先于历史记录）
+
+本轮基于第二版用户反馈，把第四阶段调整为“日常可靠性”。v0.4.0 保持174道，复杂菜和全面步骤精修顺延，不为凑数发布未经核查的配方。
+
+- 已实现：原生精确计时和通知（按需授权）、系统时钟备选；权限失效前台降级；做菜模式常亮、横屏与触控锁；JSON导出导入；清单按变化保留勾选；别名/多食材/首字母搜索；空结果引导保留忌口；份量可操作提示；深色；做过记录；过敏原标签；外部图片搜索及教程提示。
+- Android 新桥接类 NativeKitchen、KitchenTimer receiver；只加载本地来源，CSP禁iframe和外部请求；教程仍交系统浏览器，不把外站放进有原生桥的WebView。
+- SDK35/JDK17，R8 release+混淆；混淆规则须保留Manifest入口、JavascriptInterface方法与注解。映射在本机构建目录和交付源码docs构建映射中。
+- 备份 schema1，app=cookdaily，只导入白名单字段；不恢复计时，不导入菜谱/HTML。系统备份仍关闭，使用手动文件备份。
+- 蛋液不盲目取整以免破坏比例；普通个/根/片等给范围。半份食材给切分取用提示。
+- 搜索索引独立web/search-index.js（仅菜名及别名首字母）。重生成目录后执行 scripts/build_search_index.py，构建依赖 pypinyin==0.55.0。不要声称支持任意错别字或所有拼音。
+- 验收：npm test；NODE_PATH指向work/dom-qa/node_modules后 node scripts/check_ui.cjs 和 node scripts/check_v04.cjs；APK verify脚本；R8映射/证书/远端哈希。
+- 浏览器工具返回空apps/browsers，重置仍空、打开iab失败。本轮视觉检查未完成。Android桥接测试使用模拟对象，不能替代真机锁屏/权限/SAF验证。
+- 手机验收重点见 ACCEPTANCE-v0.4.0.md。未通过手机验收前不标正式商用或上架，用户继续发消息后处理问题；不建自动任务。
+
+--- 历史记录 ---
+
 # 继续工作入口
 
 ## 2026-09-25 更新（优先于下文旧记录）

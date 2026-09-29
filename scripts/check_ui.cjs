@@ -10,7 +10,7 @@ w.scrollTo=()=>{};w.HTMLElement.prototype.scrollIntoView=()=>{};
 w.HTMLDialogElement.prototype.showModal=function(){this.open=true;};
 w.HTMLDialogElement.prototype.close=function(){this.open=false;};
 w.localStorage.setItem('cook-saved',JSON.stringify(['d01']));
-for(const file of ['recipes.js','core.js','app.js'])w.eval(fs.readFileSync(path.join(web,file),'utf8'));
+for(const file of ['recipes.js','search-index.js','core.js','app.js'])w.eval(fs.readFileSync(path.join(web,file),'utf8'));
 const click=s=>{assert.ok(d.querySelector(s),s);d.querySelector(s).click();};
 const input=(s,value,type='input')=>{const e=d.querySelector(s);if(typeof value==='boolean')e.checked=value;else e.value=value;e.dispatchEvent(new w.Event(type,{bubbles:true}));};
 const page=name=>{w.history.replaceState(null,'','#'+name);w.dispatchEvent(new w.HashChangeEvent('hashchange'));};
@@ -36,7 +36,7 @@ try {
    const detail=d.querySelector('#recipe-dialog').textContent;
    assert.ok(!/\{\{|\$\{|undefined|NaN/.test(detail),r.name+' unresolved detail');
    assert.equal(d.querySelectorAll('#recipe-dialog .step').length,r.steps.length,r.name);
-   click('[data-cook]');click('[data-next]');assert.match(d.querySelector('.dialog-header').textContent,/2 \/ /);
+   click('[data-cook]');click('[data-next]');assert.match(d.querySelector('#recipe-dialog .dialog-header').textContent,/2 \/ /);
    click('[data-close]');click('[data-close]');
  }
  input('#search','香蕉厚蛋烧');click('[data-open="b41"]');

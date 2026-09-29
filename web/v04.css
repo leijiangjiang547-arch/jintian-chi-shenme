@@ -1,0 +1,36 @@
+/* Kitchen tools, accessible quantities, and low-light appearance. */
+.header-actions,.settings-actions,.empty-actions,.cook-tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.header-actions{flex-wrap:nowrap;gap:6px}.empty-actions{justify-content:center;margin-bottom:20px}
+.setting-label{display:flex;align-items:center;gap:16px}.setting-label select{padding:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px}
+.settings-actions button,.cook-tools button{min-height:48px}.guide h3 small{display:block;color:var(--muted);font-size:12px;font-weight:normal;margin-top:6px}
+.history-item{display:flex;justify-content:space-between;gap:18px;width:100%;padding:16px 4px;border:0;border-bottom:1px solid var(--line);background:none;text-align:left}.history-item small{color:var(--muted);white-space:nowrap}
+.allergen-alert{padding:14px;border:1px solid #c18b43;border-left:5px solid #b67923;border-radius:10px;background:#fff3dc;color:#795010;font-size:13px;line-height:1.8;font-weight:650}
+.ingredient strong{white-space:normal;text-align:right;max-width:67%;line-height:1.7}.ingredient span{min-width:3em}.ingredients{grid-template-columns:1fr}.shop-item strong{max-width:55%;line-height:1.7;text-align:right}
+.cooked-tag{display:inline-block;background:#e5eddc;color:#466135;font-size:11px;border-radius:6px;padding:3px 6px;margin-bottom:8px}
+.cook-tools{margin-bottom:18px}.cook-nav{position:sticky;bottom:0;background:var(--paper);padding:12px 0 max(12px,env(safe-area-inset-bottom));z-index:3;gap:16px}.cook-nav button{min-height:64px;font-size:18px;touch-action:manipulation}.cook-nav .primary{flex:2}.cook-nav .secondary{flex:1}.cooking-mode .timer-btn{min-height:52px;font-size:15px;margin-right:8px}
+.touch-lock{position:fixed;inset:0;background:#182018ee;z-index:20;color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;text-align:center}.touch-lock strong{font-size:26px}.touch-lock button{min-height:70px;font-size:20px}
+#global-timer{position:fixed;bottom:calc(80px + env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);width:min(94%,650px);z-index:8}.timer-dock small{display:block;font-size:11px;line-height:1.7;margin-top:4px}.timer-dock button{min-height:48px;flex-shrink:0}.timer-dock{color:var(--ink)}
+body:has(#global-timer .timer-dock) .app-shell{padding-bottom:240px}.bottom-nav{padding-bottom:max(12px,env(safe-area-inset-bottom));min-height:76px}
+@media(min-width:700px){.ingredients{grid-template-columns:1fr 1fr}}
+@media(max-width:360px){.brand{font-size:16px;letter-spacing:0}.brand small{font-size:9px;letter-spacing:0}.brand img{width:30px;height:30px}.header-actions .icon-btn{width:38px;height:38px}.cook-nav button{font-size:16px}.cook-tools{gap:8px}}
+@media(orientation:landscape) and (max-height:600px){
+ dialog.cooking-mode{width:100%;max-width:100%;height:100dvh;max-height:100dvh;margin:0;border-radius:0}
+ .cooking-mode .dialog-header{padding:6px 18px;min-height:52px}.cooking-mode .detail{padding:12px 24px}
+ .cooking-mode .cook-tools{float:right;margin:0 0 6px 15px}.cooking-mode .cook-progress{margin-bottom:10px;width:45%}
+ .cooking-mode .cook-card{padding:6px 0}.cooking-mode .cook-card h2{font-size:23px;margin-bottom:8px}.cooking-mode .cook-card p{font-size:19px;line-height:1.65}
+ .cooking-mode .mini-ingredients{max-width:100%}.cooking-mode .cook-nav{margin-top:12px}.cooking-mode .cook-nav button{min-height:56px}
+}
+:root[data-theme="dark"]{color-scheme:dark;--paper:#1c201c;--card:#262c26;--ink:#eee9df;--muted:#bdc1b2;--orange:#ee9875;--line:#434a40;--green:#b5c89d;--shadow:none}
+[data-theme="dark"] .hero,[data-theme="dark"] .random-box,[data-theme="dark"] .random-result,[data-theme="dark"] .segmented,[data-theme="dark"] .bottom-nav,[data-theme="dark"] .dialog-header,[data-theme="dark"] dialog{background:var(--card);border-color:var(--line);color:var(--ink)}
+[data-theme="dark"] .hero:after{background:linear-gradient(90deg,#262c26 22%,transparent 70%)}
+[data-theme="dark"] .hero p,[data-theme="dark"] .hero h1,[data-theme="dark"] .meta,[data-theme="dark"] .note,[data-theme="dark"] .check-note{color:var(--ink)}
+[data-theme="dark"] .card-visual{background:#343c32}[data-theme="dark"] .badge,[data-theme="dark"] .pill,[data-theme="dark"] .step-num{background:#394735;color:#e4eccc}
+[data-theme="dark"] .note,[data-theme="dark"] .mini-ingredients,[data-theme="dark"] .video-search a,[data-theme="dark"] .timer-btn,[data-theme="dark"] .secondary,[data-theme="dark"] .difficulty-picker button.active{background:#323d30;color:var(--ink);border-color:#58664d}
+[data-theme="dark"] .primary{background:#df8a64;color:#241e15}[data-theme="dark"] .timer-dock{background:#3b3828;border-color:#897b43}[data-theme="dark"] .allergen-alert{background:#39301f;color:#f5d292;border-color:#b99455}
+[data-theme="dark"] input,[data-theme="dark"] select{background:var(--card);color:var(--ink);border-color:var(--line)}
+[data-theme="dark"] .segmented .active,[data-theme="dark"] .cooked-tag{background:#425239;color:#eff5e6}[data-theme="dark"] .result-art{background:#3b4538}
+[data-theme="dark"] .hero-art{opacity:.65}[data-theme="dark"] .cook-progress{background:#4a5242}[data-theme="dark"] .save-btn{background:#283224;color:#e8dbc7}
+
+.local-toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#353d2e;color:#fff;padding:12px 18px;border-radius:12px;font-size:13px;max-width:90%;width:max-content;z-index:30;opacity:0;pointer-events:none}.local-toast.visible{opacity:1}
+[data-theme="dark"] .detail-title .food{background:#343c32}
+.allergen-tags{display:flex;gap:7px;flex-wrap:wrap;margin:6px 0}.allergen-tags span{padding:3px 9px;border:1px solid currentColor;border-radius:7px}
