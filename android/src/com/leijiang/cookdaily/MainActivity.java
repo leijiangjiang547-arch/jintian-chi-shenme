@@ -71,8 +71,8 @@ public class MainActivity extends Activity {
           if (path == null || path.equals("/")) path = "/index.html";
           if (path.contains("..") || path.contains("\\")) return blocked();
           String file = path.substring(1);
-          String mime = file.endsWith(".html") ? "text/html" : file.endsWith(".js") ? "application/javascript" : file.endsWith(".css") ? "text/css" : file.endsWith(".svg") ? "image/svg+xml" : "application/json";
-          try { return new WebResourceResponse(mime, "UTF-8", getAssets().open("web/" + file)); }
+          String mime = file.endsWith(".html") ? "text/html" : file.endsWith(".js") ? "application/javascript" : file.endsWith(".css") ? "text/css" : file.endsWith(".png") ? "image/png" : file.endsWith(".svg") ? "image/svg+xml" : "application/json";
+          try { return new WebResourceResponse(mime, file.endsWith(".png") ? null : "UTF-8", getAssets().open("web/" + file)); }
           catch (Exception e) { return blocked(); }
         }
         return blocked();
@@ -80,10 +80,11 @@ public class MainActivity extends Activity {
       @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest req) {
         Uri uri = req.getUrl();
         if ("https".equals(uri.getScheme()) && HOST.equals(uri.getHost())) return false;
-        if (req.isForMainFrame() && "https".equals(uri.getScheme())) {
+        if (req.isForMainFrame() && ("https".equals(uri.getScheme()) || "http".equals(uri.getScheme()))) {
           try { startActivity(new Intent(Intent.ACTION_VIEW, uri)); }
-          catch(ActivityNotFoundException e) { Toast.makeText(MainActivity.this,"未找到可打开教程的浏览器",Toast.LENGTH_SHORT).show(); }
+          catch(ActivityNotFoundException | SecurityException e) { Toast.makeText(MainActivity.this,"未找到可打开教程的浏览器",Toast.LENGTH_SHORT).show(); }
         }
+        if (req.isForMainFrame() && !"https".equals(uri.getScheme()) && !"http".equals(uri.getScheme())) Toast.makeText(MainActivity.this,"此链接格式暂不支持，请使用教程搜索入口",Toast.LENGTH_SHORT).show();
         return true;
       }
     });
