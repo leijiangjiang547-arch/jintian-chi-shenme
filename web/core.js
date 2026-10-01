@@ -16,7 +16,7 @@
  }
  function reconcileBought(before,after,bought){const old=new Map(before.map(i=>[i.key,i.amount]));return Object.fromEntries(after.filter(i=>bought[i.key]&&old.has(i.key)&&i.amount<=old.get(i.key)).map(i=>[i.key,true]));}
  function validateBackup(data,recipes){
-   if(!data||data.app!=='cookdaily'||![1,2].includes(data.schema)||!data.data||typeof data.data!=='object')throw new Error('备份格式或版本不支持');
+   if(!data||data.app!=='cookdaily'||![1,2,3].includes(data.schema)||!data.data||typeof data.data!=='object')throw new Error('备份格式或版本不支持');
    const d=data.data,valid=new Set(recipes.map(r=>r.id));
    const ids=x=>{if(!Array.isArray(x)||x.length>10000||x.some(id=>typeof id!=='string'))throw new Error('菜谱记录格式不正确');return [...new Set(x.filter(id=>valid.has(id)))];};
    const saved=ids(d.saved),basket=ids(d.basket),recent=ids(d.recent).slice(-10);
@@ -27,7 +27,7 @@
    const bought=Object.fromEntries(Object.entries(d.bought).filter(([k,v])=>keys.has(k)&&v===true));
    if(!Array.isArray(d.history)||d.history.length>10000||d.history.some(h=>!h||typeof h.id!=='string'||!Number.isFinite(h.at)))throw new Error('做菜记录格式不正确');
    const history=d.history.filter(h=>valid.has(h.id)&&h.at>0&&h.at<=Date.now()+86400000).map(h=>({id:h.id,at:h.at})).slice(-200);
-   return {saved,basket,bought,prefs,recent,history,progress:normalizeProgress(data.schema===2?d.progress:{},recipes),theme:['auto','light','dark'].includes(d.theme)?d.theme:'auto'};
+   return {saved,basket,bought,prefs,recent,history,progress:normalizeProgress(data.schema>=2?d.progress:{},recipes),notes:normalizeNotes(data.schema>=3?d.notes:{},recipes),linkMode:d.linkMode==='default'?'default':'choose',theme:['auto','light','dark'].includes(d.theme)?d.theme:'auto'};
  }
  function choose(pool,recent=[],random=Math.random,catalog=pool){if(!pool.length)return null;let fresh=pool.filter(r=>!recent.includes(r.id));if(!fresh.length)fresh=pool.filter(r=>r.id!==recent[recent.length-1]);if(!fresh.length)fresh=pool;const key=r=>r.category+'|'+(r.group||r.id),last=catalog.find(r=>r.id===recent[recent.length-1]);const different=last?fresh.filter(r=>key(r)!==key(last)):fresh;if(different.length)fresh=different;const groups=[...new Set(fresh.map(key))];const pick=a=>a[Math.min(a.length-1,Math.floor(random()*a.length))];const group=pick(groups);return pick(fresh.filter(r=>key(r)===group));}
  function scale(r,servings){return r.ingredients.map(i=>({...i,amount:Number((i.amount*servings/r.servings).toFixed(1))}));}
@@ -43,13 +43,15 @@
      clean[r.id]={index:p.index,checked:[...new Set(p.checked.filter(n=>Number.isInteger(n)&&n>=0&&n<r.steps.length))],updatedAt:p.updatedAt,revision:r.revision};
    }return clean;
  }
- function migrateStorage(storage,recipes){const get=(k,f)=>{try{return JSON.parse(storage.getItem('cook-'+k))??f;}catch{return f;}};const version=get('version',0);if(!Number.isInteger(version)||version>2)return {writable:false,reason:'本机数据来自更新版本，请升级应用后再修改记录。'};
-   const prefs=normalizePrefs(get('prefs',{}),recipes),progress=normalizeProgress(get('progress',{}),recipes);
+ function normalizeNotes(value,recipes){const clean={};if(!value||typeof value!=='object'||Array.isArray(value))return clean;for(const r of recipes){const n=value[r.id];if(n&&typeof n.text==='string'&&n.text.trim())clean[r.id]={text:n.text.slice(0,1000),updatedAt:Number.isFinite(n.updatedAt)?n.updatedAt:0};}return clean;}
+ function firstUnchecked(checked,length){const set=new Set(checked);for(let i=0;i<length;i++)if(!set.has(i))return i;return length-1;}
+ function migrateStorage(storage,recipes){const get=(k,f)=>{try{return JSON.parse(storage.getItem('cook-'+k))??f;}catch{return f;}};const version=get('version',0);if(!Number.isInteger(version)||version>3)return {writable:false,reason:'本机数据来自更新版本，请升级应用后再修改记录。'};
+   const oldProgress=get('progress',{}),prefs=normalizePrefs(get('prefs',{}),recipes),progress=normalizeProgress(oldProgress,recipes),resetIds=Object.keys(oldProgress&&typeof oldProgress==='object'?oldProgress:{}).filter(id=>recipes.some(r=>r.id===id)&&!progress[id]),notes=normalizeNotes(get('notes',{}),recipes);
    // Version is written last; existing IDs and unrelated keys are never deleted.
-   try{storage.setItem('cook-prefs',JSON.stringify(prefs));storage.setItem('cook-progress',JSON.stringify(progress));storage.setItem('cook-version','2');}catch{return {writable:false,reason:'存储不可用，记录暂时无法保存。'};}
-   return {writable:true,prefs,progress};
+   try{storage.setItem('cook-prefs',JSON.stringify(prefs));storage.setItem('cook-progress',JSON.stringify(progress));storage.setItem('cook-notes',JSON.stringify(notes));storage.setItem('cook-version','3');}catch{return {writable:false,reason:'存储不可用，记录暂时无法保存。'};}
+   return {writable:true,prefs,progress,resetProgressIds:resetIds};
  }
  function suggestions(recipes,filters,day){const list=filter(recipes,filters);if(!list.length)return [];let seed=0;for(const c of String(day))seed=(seed*31+c.charCodeAt(0))>>>0;const offset=seed%list.length;return [...list.slice(offset),...list.slice(0,offset)].slice(0,6);}
  function shopping(recipes,selected,servings){const map=new Map();for(const id of selected){const r=recipes.find(x=>x.id===id);if(!r)continue;for(const i of scale(r,servings)){if(i.amount===0)continue;const key=i.name+'|'+i.unit;const old=map.get(key);if(old)old.amount=Number((old.amount+i.amount).toFixed(1));else map.set(key,{...i,key});}}return [...map.values()];}
- const api={format,duration,filter,choose,scale,stepText,shopping,amount,normalize,matches,reconcileBought,validateBackup,normalizePrefs,normalizeProgress,migrateStorage,suggestions};if(typeof module!=='undefined')module.exports=api;root.CookCore=api;
+ const api={format,duration,filter,choose,scale,stepText,shopping,amount,normalize,matches,reconcileBought,validateBackup,normalizePrefs,normalizeProgress,normalizeNotes,firstUnchecked,migrateStorage,suggestions};if(typeof module!=='undefined')module.exports=api;root.CookCore=api;
 })(typeof window!=='undefined'?window:globalThis);

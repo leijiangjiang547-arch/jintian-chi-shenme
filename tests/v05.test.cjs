@@ -11,7 +11,7 @@ test('all illustrations have unique local cells and reviewed crop bounds',()=>{
 });
 test('storage migration preserves v4 personal data and future versions remain untouched',()=>{
  const map=new Map(Object.entries({'cook-prefs':JSON.stringify({category:'早餐',noNoodles:true,max:20,portions:3,cuisine:'早餐'}),'cook-saved':'["b41"]','cook-bought':'{"鸡蛋|个":true}','cook-theme':'"dark"','cook-timer':'{"end":123}'}));
- const st={getItem:k=>map.get(k)??null,setItem:(k,v)=>map.set(k,v)};assert.ok(C.migrateStorage(st,R).writable);assert.equal(map.get('cook-version'),'2');const p=JSON.parse(map.get('cook-prefs'));assert.equal(p.cuisine,'');assert.equal(p.noNoodles,true);assert.equal(p.portions,3);assert.equal(map.get('cook-saved'),'["b41"]');assert.equal(map.get('cook-bought'),'{"鸡蛋|个":true}');assert.equal(map.get('cook-timer'),'{"end":123}');
+ const st={getItem:k=>map.get(k)??null,setItem:(k,v)=>map.set(k,v)};assert.ok(C.migrateStorage(st,R).writable);assert.equal(map.get('cook-version'),'3');const p=JSON.parse(map.get('cook-prefs'));assert.equal(p.cuisine,'');assert.equal(p.noNoodles,true);assert.equal(p.portions,3);assert.equal(map.get('cook-saved'),'["b41"]');assert.equal(map.get('cook-bought'),'{"鸡蛋|个":true}');assert.equal(map.get('cook-timer'),'{"end":123}');
  const before=JSON.stringify([...map]);C.migrateStorage(st,R);assert.equal(JSON.stringify([...map]),before);map.set('cook-version','99');const future=JSON.stringify([...map]);assert.equal(C.migrateStorage(st,R).writable,false);assert.equal(JSON.stringify([...map]),future);
 });
 test('progress validates step revision and bounds; old backups remain importable',()=>{

@@ -18,7 +18,7 @@ if not KEY.exists(): raise SystemExit('Signing key missing; refusing to create a
 run(B/('aapt2'+ext),'compile','--dir',ROOT/'android/res','-o',OUT/'resources.zip')
 assets=OUT/'assets/web'; assets.mkdir(parents=True,exist_ok=True)
 for f in (ROOT/'web').iterdir():
-    if f.is_file() and f.suffix in {'.html','.js','.css','.svg','.png','.png'}:
+    if f.is_file() and f.suffix in {'.html','.js','.css','.svg','.png'}:
         (assets/f.name).write_bytes(f.read_bytes() if f.suffix=='.png' else f.read_text(encoding='utf-8').encode('utf-8'))
 run(B/('aapt2'+ext),'link','-o',OUT/'base.apk','-I',A,'--manifest',ROOT/'android/AndroidManifest.xml','-A',OUT/'assets','--min-sdk-version','26','--target-sdk-version','35',OUT/'resources.zip')
 classes=OUT/'classes'
@@ -33,7 +33,7 @@ with zipfile.ZipFile(OUT/'base.apk') as base, zipfile.ZipFile(OUT/'unsigned.apk'
         z.writestr(entry.filename,base.read(entry.filename),compress_type=zipfile.ZIP_STORED if entry.filename=='resources.arsc' else zipfile.ZIP_DEFLATED)
     z.write(OUT/'classes.dex','classes.dex')
 run(B/('zipalign'+ext),'-f','4',OUT/'unsigned.apk',OUT/'aligned.apk')
-APK=OUT/'cookdaily-v0.5.0.apk'
+APK=OUT/'cookdaily-v0.6.0.apk'
 run(J/('java'+ext),'-jar',B/'lib/apksigner.jar','sign','--ks',KEY,'--ks-key-alias','cookdaily','--ks-pass','env:COOK_KEYSTORE_PASS','--key-pass','env:COOK_KEYSTORE_PASS','--out',APK,OUT/'aligned.apk')
 run(J/('java'+ext),'-jar',B/'lib/apksigner.jar','verify','--verbose',APK)
 run(B/('zipalign'+ext),'-c','4',APK)

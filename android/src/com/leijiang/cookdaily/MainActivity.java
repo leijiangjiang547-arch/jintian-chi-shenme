@@ -10,7 +10,6 @@ import android.view.WindowInsets;
 import android.view.WindowManager;
 import android.webkit.*;
 import android.widget.FrameLayout;
-import android.widget.Toast;
 import java.io.ByteArrayInputStream;
 import java.util.Collections;
 import android.content.pm.ActivityInfo;
@@ -80,11 +79,7 @@ public class MainActivity extends Activity {
       @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest req) {
         Uri uri = req.getUrl();
         if ("https".equals(uri.getScheme()) && HOST.equals(uri.getHost())) return false;
-        if (req.isForMainFrame() && ("https".equals(uri.getScheme()) || "http".equals(uri.getScheme()))) {
-          try { startActivity(new Intent(Intent.ACTION_VIEW, uri)); }
-          catch(ActivityNotFoundException | SecurityException e) { Toast.makeText(MainActivity.this,"未找到可打开教程的浏览器",Toast.LENGTH_SHORT).show(); }
-        }
-        if (req.isForMainFrame() && !"https".equals(uri.getScheme()) && !"http".equals(uri.getScheme())) Toast.makeText(MainActivity.this,"此链接格式暂不支持，请使用教程搜索入口",Toast.LENGTH_SHORT).show();
+        if (req.isForMainFrame()) openExternal(uri.toString(), false);
         return true;
       }
     });
@@ -98,8 +93,28 @@ public class MainActivity extends Activity {
     try { if(request == 0) startActivity(i); else startActivityForResult(i, request); }
     catch (ActivityNotFoundException | SecurityException e) { message("这台设备没有可用的系统入口，请在系统设置中操作"); }
   }
+  /** Never load tutorials in the WebView that owns the native bridge. */
+  private void openExternal(String url, boolean choose) {
+    if (url == null || url.length() > 8192) { message("链接无法打开，请换一个教程入口"); return; }
+    Uri uri;
+    try { uri = Uri.parse(url.trim()); }
+    catch (RuntimeException e) { message("链接无法打开，请换一个教程入口"); return; }
+    String scheme = uri.getScheme();
+    if (!("https".equalsIgnoreCase(scheme) || "http".equalsIgnoreCase(scheme)) || uri.getHost() == null || uri.getHost().isEmpty() || uri.getUserInfo() != null || HOST.equalsIgnoreCase(uri.getHost())) {
+      message("此链接格式暂不支持，请换一个教程入口"); return;
+    }
+    final Uri external = uri.normalizeScheme();
+    runOnUiThread(() -> {
+      if (isFinishing() || isDestroyed()) return;
+      Intent intent = new Intent(Intent.ACTION_VIEW, external).addCategory(Intent.CATEGORY_BROWSABLE);
+      try { startActivity(choose ? Intent.createChooser(intent, "选择打开方式") : intent); }
+      catch (ActivityNotFoundException e) { message("没有可打开此链接的应用，请安装或启用浏览器后重试"); }
+      catch (SecurityException e) { message("系统暂不允许打开此链接，请换一个入口或检查浏览器设置"); }
+    });
+  }
   /** This bridge is exposed only to packaged content; all other origins are blocked. */
   public class NativeKitchen {
+    @JavascriptInterface public void openExternal(String url, boolean choose) { MainActivity.this.openExternal(url, choose); }
     @JavascriptInterface public String timerStatus() { return KitchenTimer.status(MainActivity.this); }
     @JavascriptInterface public boolean systemDark() { return (getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK) == android.content.res.Configuration.UI_MODE_NIGHT_YES; }
     @JavascriptInterface public void appearance(boolean dark) { runOnUiThread(() -> {
