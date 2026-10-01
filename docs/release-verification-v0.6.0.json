@@ -1,0 +1,16 @@
+{
+  "version": "0.6.0",
+  "checkedAt": "2026-10-01",
+  "sourceCommit": "ddd98d3",
+  "release": "https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/tag/v0.6.0",
+  "public": true,
+  "draft": false,
+  "prerelease": true,
+  "download": "https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/download/v0.6.0/cookdaily-v0.6.0.apk",
+  "bytes": 15885925,
+  "sha256": "9f5c8e215e647d02aeaae3ecde2b9ecfa82dee8bea7b578f99a59359452b6cf0",
+  "downloadedWithoutCredentials": true,
+  "matchesLocal": true,
+  "deviceValidation": "not-tested",
+  "kitchenValidation": "not-tested"
+}
