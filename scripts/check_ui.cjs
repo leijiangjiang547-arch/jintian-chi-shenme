@@ -14,22 +14,24 @@ for(const file of ['recipes.js','search-index.js','core.js','app.js'])w.eval(fs.
 const click=s=>{assert.ok(d.querySelector(s),s);d.querySelector(s).click();};
 const input=(s,value,type='input')=>{const e=d.querySelector(s);if(typeof value==='boolean')e.checked=value;else e.value=value;e.dispatchEvent(new w.Event(type,{bubbles:true}));};
 const page=name=>{w.history.replaceState(null,'','#'+name);w.dispatchEvent(new w.HashChangeEvent('hashchange'));};
+const loadAll=()=>{while(d.querySelector('[data-more]'))click('[data-more]');};
+const expected=f=>w.CookCore.filter(w.RECIPES,f).length;
 try {
- assert.match(d.querySelector('#main').textContent,/180 道/);
- page('recipes');click('[data-category=""]');assert.equal(d.querySelectorAll('.recipe-card').length,180);
+ assert.match(d.querySelector('#main').textContent,/300 道/);
+ page('recipes');click('[data-category=""]');assert.equal(d.querySelectorAll('.recipe-card').length,36);loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,300);
  assert.doesNotMatch(d.querySelector('#main').textContent,/新增|验收版|新 ·/);
  click('[data-difficulty="3"]');input('#cuisine','湘菜','change');
- assert.equal(d.querySelectorAll('.recipe-card').length,0);click('[data-difficulty="2"]');assert.ok(d.querySelector('[data-open="d88"]'),'everyday Hunan dish');
- assert.equal(d.querySelectorAll('.recipe-card').length,1);
- click('[data-reset-filters]');assert.equal(d.querySelectorAll('.recipe-card').length,180);
- input('#cuisine','鲁菜','change');assert.equal(d.querySelectorAll('.recipe-card').length,2);
+ assert.equal(d.querySelectorAll('.recipe-card').length,Math.min(36,expected({cuisine:'湘菜',difficulty:3})));click('[data-difficulty="2"]');assert.ok(d.querySelector('[data-open="d88"]'),'everyday Hunan dish');
+ assert.equal(d.querySelectorAll('.recipe-card').length,Math.min(36,expected({cuisine:'湘菜',difficulty:2})));
+ click('[data-reset-filters]');loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,300);
+ input('#cuisine','鲁菜','change');assert.equal(d.querySelectorAll('.recipe-card').length,Math.min(36,expected({cuisine:'鲁菜'})));
  click('[data-category="早餐"]');assert.equal(d.querySelector('#cuisine'),null);
- assert.equal(d.querySelectorAll('.recipe-card').length,80);
+ loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,107);
  click('[data-category=""]');
- input('#search','红烧肉');assert.equal(d.querySelectorAll('.recipe-card').length,1);
+ input('#search','红烧肉');assert.equal(d.querySelectorAll('.recipe-card').length,expected({query:'红烧肉'}));assert.equal(d.querySelector('.card-open').dataset.open,'d81');
  input('#search','');click('[data-category="早餐"]');
  input('#no-noodles',true,'change');
- assert.equal(d.querySelectorAll('.recipe-card').length,70);
+ loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,97);
  input('#no-noodles',false,'change');click('[data-category=""]');
  for(const r of w.RECIPES){
    input('#search',r.name);click('[data-open="'+r.id+'"]');
@@ -46,5 +48,5 @@ try {
  page('shopping');assert.match(d.querySelector('#main').textContent,/香蕉厚蛋烧/);
  assert.ok(d.querySelectorAll('.shop-item').length>0);
  assert.deepEqual(errors,[]);
- console.log('DOM QA passed: 180 details and cooking navigation; search; 70 filtered breakfasts; servings; existing favorites; shopping. Not visual/device QA.');
+ console.log('DOM QA passed: 300 details and cooking navigation; ranked search; 97 filtered breakfasts; bounded batches; servings; existing favorites; shopping. Not visual/device QA.');
 } finally {w.close();}

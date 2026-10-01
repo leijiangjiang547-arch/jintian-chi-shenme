@@ -1,0 +1,1722 @@
+{
+  "reviewedOn": "2026-10-01",
+  "count": 60,
+  "kitchen": "not-tested",
+  "sourcePolicy": "recipe仅指菜品基本方法支持，technique仅指注明范围；搜索缓存完整正文和直接页面读取分别记录，不把菜单或节目简介说成完整配方。",
+  "substitutions": [
+    {
+      "candidate": "八公山豆腐饺",
+      "replacement": "千张鲜肉蒸饺",
+      "reason": "传统豆腐皮制作缺少可复现依据，不能以千张包肉冒充地方原菜。",
+      "cuisine": "家常风味"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "v7b01",
+      "name": "红烧狮子头",
+      "references": [
+        {
+          "title": "HowToCook · 酱排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/酱排骨/酱排骨.md",
+          "path": "dishes/meat_dish/酱排骨/酱排骨.md",
+          "sha256": "9272ac37fd8c620aa2d3a7dbecf073f994efe81bc70428b09193577d80d32013",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "小胖叽叽 · 红烧狮子头(四喜丸子)家庭版，简单美味",
+          "url": "https://m.xiachufang.com/recipe/106279214/",
+          "kind": "web",
+          "support": "technique",
+          "note": "支持粗肉丁马蹄蛋馅、同向搅拌成丸与酱汁焖烧；本配方改浅油煎定形、去酒、重新定量及延长熟透检查，不采用来源15分钟。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b02",
+      "name": "葱油蚕豆",
+      "references": [
+        {
+          "title": "泰州发布 · 葱油蚕豆",
+          "url": "https://www.ourjiangsu.com/a/20170413/149205172086.shtml",
+          "kind": "web",
+          "support": "recipe",
+          "note": "葱爆香、蚕豆加热水焖熟、调味收汁",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b03",
+      "name": "盐水鸭",
+      "references": [
+        {
+          "title": "杨哥的花园 · 盐水鸭",
+          "url": "https://www.douguo.com/cookbook/1421600.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "鸭腿盐腌、香料水煮；家庭配方减盐并明确冷藏和中心温度",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b04",
+      "name": "苏式熏鱼",
+      "references": [
+        {
+          "title": "梅依旧 · 苏式熏鱼",
+          "url": "https://home.meishichina.com/recipe-30004.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "腌鱼、炸制定形、浸甜香酱汁；不使用油冒烟的判断",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b05",
+      "name": "无锡酱排骨",
+      "references": [
+        {
+          "title": "HowToCook · 酱排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/酱排骨/酱排骨.md",
+          "path": "dishes/meat_dish/酱排骨/酱排骨.md",
+          "sha256": "9272ac37fd8c620aa2d3a7dbecf073f994efe81bc70428b09193577d80d32013",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b06",
+      "name": "金陵鸭血粉丝汤",
+      "references": [
+        {
+          "title": "西马栀子 · 鸭血粉丝汤",
+          "url": "https://home.meishichina.com/recipe-131156.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "鸭汤、鸭血、细粉丝与豆泡成汤；本配方采用有包装成品鸭汤，省去鸭杂",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b07",
+      "name": "苏式酱汁豆干",
+      "references": [
+        {
+          "title": "HowToCook · 葱煎豆腐",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/葱煎豆腐.md",
+          "path": "dishes/vegetable_dish/葱煎豆腐.md",
+          "sha256": "41bf5086ec26c95209f423816f5132c5c8c754c69787b18be9fbda77918c90b1",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b08",
+      "name": "虾米芦蒿",
+      "references": [
+        {
+          "title": "买购食材资料 · 芦蒿炒金钩虾米",
+          "url": "https://www.maigoo.com/goomai/321510.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅参考虾米泡软、炒香后与芦蒿合炒的顺序；网页是整理资料，非原作者配方，定量独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_recipe_section_extract"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b09",
+      "name": "扬州炒饭",
+      "references": [
+        {
+          "title": "HowToCook · 扬州炒饭",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/扬州炒饭/扬州炒饭.md",
+          "path": "dishes/staple/扬州炒饭/扬州炒饭.md",
+          "sha256": "4f050c0a28b76a68da053199f43c0f9207ddd86c491f76f5ca50d491256b1eef",
+          "kind": "recipe",
+          "note": "配料先炒、蛋与饭分散炒匀；用量和米饭存放按家庭方式编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b10",
+      "name": "葱油芋艿",
+      "references": [
+        {
+          "title": "烟火间 · 葱油芋艿",
+          "url": "https://m.xiachufang.com/recipe/33876/",
+          "kind": "web",
+          "support": "recipe",
+          "note": "先煮芋艿、后与葱油和少量水焖制",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b11",
+      "name": "油焖春笋",
+      "references": [
+        {
+          "title": "子瑜妈妈 · 油焖春笋",
+          "url": "https://www.xiachufang.com/recipe/89232/",
+          "kind": "web",
+          "support": "recipe",
+          "note": "春笋先焯、后炒再焖收汁",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b12",
+      "name": "雪菜笋丝炒毛豆",
+      "references": [
+        {
+          "title": "E路拾缘 · 雪菜笋丝炒毛豆",
+          "url": "https://www.xiachufang.com/recipe/100439162/",
+          "kind": "web",
+          "support": "technique",
+          "note": "原作者用油菜代雪菜，本页用商品雪菜；只借鉴笋丝、毛豆分熟后合炒的顺序",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b13",
+      "name": "笋干老鸭煲",
+      "references": [
+        {
+          "title": "穗穗 · 笋尖海带老鸭汤",
+          "url": "https://home.meishichina.com/recipe-42094.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "鸭块焯水后与笋慢炖；本页不用海带，使用冷藏泡软的商品薄笋干",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 浸泡干食材的食物安全",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "室温浸泡超过2小时应改冷藏；泡好及时使用",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b14",
+      "name": "西湖牛肉羹",
+      "references": [
+        {
+          "title": "台视文化 · 西湖牛肉羹",
+          "url": "https://www.ttv.com.tw/cuisine/amp/Detail2.aspx?rid=944",
+          "kind": "web",
+          "support": "recipe",
+          "note": "牛肉碎、豆腐、笋与蛋白成羹；本页用全蛋并重新编排淀粉和熟透流程",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b15",
+      "name": "宁波咸齑大汤黄鱼",
+      "references": [
+        {
+          "title": "angelessong · 雪菜大汤黄鱼",
+          "url": "https://home.meishichina.com/recipe-30298.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "黄鱼擦干煎制、热水炖煮、后下雪菜；用量独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b16",
+      "name": "温州鱼丸汤",
+      "references": [
+        {
+          "title": "落雨无声 · 温州鱼丸汤",
+          "url": "https://home.meishichina.com/recipe-67075.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "鱼肉去刺切条、拌淀粉冷藏后做不规则鱼丸；加热以熟透为准",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b17",
+      "name": "嘉兴鲜肉粽",
+      "references": [
+        {
+          "title": "飞雪飘絮 · 嘉兴鲜肉粽",
+          "url": "https://home.meishichina.com/recipe-70965.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "肉腌、米调味、两叶漏斗包法；不采用淘米水泡肉或整夜不确定温度保温",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b18",
+      "name": "葱烤鲫鱼",
+      "references": [
+        {
+          "title": "HowToCook · 红烧鱼",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/红烧鱼.md",
+          "path": "dishes/aquatic/红烧鱼.md",
+          "sha256": "a23551a3f6743883bd5dde63a09b92cef9d3731e99f85705315a5bb4785e12ce",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b19",
+      "name": "梅干菜蒸肉",
+      "references": [
+        {
+          "title": "春天姐姐 · 梅菜蒸肉",
+          "url": "https://home.meishichina.com/recipe-96442.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "梅干菜洗泡炒香后与肉分层蒸；本页普通蒸锅代替高压锅，不采用原调味比例",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b20",
+      "name": "杭州酱爆茄子",
+      "references": [
+        {
+          "title": "HowToCook · 炒茄子",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒茄子.md",
+          "path": "dishes/vegetable_dish/炒茄子.md",
+          "sha256": "64f9e3b89091a20ec15555e4ea03d81b5c5d76a97b2a8f0995d5bfdfcab5862c",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b21",
+      "name": "闽南五香卷",
+      "references": [
+        {
+          "title": "大西瓜朋友 · 闽南五香卷",
+          "url": "https://www.xiachufang.com/recipe/107019681/",
+          "kind": "web",
+          "support": "technique",
+          "note": "公开正文支持猪肉马蹄洋葱馅和腐皮包卷的成形步骤；未给出完整炸时，本页先蒸熟再煎",
+          "checked": "2026-10-01",
+          "access": "web_search_recipe_steps_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b22",
+      "name": "福州荔枝肉",
+      "references": [
+        {
+          "title": "央视国际 · 福建美食：荔枝肉",
+          "url": "https://big5.cctv.com/gate/big5/news.cctv.cn/special/C16295/20060824/102501.shtml",
+          "kind": "web",
+          "support": "recipe",
+          "note": "猪肉十字花刀、马蹄配料、炸制定形后挂甜酸汁；番茄酱替代红色着色料",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b23",
+      "name": "福州醉排骨",
+      "references": [
+        {
+          "title": "HowToCook · 醉排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/醉排骨/醉排骨.md",
+          "path": "dishes/meat_dish/醉排骨/醉排骨.md",
+          "sha256": "dd10167de8b107ad217b4d8e0e41cd197b4a1e615b2e475e97d00686b50c32a0",
+          "kind": "recipe",
+          "note": "排骨炸制后拌甜酸蒜汁；用量及熟透时间家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b24",
+      "name": "福州肉燕汤",
+      "references": [
+        {
+          "title": "小艾厨娘 · 福州肉燕",
+          "url": "https://home.meishichina.com/recipe-205617.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "商品燕皮包猪肉马蹄馅、蒸后入汤；不采用半熟后冷藏的处理",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b25",
+      "name": "闽南咸饭",
+      "references": [
+        {
+          "title": "诗心 · 闽南传统特色咸饭",
+          "url": "https://home.meishichina.com/recipe-28903.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "肉、海鲜干货与香菇先炒再和米同煮，红葱油收尾；本页配料简化",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 浸泡干食材的食物安全",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "室温浸泡超过2小时应改冷藏；泡好及时使用",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b26",
+      "name": "沙茶牛肉",
+      "references": [
+        {
+          "title": "高雄区农业改良场 · 沙茶牛肉",
+          "url": "https://www.kdais.gov.tw/ws.php?id=999",
+          "kind": "web",
+          "support": "technique",
+          "note": "牛肉腌制、与蔬菜分炒后合炒；芥蓝替代尖瓣花，不主张唯一地域归属",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b27",
+      "name": "姜母鸭",
+      "references": [
+        {
+          "title": "球娃娃 · 厦门姜母鸭",
+          "url": "https://home.meishichina.com/recipe-387709.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "鸭块先焯炒、老姜芝麻油炒香后加热水慢炖；本页不用酒",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b28",
+      "name": "红糟蒸鸡",
+      "references": [
+        {
+          "title": "Cass / 搵到食 · 红糟冬菇金针蒸鸡",
+          "url": "https://cass-tsl.blogspot.com/2012/04/blog-post_22.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "原作者红糟调味冷藏腌鸡后蒸25–30分钟；本页不用金针，只使用商品红糟",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b29",
+      "name": "闽南蛤蜊蒸丝瓜",
+      "references": [
+        {
+          "title": "美善品Cookidoo · 蛤蜊蒸丝瓜",
+          "url": "https://cookidoo.com.cn/recipes/recipe/zh-Hans-CN/r643813",
+          "kind": "web",
+          "support": "ingredients",
+          "note": "可公开读取蛤蜊与丝瓜蒸制的材料组合，设备完整流程不可读取；本页普通蒸锅流程独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_ingredients_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b30",
+      "name": "闽南花生汤",
+      "references": [
+        {
+          "title": "秋歌云且留 · 高压锅速成花生汤",
+          "url": "https://home.meishichina.com/recipe-97065.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "花生去皮加水炖软后糖调味；本页普通锅长炖、不用食用碱",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 浸泡干食材的食物安全",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "室温浸泡超过2小时应改冷藏；泡好及时使用",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b31",
+      "name": "徽州刀板香",
+      "references": [
+        {
+          "title": "央视 · 徽州刀板香",
+          "url": "https://tv.cctv.com/2018/02/25/VIDEmIr2jpQFY0iu7fPQMRjT180225.shtml",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持刀板香腌肉蒸熟热切的菜品形态；不支持本页定量，不提供自制腌肉",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "黄山市徽州区文旅体局 · 徽州刀板香",
+          "url": "https://www.huangshan.gov.cn/zwgk/public/6615714/11570389.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "腊肉先蒸熟、再切片装盘短蒸的现代流程；本页不使用原配茶笋、辣椒干，定量独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b32",
+      "name": "煎烧毛豆腐",
+      "references": [
+        {
+          "title": "央视 · 徽州毛豆腐",
+          "url": "https://tv.cctv.com/2018/04/23/VIDEI4pqeX12dXfP6pxzmx6a180423.shtml",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持食材形态和地方风味；本页只用正规商品毛豆腐，不做家庭发霉培养",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "HowToCook · 葱煎豆腐",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/葱煎豆腐.md",
+          "path": "dishes/vegetable_dish/葱煎豆腐.md",
+          "sha256": "41bf5086ec26c95209f423816f5132c5c8c754c69787b18be9fbda77918c90b1",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b33",
+      "name": "笋干烧肉",
+      "references": [
+        {
+          "title": "央视回家吃饭 · 笋干烧肉",
+          "url": "https://tv.cctv.com/2020/12/22/VIDE5vNNZokMD3IlLJ91IvN6201222.shtml",
+          "kind": "web",
+          "support": "technique",
+          "note": "节目概要确认菜名与组合；书面概要没有全部定量，量和时间独立编排",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "HowToCook · 徽派红烧肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+          "path": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+          "sha256": "61b9178eb4f12c87e9adf5005c83fcb8c67cc01a929492f5131b300a7299c86e",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 浸泡干食材的食物安全",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "室温浸泡超过2小时应改冷藏；泡好及时使用",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b34",
+      "name": "徽州蒸蛋饺",
+      "references": [
+        {
+          "title": "央视回家吃饭 · 冬日豆浆烧的蛋饺",
+          "url": "https://tv.cctv.com/2016/03/23/VIDEUc7lE8gEkvOpJ3B3Rc99160323.shtml",
+          "kind": "web",
+          "support": "technique",
+          "note": "蛋液薄煎到半定形、加小份肉馅对折的成形技法；本页后续用蒸锅熟透",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b35",
+      "name": "绩溪挞粿",
+      "references": [
+        {
+          "title": "宣城市文化和旅游局 · 挞粿制作技艺",
+          "url": "https://wlj.xuancheng.gov.cn/News/show/1281309.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "小麦面皮包蔬菜肉馅、压薄烙制；本页萝卜肉馅先炒熟，不采用露天腌晒",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b36",
+      "name": "千张鲜肉蒸饺",
+      "references": [
+        {
+          "title": "小昭113-1 · 千张蒸肉卷",
+          "url": "https://www.xiachufang.com/recipe/1090659/",
+          "kind": "web",
+          "support": "technique",
+          "note": "千张包肉馅、蒸熟、蒸汁勾薄芡；本页改小包形，肉馅尺寸与加热重新编排",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b37",
+      "name": "雪冬烧鸡",
+      "references": [
+        {
+          "title": "聊一聊安徽菜系 · 雪冬烧山鸡做法",
+          "url": "https://www.sohu.com/a/211059793_703946",
+          "kind": "web",
+          "support": "technique",
+          "note": "资料整理中的鸡块、雪菜和冬笋先炒后烧技法；本页不用野禽或肥膘，用养殖鸡",
+          "checked": "2026-10-01",
+          "access": "web_search_recipe_section_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b38",
+      "name": "问政山笋",
+      "references": [
+        {
+          "title": "吃货研究院 · 安徽问政山笋",
+          "url": "https://m.xiachufang.com/recipe/104636740/",
+          "kind": "web",
+          "support": "technique",
+          "note": "鲜笋、香菇、火腿同烹组合；原使用微蒸烤机，本页改为炉灶小锅炖",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "子瑜妈妈 · 油焖春笋",
+          "url": "https://www.xiachufang.com/recipe/89232/",
+          "kind": "web",
+          "support": "recipe",
+          "note": "春笋先焯、后炒再焖收汁",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b39",
+      "name": "蕨菜炒腊肉",
+      "references": [
+        {
+          "title": "时光-sue · 蕨菜炒腊肉",
+          "url": "https://m.xiachufang.com/recipe/103702248/",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅参考腊肉预熟、和蕨菜合炒顺序；不用其采野菜或短焯鲜蕨处理",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "日本农林水产省 · 食用野菜与山菜注意",
+          "url": "https://www.maff.go.jp/j/syouan/nouan/rinsanbutsu/natural_toxins.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "食用山菜需去涩处理，不采不认识野草；本页只选已加工包装蕨菜",
+          "checked": "2026-10-01",
+          "access": "web_search_safety_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b40",
+      "name": "黄山炖鸽",
+      "references": [
+        {
+          "title": "南岳新闻网 · 黄山炖鸽",
+          "url": "https://www.nanyuenews.com/content/2017/01/09/7029720.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "报道支持鸽、山药、葱姜组合及隔水长炖；其引用中华美食网，本页量、去酒与切块独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "HowToCook · 菌菇炖乳鸽",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+          "path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+          "sha256": "f67cc1a809351967d40aaf089f1bbdfeb8623fc0877c4bf462a3fee66a173f4d",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b41",
+      "name": "锅包肉",
+      "references": [
+        {
+          "title": "HowToCook · 老式锅包肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+          "path": "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+          "sha256": "d0ad53ba7519282c8c6f0e6d4bda9ffa29fed6f544e129186a59d04b97c1f1aa",
+          "kind": "recipe",
+          "note": "裹土豆淀粉后炸制、甜酸汁挂薄层；本配方调整肉厚、油温和熟透检查"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b42",
+      "name": "排骨炖豆角",
+      "references": [
+        {
+          "title": "大海微澜 · 排骨炖豆角",
+          "url": "https://home.meishichina.com/recipe-567016.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "熟排骨与豆角焖炖组合；本页从生排骨完整焯炖，并延长豆角熟透加热",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "HowToCook · 酱排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/酱排骨/酱排骨.md",
+          "path": "dishes/meat_dish/酱排骨/酱排骨.md",
+          "sha256": "9272ac37fd8c620aa2d3a7dbecf073f994efe81bc70428b09193577d80d32013",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b43",
+      "name": "小鸡炖蘑菇",
+      "references": [
+        {
+          "title": "冬至2467 · 黑龙江小鸡炖蘑菇",
+          "url": "https://home.meishichina.com/recipe-307874.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "鸡块焯炒先炖、后加泡好榛蘑及粉条；本页采用包装干蘑菇，量和熟透检查重新编排",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 浸泡干食材的食物安全",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "室温浸泡超过2小时应改冷藏；泡好及时使用",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b44",
+      "name": "酸菜白肉",
+      "references": [
+        {
+          "title": "HowToCook · 猪肉烩酸菜",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/猪肉烩酸菜.md",
+          "path": "dishes/meat_dish/猪肉烩酸菜.md",
+          "sha256": "d612bce1beae41e6d35c6d9274fdf4c3cc9cd78986dc1da11129e6f2af48fb4c",
+          "kind": "technique",
+          "note": "猪肉与东北酸菜慢炖；本页先整条煮肉后切薄片，不采用原比例或营养描述"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b45",
+      "name": "新疆大盘鸡",
+      "references": [
+        {
+          "title": "HowToCook · 新疆大盘鸡",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+          "path": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+          "sha256": "07656ac3c01a40a49dc8900c729c8c90ba226fcdc5dda11b41d313c6205354ba",
+          "kind": "recipe",
+          "note": "鸡块、土豆与椒同烧的基本流程；调味和加热时间按小份重编"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b46",
+      "name": "孜然羊肉",
+      "references": [
+        {
+          "title": "万山红 · 孜然羊肉",
+          "url": "https://home.meishichina.com/recipe-376626.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "羊肉切2毫米薄片、孜然腌制并分批炒；公开提取部分中段未完整，本页不用苏打黄酒",
+          "checked": "2026-10-01",
+          "access": "web_search_recipe_steps_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b47",
+      "name": "宁夏羊肉萝卜汤",
+      "references": [
+        {
+          "title": "HowToCook · 羊肉汤",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/羊肉汤/羊肉汤.md",
+          "path": "dishes/soup/羊肉汤/羊肉汤.md",
+          "sha256": "15b92b31e9cad25b91d5e2fa65783a7926b87c63e8cd620e4c12c6c07434d532",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b48",
+      "name": "陕西肉夹馍",
+      "references": [
+        {
+          "title": "万山红 · 陕西肉夹馍",
+          "url": "https://home.meishichina.com/recipe-112634.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "每剂约80克、擀长卷起压饼烙熟后夹肉；原用米酒半发面，本页改酵母；卤肉另用红烧技法",
+          "checked": "2026-10-01",
+          "access": "web_search_recipe_steps_extract"
+        },
+        {
+          "title": "HowToCook · 徽派红烧肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+          "path": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+          "sha256": "61b9178eb4f12c87e9adf5005c83fcb8c67cc01a929492f5131b300a7299c86e",
+          "kind": "technique",
+          "note": "相关烹调技法；用量、配菜及时间独立家庭编排"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b49",
+      "name": "玉米面菜团子",
+      "references": [
+        {
+          "title": "皓星921 · 玉米面菜团子",
+          "url": "https://www.xiachufang.com/recipe/107118317/",
+          "kind": "web",
+          "support": "technique",
+          "note": "蔬菜馅外裹玉米面蒸制；本页用熟蛋与常见蔬菜，改为薄软玉米面皮",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b50",
+      "name": "红糖发面饼",
+      "references": [
+        {
+          "title": "爱尚小美食 · 红糖发面饼",
+          "url": "https://m.xiachufang.com/recipe/106757153/",
+          "kind": "web",
+          "support": "technique",
+          "note": "发面包红糖面粉馅、锅中慢烙；去掉额外油酥和碱粉，明确发酵时间",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b51",
+      "name": "菠菜鸡蛋水晶蒸饺",
+      "references": [
+        {
+          "title": "在时光中盛开的女子 · 水晶饺皮（澄粉版）",
+          "url": "https://m.xiachufang.com/recipe/106011667/",
+          "kind": "web",
+          "support": "technique",
+          "note": "澄粉与玉米淀粉用沸水烫匀、醒面包制后蒸；家庭馅料另编，不采用猪油",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "毛毛妈 · 菠菜蒸饺",
+          "url": "https://maomaomom.ca/zh/%E3%80%90%E8%8F%A0%E8%8F%9C%E8%92%B8%E9%A5%BA%E3%80%91/",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持菠菜焯水挤干、鸡蛋炒散混馅；原用普通面粉皮并含虾，本页改水晶皮及纯菜蛋馅",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b52",
+      "name": "小米蒸糕",
+      "references": [
+        {
+          "title": "阿夏ofeva · 小米发糕（蒸烤箱版）",
+          "url": "https://m.xiachufang.com/recipe/106114479/",
+          "kind": "web",
+          "support": "technique",
+          "note": "小米粉、面粉、蛋与酵母混合发酵后蒸熟；本页改普通蒸锅及25–30℃醒发，延长等待并明确厚度",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b53",
+      "name": "香蕉核桃烤松糕",
+      "references": [
+        {
+          "title": "Susan Reid / King Arthur Baking · Caramel Banana Walnut Muffins",
+          "url": "https://www.kingarthurbaking.com/recipes/caramel-banana-walnut-muffins-recipe",
+          "kind": "web",
+          "support": "technique",
+          "note": "香蕉、核桃混合面糊并烤熟的技法；本页去焦糖并调整小份用量，需实做确认口感",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b54",
+      "name": "烤燕麦能量棒",
+      "references": [
+        {
+          "title": "BBC Berkshire · Granola bar – breakfast on the hoof",
+          "url": "https://downloads.bbc.co.uk/berkshire/pdf/granola.pdf",
+          "kind": "web",
+          "support": "technique",
+          "note": "燕麦与坚果裹蜂蜜油混合液，低温长烤成脆块；小份重新定量",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b55",
+      "name": "口蘑奶酪烘蛋",
+      "references": [
+        {
+          "title": "Sophie Godwin / Good Food · Ham, mushroom & spinach frittata",
+          "url": "https://www.bbcgoodfoodme.com/recipes/ham-mushroom-spinach-frittata/",
+          "kind": "web",
+          "support": "technique",
+          "note": "蘑菇先炒再覆蛋、表面奶酪加热；本页不用火腿菠菜，改烤箱熟透",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b56",
+      "name": "豆沙糯米饼",
+      "references": [
+        {
+          "title": "煎蛋甜心雨 · 豆沙糯米饼",
+          "url": "https://mip.xiachufang.com/recipe/104233592/",
+          "kind": "web",
+          "support": "technique",
+          "note": "只支持糯米团包豆沙、压薄慢煎的技法；本页不使用原配方酵母，比例和时间独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b57",
+      "name": "桂花酒酿小圆子",
+      "references": [
+        {
+          "title": "HowToCook · 醪糟小汤圆",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/醪糟小汤圆.md",
+          "path": "dishes/staple/醪糟小汤圆.md",
+          "sha256": "7883549accad1dce42d38bd5f661a2f6cf581ce80df8b1296598d8442add86d3",
+          "kind": "recipe",
+          "note": "先煮熟小圆子，再加入商品酒酿；不涉及自制发酵"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b58",
+      "name": "广式萝卜糕",
+      "references": [
+        {
+          "title": "Daddy Lau / Made With Lau · Chinese Turnip Cake",
+          "url": "https://www.madewithlau.com/recipes/chinese-turnip-cake",
+          "kind": "web",
+          "support": "technique",
+          "note": "萝卜与米浆炒稠、蒸熟、冷藏定形再煎；小份调量并采用及时冷藏",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b59",
+      "name": "咸豆浆配芝麻酥饼",
+      "references": [
+        {
+          "title": "foggyjungle · 咸豆浆",
+          "url": "https://www.xiachufang.com/recipe/100488279/",
+          "kind": "web",
+          "support": "technique",
+          "note": "醋和酱油先入碗、冲热豆浆凝絮并配紫菜榨菜；本页使用已煮熟商品豆浆，不提供生豆浆制作",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "HowToCook · 芝麻烧饼",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/烧饼/芝麻烧饼.md",
+          "path": "dishes/staple/烧饼/芝麻烧饼.md",
+          "sha256": "d614b76824eb31352457a067387cf1b9dc1db2cdaf4bff84a9bef9d1cce763f5",
+          "kind": "technique",
+          "note": "面团与油酥分制、卷折并沾芝麻的技法；原电饼铛模式无定时，本页改烤箱并独立定量和计时"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    },
+    {
+      "id": "v7b60",
+      "name": "鲜虾小米烩饭",
+      "references": [
+        {
+          "title": "Cookidoo · 小米鲜虾粥",
+          "url": "https://cookidoo.thermomix.com/recipes/recipe/en-US/r782669",
+          "kind": "web",
+          "support": "ingredients",
+          "note": "公开可读材料有小米、香菇、豌豆、虾；完整流程不可读取，仅支持材料组合，本页稠饭加热流程独立编排",
+          "checked": "2026-10-01",
+          "access": "web_search_ingredients_extract"
+        },
+        {
+          "title": "HowToCook · 小米粥",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/小米粥.md",
+          "path": "dishes/soup/小米粥.md",
+          "sha256": "028098466e8880a8603fc42619272a5c951740606e79632b5a5a22dcfc1a8268",
+          "kind": "technique",
+          "note": "米下沸水、先滚后缓煮并搅底的顺序；本页少水烩饭，不沿用粥的水米比例或功效描述"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮与翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "中心75℃至少30秒的熟透检查",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "家庭独立定量和流程编排；不是来源原料比例的验证复刻",
+      "kitchen": "not-tested",
+      "timing": "含备料与列明等待的两人份估计，尚未实际逐道计时",
+      "remaining": "真实厨房复核用量、口感和熟度；复杂包制需拍照及称重复核"
+    }
+  ]
+}

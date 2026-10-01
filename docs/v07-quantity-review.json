@@ -1,0 +1,73 @@
+{
+  "scope": 120,
+  "reviewedOn": "2026-10-01",
+  "flags": [
+    {
+      "id": "v7b03",
+      "name": "盐水鸭",
+      "reasons": [
+        {
+          "type": "salt-method-review",
+          "amount": 10.0
+        }
+      ],
+      "status": "reviewed-method-quantity",
+      "decision": "10g salt cures 600g duck, floating salt and cure juices are removed; not a claim that all salt is consumed."
+    },
+    {
+      "id": "v7b04",
+      "name": "苏式熏鱼",
+      "reasons": [
+        {
+          "type": "frying-oil-review",
+          "amount": 500.0
+        }
+      ],
+      "status": "reviewed-method-quantity",
+      "decision": "500ml is fixed small-pot frying medium with pot-depth/half-full/batch guidance; it is not multiplied by servings and is not an absorbed-oil estimate."
+    },
+    {
+      "id": "v7b22",
+      "name": "福州荔枝肉",
+      "reasons": [
+        {
+          "type": "frying-oil-review",
+          "amount": 500.0
+        }
+      ],
+      "status": "reviewed-method-quantity",
+      "decision": "500ml is fixed small-pot frying medium with pot-depth/half-full/batch guidance; it is not multiplied by servings and is not an absorbed-oil estimate."
+    },
+    {
+      "id": "v7b23",
+      "name": "福州醉排骨",
+      "reasons": [
+        {
+          "type": "frying-oil-review",
+          "amount": 500.0
+        }
+      ],
+      "status": "reviewed-method-quantity",
+      "decision": "500ml is fixed small-pot frying medium with pot-depth/half-full/batch guidance; it is not multiplied by servings and is not an absorbed-oil estimate."
+    },
+    {
+      "id": "v7b41",
+      "name": "锅包肉",
+      "reasons": [
+        {
+          "type": "frying-oil-review",
+          "amount": 500.0
+        }
+      ],
+      "status": "reviewed-method-quantity",
+      "decision": "500ml is fixed small-pot frying medium with pot-depth/half-full/batch guidance; it is not multiplied by servings and is not an absorbed-oil estimate."
+    }
+  ],
+  "meaning": "Flags require manual review. Repeated preparation references do not necessarily mean repeated consumption; frying oil is not all ingested. No automated kitchen validation.",
+  "manualReview": {
+    "reviewer": "root",
+    "reviewedOn": "2026-10-01",
+    "complete": true,
+    "kitchen": "not-tested"
+  }
+}

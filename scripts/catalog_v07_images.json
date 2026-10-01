@@ -1,0 +1,1922 @@
+{
+  "v7a01": {
+    "sheet": "food-atlas-7.png",
+    "cell": 0,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      0,
+      223,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "干锅菜花成品示意，AI生成，非实拍"
+  },
+  "v7a02": {
+    "sheet": "food-atlas-7.png",
+    "cell": 1,
+    "kind": "ai-illustration",
+    "rect": [
+      223,
+      0,
+      227,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "水煮肉片成品示意，AI生成，非实拍"
+  },
+  "v7a03": {
+    "sheet": "food-atlas-7.png",
+    "cell": 2,
+    "kind": "ai-illustration",
+    "rect": [
+      450,
+      0,
+      225,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "蒜泥白肉成品示意，AI生成，非实拍"
+  },
+  "v7a04": {
+    "sheet": "food-atlas-7.png",
+    "cell": 3,
+    "kind": "ai-illustration",
+    "rect": [
+      675,
+      0,
+      226,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "盐煎肉成品示意，AI生成，非实拍"
+  },
+  "v7a05": {
+    "sheet": "food-atlas-7.png",
+    "cell": 4,
+    "kind": "ai-illustration",
+    "rect": [
+      901,
+      0,
+      244,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "泡椒鸡胗成品示意，AI生成，非实拍"
+  },
+  "v7a06": {
+    "sheet": "food-atlas-7.png",
+    "cell": 5,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      214,
+      223,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "干煸杏鲍菇成品示意，AI生成，非实拍"
+  },
+  "v7a07": {
+    "sheet": "food-atlas-7.png",
+    "cell": 6,
+    "kind": "ai-illustration",
+    "rect": [
+      223,
+      214,
+      227,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "白油冬瓜成品示意，AI生成，非实拍"
+  },
+  "v7a08": {
+    "sheet": "food-atlas-7.png",
+    "cell": 7,
+    "kind": "ai-illustration",
+    "rect": [
+      450,
+      214,
+      225,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "鱼香烘蛋成品示意，AI生成，非实拍"
+  },
+  "v7a09": {
+    "sheet": "food-atlas-7.png",
+    "cell": 8,
+    "kind": "ai-illustration",
+    "rect": [
+      675,
+      214,
+      226,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "粉蒸肉成品示意，AI生成，非实拍"
+  },
+  "v7a10": {
+    "sheet": "food-atlas-7.png",
+    "cell": 9,
+    "kind": "ai-illustration",
+    "rect": [
+      901,
+      214,
+      244,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "酸菜鱼成品示意，AI生成，非实拍"
+  },
+  "v7a11": {
+    "sheet": "food-atlas-7.png",
+    "cell": 10,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      425,
+      223,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "金钱蛋成品示意，AI生成，非实拍"
+  },
+  "v7a12": {
+    "sheet": "food-atlas-7.png",
+    "cell": 11,
+    "kind": "ai-illustration",
+    "rect": [
+      223,
+      425,
+      227,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "剁椒蒸鸡腿成品示意，AI生成，非实拍"
+  },
+  "v7a13": {
+    "sheet": "food-atlas-7.png",
+    "cell": 12,
+    "kind": "ai-illustration",
+    "rect": [
+      450,
+      425,
+      225,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "小炒黄牛肉成品示意，AI生成，非实拍"
+  },
+  "v7a14": {
+    "sheet": "food-atlas-7.png",
+    "cell": 13,
+    "kind": "ai-illustration",
+    "rect": [
+      675,
+      425,
+      226,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "蒸腊肉成品示意，AI生成，非实拍"
+  },
+  "v7a15": {
+    "sheet": "food-atlas-7.png",
+    "cell": 14,
+    "kind": "ai-illustration",
+    "rect": [
+      901,
+      425,
+      244,
+      211
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "擂辣椒皮蛋成品示意，AI生成，非实拍"
+  },
+  "v7a16": {
+    "sheet": "food-atlas-7.png",
+    "cell": 15,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      636,
+      223,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "酸豆角炒肉末成品示意，AI生成，非实拍"
+  },
+  "v7a17": {
+    "sheet": "food-atlas-7.png",
+    "cell": 16,
+    "kind": "ai-illustration",
+    "rect": [
+      223,
+      636,
+      227,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "农家一碗香成品示意，AI生成，非实拍"
+  },
+  "v7a18": {
+    "sheet": "food-atlas-7.png",
+    "cell": 17,
+    "kind": "ai-illustration",
+    "rect": [
+      450,
+      636,
+      225,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "湘味炒猪肝成品示意，AI生成，非实拍"
+  },
+  "v7a19": {
+    "sheet": "food-atlas-7.png",
+    "cell": 18,
+    "kind": "ai-illustration",
+    "rect": [
+      675,
+      636,
+      226,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "川味啤酒鸭成品示意，AI生成，非实拍"
+  },
+  "v7a20": {
+    "sheet": "food-atlas-7.png",
+    "cell": 19,
+    "kind": "ai-illustration",
+    "rect": [
+      901,
+      636,
+      244,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "糖油粑粑成品示意，AI生成，非实拍"
+  },
+  "v7a21": {
+    "sheet": "food-atlas-7.png",
+    "cell": 20,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      848,
+      223,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "葱烧海参成品示意，AI生成，非实拍"
+  },
+  "v7a22": {
+    "sheet": "food-atlas-7.png",
+    "cell": 21,
+    "kind": "ai-illustration",
+    "rect": [
+      223,
+      848,
+      227,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "爆炒腰花成品示意，AI生成，非实拍"
+  },
+  "v7a23": {
+    "sheet": "food-atlas-7.png",
+    "cell": 22,
+    "kind": "ai-illustration",
+    "rect": [
+      450,
+      848,
+      225,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "大虾烧白菜成品示意，AI生成，非实拍"
+  },
+  "v7a24": {
+    "sheet": "food-atlas-7.png",
+    "cell": 23,
+    "kind": "ai-illustration",
+    "rect": [
+      675,
+      848,
+      226,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "木须肉成品示意，AI生成，非实拍"
+  },
+  "v7a25": {
+    "sheet": "food-atlas-7.png",
+    "cell": 24,
+    "kind": "ai-illustration",
+    "rect": [
+      901,
+      848,
+      244,
+      212
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "鲁式酥焖带鱼成品示意，AI生成，非实拍"
+  },
+  "v7a26": {
+    "sheet": "food-atlas-7.png",
+    "cell": 25,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      1060,
+      223,
+      240
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "山东汆丸子成品示意，AI生成，非实拍"
+  },
+  "v7a27": {
+    "sheet": "food-atlas-7.png",
+    "cell": 26,
+    "kind": "ai-illustration",
+    "rect": [
+      223,
+      1060,
+      227,
+      240
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "芫爆鸡丝成品示意，AI生成，非实拍"
+  },
+  "v7a28": {
+    "sheet": "food-atlas-7.png",
+    "cell": 27,
+    "kind": "ai-illustration",
+    "rect": [
+      450,
+      1060,
+      225,
+      240
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "醋椒鱼汤成品示意，AI生成，非实拍"
+  },
+  "v7a29": {
+    "sheet": "food-atlas-7.png",
+    "cell": 28,
+    "kind": "ai-illustration",
+    "rect": [
+      675,
+      1060,
+      226,
+      240
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "白菜炖豆腐成品示意，AI生成，非实拍"
+  },
+  "v7a30": {
+    "sheet": "food-atlas-7.png",
+    "cell": 29,
+    "kind": "ai-illustration",
+    "rect": [
+      901,
+      1060,
+      244,
+      240
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "赛螃蟹成品示意，AI生成，非实拍"
+  },
+  "v7a31": {
+    "sheet": "food-atlas-8.png",
+    "cell": 0,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      0,
+      228,
+      222
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "白切鸡成品示意，AI生成，非实拍"
+  },
+  "v7a32": {
+    "sheet": "food-atlas-8.png",
+    "cell": 1,
+    "kind": "ai-illustration",
+    "rect": [
+      228,
+      0,
+      230,
+      222
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "豉油鸡成品示意，AI生成，非实拍"
+  },
+  "v7a33": {
+    "sheet": "food-atlas-8.png",
+    "cell": 2,
+    "kind": "ai-illustration",
+    "rect": [
+      458,
+      0,
+      222,
+      222
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "广式萝卜牛腩成品示意，AI生成，非实拍"
+  },
+  "v7a34": {
+    "sheet": "food-atlas-8.png",
+    "cell": 3,
+    "kind": "ai-illustration",
+    "rect": [
+      680,
+      0,
+      228,
+      222
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "冬瓜排骨汤成品示意，AI生成，非实拍"
+  },
+  "v7a35": {
+    "sheet": "food-atlas-8.png",
+    "cell": 4,
+    "kind": "ai-illustration",
+    "rect": [
+      908,
+      0,
+      237,
+      222
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "豆腐鱼头汤成品示意，AI生成，非实拍"
+  },
+  "v7a36": {
+    "sheet": "food-atlas-8.png",
+    "cell": 5,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      222,
+      228,
+      216
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "客家酿豆腐成品示意，AI生成，非实拍"
+  },
+  "v7a37": {
+    "sheet": "food-atlas-8.png",
+    "cell": 6,
+    "kind": "ai-illustration",
+    "rect": [
+      228,
+      222,
+      230,
+      216
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "咸鱼蒸肉饼成品示意，AI生成，非实拍"
+  },
+  "v7a38": {
+    "sheet": "food-atlas-8.png",
+    "cell": 7,
+    "kind": "ai-illustration",
+    "rect": [
+      458,
+      222,
+      222,
+      216
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "滑蛋牛肉成品示意，AI生成，非实拍"
+  },
+  "v7a39": {
+    "sheet": "food-atlas-8.png",
+    "cell": 8,
+    "kind": "ai-illustration",
+    "rect": [
+      680,
+      222,
+      228,
+      216
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "干炒牛河成品示意，AI生成，非实拍"
+  },
+  "v7a40": {
+    "sheet": "food-atlas-8.png",
+    "cell": 9,
+    "kind": "ai-illustration",
+    "rect": [
+      908,
+      222,
+      237,
+      216
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "白灼虾成品示意，AI生成，非实拍"
+  },
+  "v7a41": {
+    "sheet": "food-atlas-8.png",
+    "cell": 10,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      438,
+      228,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "京酱肉丝成品示意，AI生成，非实拍"
+  },
+  "v7a42": {
+    "sheet": "food-atlas-8.png",
+    "cell": 11,
+    "kind": "ai-illustration",
+    "rect": [
+      228,
+      438,
+      230,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "老北京醋溜木须成品示意，AI生成，非实拍"
+  },
+  "v7a43": {
+    "sheet": "food-atlas-8.png",
+    "cell": 12,
+    "kind": "ai-illustration",
+    "rect": [
+      458,
+      438,
+      222,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "老北京炸酱成品示意，AI生成，非实拍"
+  },
+  "v7a44": {
+    "sheet": "food-atlas-8.png",
+    "cell": 13,
+    "kind": "ai-illustration",
+    "rect": [
+      680,
+      438,
+      228,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "北京芥末墩成品示意，AI生成，非实拍"
+  },
+  "v7a45": {
+    "sheet": "food-atlas-8.png",
+    "cell": 14,
+    "kind": "ai-illustration",
+    "rect": [
+      908,
+      438,
+      237,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "京味炒合菜成品示意，AI生成，非实拍"
+  },
+  "v7a46": {
+    "sheet": "food-atlas-8.png",
+    "cell": 15,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      655,
+      228,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "天津老爆三成品示意，AI生成，非实拍"
+  },
+  "v7a47": {
+    "sheet": "food-atlas-8.png",
+    "cell": 16,
+    "kind": "ai-illustration",
+    "rect": [
+      228,
+      655,
+      230,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "贴饽饽熬小鱼成品示意，AI生成，非实拍"
+  },
+  "v7a48": {
+    "sheet": "food-atlas-8.png",
+    "cell": 17,
+    "kind": "ai-illustration",
+    "rect": [
+      458,
+      655,
+      222,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "虾酱炒鸡蛋成品示意，AI生成，非实拍"
+  },
+  "v7a49": {
+    "sheet": "food-atlas-8.png",
+    "cell": 18,
+    "kind": "ai-illustration",
+    "rect": [
+      680,
+      655,
+      228,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "天津卷圈成品示意，AI生成，非实拍"
+  },
+  "v7a50": {
+    "sheet": "food-atlas-8.png",
+    "cell": 19,
+    "kind": "ai-illustration",
+    "rect": [
+      908,
+      655,
+      237,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "天津锅巴菜成品示意，AI生成，非实拍"
+  },
+  "v7a51": {
+    "sheet": "food-atlas-8.png",
+    "cell": 20,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      874,
+      228,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "黑米红豆粥成品示意，AI生成，非实拍"
+  },
+  "v7a52": {
+    "sheet": "food-atlas-8.png",
+    "cell": 21,
+    "kind": "ai-illustration",
+    "rect": [
+      228,
+      874,
+      230,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "豆沙山药卷成品示意，AI生成，非实拍"
+  },
+  "v7a53": {
+    "sheet": "food-atlas-8.png",
+    "cell": 22,
+    "kind": "ai-illustration",
+    "rect": [
+      458,
+      874,
+      222,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "山药奶香小馒头成品示意，AI生成，非实拍"
+  },
+  "v7a54": {
+    "sheet": "food-atlas-8.png",
+    "cell": 23,
+    "kind": "ai-illustration",
+    "rect": [
+      680,
+      874,
+      228,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "绿豆糕（去皮绿豆版）成品示意，AI生成，非实拍"
+  },
+  "v7a55": {
+    "sheet": "food-atlas-8.png",
+    "cell": 24,
+    "kind": "ai-illustration",
+    "rect": [
+      908,
+      874,
+      237,
+      219
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "萝卜丝饼（烫面包馅）成品示意，AI生成，非实拍"
+  },
+  "v7a56": {
+    "sheet": "food-atlas-8.png",
+    "cell": 25,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      1093,
+      228,
+      237
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "豆沙锅饼成品示意，AI生成，非实拍"
+  },
+  "v7a57": {
+    "sheet": "food-atlas-8.png",
+    "cell": 26,
+    "kind": "ai-illustration",
+    "rect": [
+      228,
+      1093,
+      230,
+      237
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "杂粮煎饼成品示意，AI生成，非实拍"
+  },
+  "v7a58": {
+    "sheet": "food-atlas-8.png",
+    "cell": 27,
+    "kind": "ai-illustration",
+    "rect": [
+      458,
+      1093,
+      222,
+      237
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "藜麦蔬菜蛋盅成品示意，AI生成，非实拍"
+  },
+  "v7a59": {
+    "sheet": "food-atlas-8.png",
+    "cell": 28,
+    "kind": "ai-illustration",
+    "rect": [
+      680,
+      1093,
+      228,
+      237
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "鲜虾豆腐粥成品示意，AI生成，非实拍"
+  },
+  "v7a60": {
+    "sheet": "food-atlas-8.png",
+    "cell": 29,
+    "kind": "ai-illustration",
+    "rect": [
+      908,
+      1093,
+      237,
+      237
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "土豆鸡蛋沙拉成品示意，AI生成，非实拍"
+  },
+  "v7b01": {
+    "sheet": "food-atlas-9.png",
+    "cell": 0,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      0,
+      234,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "红烧狮子头成品示意，AI生成，非实拍"
+  },
+  "v7b02": {
+    "sheet": "food-atlas-9.png",
+    "cell": 1,
+    "kind": "ai-illustration",
+    "rect": [
+      234,
+      0,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "葱油蚕豆成品示意，AI生成，非实拍"
+  },
+  "v7b03": {
+    "sheet": "food-atlas-9.png",
+    "cell": 2,
+    "kind": "ai-illustration",
+    "rect": [
+      462,
+      0,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "盐水鸭成品示意，AI生成，非实拍"
+  },
+  "v7b04": {
+    "sheet": "food-atlas-9.png",
+    "cell": 3,
+    "kind": "ai-illustration",
+    "rect": [
+      690,
+      0,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "苏式熏鱼成品示意，AI生成，非实拍"
+  },
+  "v7b05": {
+    "sheet": "food-atlas-9.png",
+    "cell": 4,
+    "kind": "ai-illustration",
+    "rect": [
+      918,
+      0,
+      227,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "无锡酱排骨成品示意，AI生成，非实拍"
+  },
+  "v7b06": {
+    "sheet": "food-atlas-9.png",
+    "cell": 5,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      223,
+      234,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "金陵鸭血粉丝汤成品示意，AI生成，非实拍"
+  },
+  "v7b07": {
+    "sheet": "food-atlas-9.png",
+    "cell": 6,
+    "kind": "ai-illustration",
+    "rect": [
+      234,
+      223,
+      228,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "苏式酱汁豆干成品示意，AI生成，非实拍"
+  },
+  "v7b08": {
+    "sheet": "food-atlas-9.png",
+    "cell": 7,
+    "kind": "ai-illustration",
+    "rect": [
+      462,
+      223,
+      228,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "虾米芦蒿成品示意，AI生成，非实拍"
+  },
+  "v7b09": {
+    "sheet": "food-atlas-9.png",
+    "cell": 8,
+    "kind": "ai-illustration",
+    "rect": [
+      690,
+      223,
+      228,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "扬州炒饭成品示意，AI生成，非实拍"
+  },
+  "v7b10": {
+    "sheet": "food-atlas-9.png",
+    "cell": 9,
+    "kind": "ai-illustration",
+    "rect": [
+      918,
+      223,
+      227,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "葱油芋艿成品示意，AI生成，非实拍"
+  },
+  "v7b11": {
+    "sheet": "food-atlas-9.png",
+    "cell": 10,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      447,
+      234,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "油焖春笋成品示意，AI生成，非实拍"
+  },
+  "v7b12": {
+    "sheet": "food-atlas-9.png",
+    "cell": 11,
+    "kind": "ai-illustration",
+    "rect": [
+      234,
+      447,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "雪菜笋丝炒毛豆成品示意，AI生成，非实拍"
+  },
+  "v7b13": {
+    "sheet": "food-atlas-9.png",
+    "cell": 12,
+    "kind": "ai-illustration",
+    "rect": [
+      462,
+      447,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "笋干老鸭煲成品示意，AI生成，非实拍"
+  },
+  "v7b14": {
+    "sheet": "food-atlas-9.png",
+    "cell": 13,
+    "kind": "ai-illustration",
+    "rect": [
+      690,
+      447,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "西湖牛肉羹成品示意，AI生成，非实拍"
+  },
+  "v7b15": {
+    "sheet": "food-atlas-9.png",
+    "cell": 14,
+    "kind": "ai-illustration",
+    "rect": [
+      918,
+      447,
+      227,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "宁波咸齑大汤黄鱼成品示意，AI生成，非实拍"
+  },
+  "v7b16": {
+    "sheet": "food-atlas-9.png",
+    "cell": 15,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      670,
+      234,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "温州鱼丸汤成品示意，AI生成，非实拍"
+  },
+  "v7b17": {
+    "sheet": "food-atlas-9.png",
+    "cell": 16,
+    "kind": "ai-illustration",
+    "rect": [
+      234,
+      670,
+      228,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "嘉兴鲜肉粽成品示意，AI生成，非实拍"
+  },
+  "v7b18": {
+    "sheet": "food-atlas-9.png",
+    "cell": 17,
+    "kind": "ai-illustration",
+    "rect": [
+      462,
+      670,
+      228,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "葱烤鲫鱼成品示意，AI生成，非实拍"
+  },
+  "v7b19": {
+    "sheet": "food-atlas-9.png",
+    "cell": 18,
+    "kind": "ai-illustration",
+    "rect": [
+      690,
+      670,
+      228,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "梅干菜蒸肉成品示意，AI生成，非实拍"
+  },
+  "v7b20": {
+    "sheet": "food-atlas-9.png",
+    "cell": 19,
+    "kind": "ai-illustration",
+    "rect": [
+      918,
+      670,
+      227,
+      224
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "杭州酱爆茄子成品示意，AI生成，非实拍"
+  },
+  "v7b21": {
+    "sheet": "food-atlas-9.png",
+    "cell": 20,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      894,
+      234,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "闽南五香卷成品示意，AI生成，非实拍"
+  },
+  "v7b22": {
+    "sheet": "food-atlas-9.png",
+    "cell": 21,
+    "kind": "ai-illustration",
+    "rect": [
+      234,
+      894,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "福州荔枝肉成品示意，AI生成，非实拍"
+  },
+  "v7b23": {
+    "sheet": "food-atlas-9.png",
+    "cell": 22,
+    "kind": "ai-illustration",
+    "rect": [
+      462,
+      894,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "福州醉排骨成品示意，AI生成，非实拍"
+  },
+  "v7b24": {
+    "sheet": "food-atlas-9.png",
+    "cell": 23,
+    "kind": "ai-illustration",
+    "rect": [
+      690,
+      894,
+      228,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "福州肉燕汤成品示意，AI生成，非实拍"
+  },
+  "v7b25": {
+    "sheet": "food-atlas-9.png",
+    "cell": 24,
+    "kind": "ai-illustration",
+    "rect": [
+      918,
+      894,
+      227,
+      223
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "闽南咸饭成品示意，AI生成，非实拍"
+  },
+  "v7b26": {
+    "sheet": "food-atlas-9.png",
+    "cell": 25,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      1117,
+      234,
+      257
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "沙茶牛肉成品示意，AI生成，非实拍"
+  },
+  "v7b27": {
+    "sheet": "food-atlas-9.png",
+    "cell": 26,
+    "kind": "ai-illustration",
+    "rect": [
+      234,
+      1117,
+      228,
+      257
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "姜母鸭成品示意，AI生成，非实拍"
+  },
+  "v7b28": {
+    "sheet": "food-atlas-9.png",
+    "cell": 27,
+    "kind": "ai-illustration",
+    "rect": [
+      462,
+      1117,
+      228,
+      257
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "红糟蒸鸡成品示意，AI生成，非实拍"
+  },
+  "v7b29": {
+    "sheet": "food-atlas-9.png",
+    "cell": 28,
+    "kind": "ai-illustration",
+    "rect": [
+      690,
+      1117,
+      228,
+      257
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "闽南蛤蜊蒸丝瓜成品示意，AI生成，非实拍"
+  },
+  "v7b30": {
+    "sheet": "food-atlas-9.png",
+    "cell": 29,
+    "kind": "ai-illustration",
+    "rect": [
+      918,
+      1117,
+      227,
+      257
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "闽南花生汤成品示意，AI生成，非实拍"
+  },
+  "v7b31": {
+    "sheet": "food-atlas-10.png",
+    "cell": 0,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      0,
+      237,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "徽州刀板香成品示意，AI生成，非实拍"
+  },
+  "v7b32": {
+    "sheet": "food-atlas-10.png",
+    "cell": 1,
+    "kind": "ai-illustration",
+    "rect": [
+      237,
+      0,
+      229,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "煎烧毛豆腐成品示意，AI生成，非实拍"
+  },
+  "v7b33": {
+    "sheet": "food-atlas-10.png",
+    "cell": 2,
+    "kind": "ai-illustration",
+    "rect": [
+      466,
+      0,
+      223,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "笋干烧肉成品示意，AI生成，非实拍"
+  },
+  "v7b34": {
+    "sheet": "food-atlas-10.png",
+    "cell": 3,
+    "kind": "ai-illustration",
+    "rect": [
+      689,
+      0,
+      226,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "徽州蒸蛋饺成品示意，AI生成，非实拍"
+  },
+  "v7b35": {
+    "sheet": "food-atlas-10.png",
+    "cell": 4,
+    "kind": "ai-illustration",
+    "rect": [
+      915,
+      0,
+      230,
+      217
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "绩溪挞粿成品示意，AI生成，非实拍"
+  },
+  "v7b36": {
+    "sheet": "food-atlas-10.png",
+    "cell": 5,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      217,
+      237,
+      210
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "千张鲜肉蒸饺成品示意，AI生成，非实拍"
+  },
+  "v7b37": {
+    "sheet": "food-atlas-10.png",
+    "cell": 6,
+    "kind": "ai-illustration",
+    "rect": [
+      237,
+      217,
+      229,
+      210
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "雪冬烧鸡成品示意，AI生成，非实拍"
+  },
+  "v7b38": {
+    "sheet": "food-atlas-10.png",
+    "cell": 7,
+    "kind": "ai-illustration",
+    "rect": [
+      466,
+      217,
+      223,
+      210
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "问政山笋成品示意，AI生成，非实拍"
+  },
+  "v7b39": {
+    "sheet": "food-atlas-10.png",
+    "cell": 8,
+    "kind": "ai-illustration",
+    "rect": [
+      689,
+      217,
+      226,
+      210
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "蕨菜炒腊肉成品示意，AI生成，非实拍"
+  },
+  "v7b40": {
+    "sheet": "food-atlas-10.png",
+    "cell": 9,
+    "kind": "ai-illustration",
+    "rect": [
+      915,
+      217,
+      230,
+      210
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "黄山炖鸽成品示意，AI生成，非实拍"
+  },
+  "v7b41": {
+    "sheet": "food-atlas-10.png",
+    "cell": 10,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      427,
+      237,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "锅包肉成品示意，AI生成，非实拍"
+  },
+  "v7b42": {
+    "sheet": "food-atlas-10.png",
+    "cell": 11,
+    "kind": "ai-illustration",
+    "rect": [
+      237,
+      427,
+      229,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "排骨炖豆角成品示意，AI生成，非实拍"
+  },
+  "v7b43": {
+    "sheet": "food-atlas-10.png",
+    "cell": 12,
+    "kind": "ai-illustration",
+    "rect": [
+      466,
+      427,
+      223,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "小鸡炖蘑菇成品示意，AI生成，非实拍"
+  },
+  "v7b44": {
+    "sheet": "food-atlas-10.png",
+    "cell": 13,
+    "kind": "ai-illustration",
+    "rect": [
+      689,
+      427,
+      226,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "酸菜白肉成品示意，AI生成，非实拍"
+  },
+  "v7b45": {
+    "sheet": "food-atlas-10.png",
+    "cell": 14,
+    "kind": "ai-illustration",
+    "rect": [
+      915,
+      427,
+      230,
+      214
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "新疆大盘鸡成品示意，AI生成，非实拍"
+  },
+  "v7b46": {
+    "sheet": "food-atlas-10.png",
+    "cell": 15,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      641,
+      237,
+      213
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "孜然羊肉成品示意，AI生成，非实拍"
+  },
+  "v7b47": {
+    "sheet": "food-atlas-10.png",
+    "cell": 16,
+    "kind": "ai-illustration",
+    "rect": [
+      237,
+      641,
+      229,
+      213
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "宁夏羊肉萝卜汤成品示意，AI生成，非实拍"
+  },
+  "v7b48": {
+    "sheet": "food-atlas-10.png",
+    "cell": 17,
+    "kind": "ai-illustration",
+    "rect": [
+      466,
+      641,
+      223,
+      213
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "陕西肉夹馍成品示意，AI生成，非实拍"
+  },
+  "v7b49": {
+    "sheet": "food-atlas-10.png",
+    "cell": 18,
+    "kind": "ai-illustration",
+    "rect": [
+      689,
+      641,
+      226,
+      213
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "玉米面菜团子成品示意，AI生成，非实拍"
+  },
+  "v7b50": {
+    "sheet": "food-atlas-10.png",
+    "cell": 19,
+    "kind": "ai-illustration",
+    "rect": [
+      915,
+      641,
+      230,
+      213
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "红糖发面饼成品示意，AI生成，非实拍"
+  },
+  "v7b51": {
+    "sheet": "food-atlas-10.png",
+    "cell": 20,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      854,
+      237,
+      220
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "菠菜鸡蛋水晶蒸饺成品示意，AI生成，非实拍"
+  },
+  "v7b52": {
+    "sheet": "food-atlas-10.png",
+    "cell": 21,
+    "kind": "ai-illustration",
+    "rect": [
+      237,
+      854,
+      229,
+      220
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "小米蒸糕成品示意，AI生成，非实拍"
+  },
+  "v7b53": {
+    "sheet": "food-atlas-10.png",
+    "cell": 22,
+    "kind": "ai-illustration",
+    "rect": [
+      466,
+      854,
+      223,
+      220
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "香蕉核桃烤松糕成品示意，AI生成，非实拍"
+  },
+  "v7b54": {
+    "sheet": "food-atlas-10.png",
+    "cell": 23,
+    "kind": "ai-illustration",
+    "rect": [
+      689,
+      854,
+      226,
+      220
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "烤燕麦能量棒成品示意，AI生成，非实拍"
+  },
+  "v7b55": {
+    "sheet": "food-atlas-10.png",
+    "cell": 24,
+    "kind": "ai-illustration",
+    "rect": [
+      915,
+      854,
+      230,
+      220
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "口蘑奶酪烘蛋成品示意，AI生成，非实拍"
+  },
+  "v7b56": {
+    "sheet": "food-atlas-10.png",
+    "cell": 25,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      1074,
+      237,
+      256
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "豆沙糯米饼成品示意，AI生成，非实拍"
+  },
+  "v7b57": {
+    "sheet": "food-atlas-10.png",
+    "cell": 26,
+    "kind": "ai-illustration",
+    "rect": [
+      237,
+      1074,
+      229,
+      256
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "桂花酒酿小圆子成品示意，AI生成，非实拍"
+  },
+  "v7b58": {
+    "sheet": "food-atlas-10.png",
+    "cell": 27,
+    "kind": "ai-illustration",
+    "rect": [
+      466,
+      1074,
+      223,
+      256
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "广式萝卜糕成品示意，AI生成，非实拍"
+  },
+  "v7b59": {
+    "sheet": "food-atlas-10.png",
+    "cell": 28,
+    "kind": "ai-illustration",
+    "rect": [
+      689,
+      1074,
+      226,
+      256
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "咸豆浆配芝麻酥饼成品示意，AI生成，非实拍"
+  },
+  "v7b60": {
+    "sheet": "food-atlas-10.png",
+    "cell": 29,
+    "kind": "ai-illustration",
+    "rect": [
+      915,
+      1074,
+      230,
+      256
+    ],
+    "size": [
+      1145,
+      1374
+    ],
+    "alt": "鲜虾小米烩饭成品示意，AI生成，非实拍"
+  }
+}

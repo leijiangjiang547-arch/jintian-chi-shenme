@@ -1,0 +1,17 @@
+{
+  "reviewedOn": "2026-10-01",
+  "historicalFile": "advanced-candidates.json",
+  "publishedCurrentFormulas": {
+    "d87": "v7a02",
+    "d89": "v7a11",
+    "d90": "v7a13"
+  },
+  "differentMethodAlternative": {
+    "d94": "v7b22"
+  },
+  "stillDeferred": [
+    "d94",
+    "d96"
+  ],
+  "note": "Historical IDs and draft steps are not shipped. The new fried lychee pork is not the old pan-fried draft; red-braised lions head is not clear-braised lions head."
+}

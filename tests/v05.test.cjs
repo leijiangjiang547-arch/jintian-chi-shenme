@@ -1,12 +1,12 @@
 const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
 const C=require('../web/core.js'),R=require('../web/recipes.json');
 test('six quick home dishes include explicit preparation budgets without shortening old dishes',()=>{
- const quick=C.filter(R,{category:'家常菜',max:15});assert.equal(quick.length,6);
+ const quick=C.filter(R,{category:'家常菜',max:15}).filter(r=>['d100','d101','d102','d103','d104','d105'].includes(r.id));assert.equal(quick.length,6);
  for(const r of quick){assert.equal(r.timing.prep+r.timing.cook+r.timing.finish,r.minutes);assert.ok(r.steps.length>=5);assert.ok(r.sources[0].sha256);}
  assert.equal(R.find(r=>r.id==='d01').minutes,20);
 });
 test('all illustrations have unique local cells and reviewed crop bounds',()=>{
- assert.equal(new Set(R.map(r=>r.image.sheet+'|'+r.image.cell)).size,180);
+ assert.equal(new Set(R.map(r=>r.image.sheet+'|'+r.image.cell)).size,R.length);
  for(const r of R){const i=r.image,b=fs.readFileSync(path.join(__dirname,'../web',i.sheet));assert.equal(b.subarray(1,4).toString(),'PNG');const sw=b.readUInt32BE(16),sh=b.readUInt32BE(20);assert.deepEqual(i.size,[sw,sh]);const [x,y,w,h]=i.rect;assert.ok(x>=0&&y>=0&&w>0&&h>0&&x+w<=sw&&y+h<=sh);assert.match(i.alt,/AI生成，非实拍/);}
 });
 test('storage migration preserves v4 personal data and future versions remain untouched',()=>{

@@ -1,0 +1,2105 @@
+{
+  "batch": "a",
+  "version": "0.7.0",
+  "checked": "2026-10-01",
+  "recipes": [
+    {
+      "id": "v7a01",
+      "name": "干锅菜花",
+      "sources": [
+        {
+          "title": "HowToCook · 干锅花菜",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+          "path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+          "sha256": "68f7d5be2bbb30181d5a5b07559612816e96570aeb20d16ab46b185b25cfcc59",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "支持菜花配五花肉、炒香调味及湘味归类；干煸为家庭锅具适配。",
+      "differences": "不用干锅保温设备；取消焯后加盖流程，增加干煸与充分沥干；油盐糖独立定量。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a02",
+      "name": "水煮肉片",
+      "sources": [
+        {
+          "title": "HowToCook · 水煮肉片",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/水煮肉片.md",
+          "path": "dishes/meat_dish/水煮肉片.md",
+          "sha256": "7d63f24fd63f8a3d7ec5ea00f6e5c103dce9780de84f6b8f9ed8d9d5c6b1ef33",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "具体支持薄肉片上浆、垫菜、豆瓣汤汆肉；官方资料支持熟透检查。",
+      "differences": "不用大量热油浇淋；不采用只看变色即出锅；蔬菜先完全熟化。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a03",
+      "name": "蒜泥白肉",
+      "sources": [
+        {
+          "title": "央视《天天饮食》蒜泥白肉 20130717",
+          "url": "https://tv.cctv.com/v/v2/VIDE1374027497523224.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；支持葱姜煮五花肉、黄瓜垫底与蒜汁拌肉。"
+        }
+      ],
+      "supportScope": "支持葱姜煮五花肉、黄瓜垫底与蒜汁拌肉。",
+      "differences": "取消三温度自制辣椒油，使用成品；温度检查替代仅凭切面；盐水和蘸汁分开。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a04",
+      "name": "盐煎肉",
+      "sources": [
+        {
+          "title": "央视《天天饮食》生爆盐煎肉 20150824",
+          "url": "https://tv.cctv.com/2015/08/24/VIDE1440380717349260.shtml",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；具体支持生肉直接煸炒、豆豉豆瓣和青蒜先白后叶。"
+        }
+      ],
+      "supportScope": "具体支持生肉直接煸炒、豆豉豆瓣和青蒜先白后叶。",
+      "differences": "底板肉改去皮五花肉，省猪油；量化盐酱并补熟透判断。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a05",
+      "name": "泡椒鸡胗",
+      "sources": [
+        {
+          "title": "软气猫 · 泡椒鸡胗",
+          "url": "https://www.xiachufang.com/recipe/106657816/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；具体支持鸡胗泡椒短腌及芹菜青椒合炒；网页作者注明学习于另一创作者，按公开配方技法参考。"
+        }
+      ],
+      "supportScope": "具体支持鸡胗泡椒短腌及芹菜青椒合炒；网页作者注明学习于另一创作者，按公开配方技法参考。",
+      "differences": "不采纳温盐水反复冲洗或炸花即熟判断；增加薄切、冷藏及75℃检查。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a06",
+      "name": "干煸杏鲍菇",
+      "sources": [
+        {
+          "title": "家常素 Irene Yong · 干煸杏鲍菇（公开配料与技法说明）",
+          "url": "https://www.youtube.com/watch?v=S94pEZoRc4g",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；公开作者说明支持杏鲍菇切薄、干煸至焦香、酱油芝麻调味；未声称观看完整视频。"
+        }
+      ],
+      "supportScope": "公开作者说明支持杏鲍菇切薄、干煸至焦香、酱油芝麻调味；未声称观看完整视频。",
+      "differences": "家庭细条版本，加干辣椒蒜；不用素蚝油和老抽，重新定量少盐调味。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a07",
+      "name": "白油冬瓜",
+      "sources": [
+        {
+          "title": "HowToCook · 红烧冬瓜",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+          "path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+          "sha256": "9351f2ca8af5fe0f5bbb58fa20a96ed338349e484568323e5e0aa9e0bbd60be7",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "只支持冬瓜去皮切块、烧软与水淀粉薄芡技法，不是白油冬瓜原配方。",
+      "differences": "家庭清烧版本去掉深色酱油与蚝油；用食用油替代猪油，白油仅作浅色风味叫法。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": []
+    },
+    {
+      "id": "v7a08",
+      "name": "鱼香烘蛋",
+      "sources": [
+        {
+          "title": "风中彩虹 · 鱼香烘蛋",
+          "url": "https://blog.sina.com.cn/s/blog_52de223b0100divd.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持蛋液加水淀粉煎成饼后浇鱼香汁；鱼香肉丝支持姜蒜豆瓣酸甜碗汁。"
+        },
+        {
+          "title": "HowToCook · 鱼香肉丝",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/鱼香肉丝.md",
+          "path": "dishes/meat_dish/鱼香肉丝.md",
+          "sha256": "ca9f769c30aac3f3102f9e88be92ca440b648dd9881e478bcf9c56df96a2d930",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "原作者支持蛋液加水淀粉煎成饼后浇鱼香汁；鱼香肉丝支持姜蒜豆瓣酸甜碗汁。",
+      "differences": "省木耳豌豆配菜；少油小火烘透替代大油膨胀，说明不以半凝固出锅。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a09",
+      "name": "粉蒸肉",
+      "sources": [
+        {
+          "title": "HowToCook · 粉蒸肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/粉蒸肉.md",
+          "path": "dishes/meat_dish/粉蒸肉.md",
+          "sha256": "a56312e91d4d664741f1cf7dc0e92ad3f3eb26d7eb44231605782e6f4bd08807",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "具体支持肉片腌制裹米粉、土豆垫底及长时间蒸。",
+      "differences": "无盐米粉明确避免调味粉重复盐；浅盘松铺而非压实；总时间含冷藏30分钟。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a10",
+      "name": "酸菜鱼",
+      "sources": [
+        {
+          "title": "央视《天天饮食》家常酸菜鱼 20150313",
+          "url": "https://tv.cctv.com/2015/03/13/VIDE1426212842969497.shtml",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；支持鱼片上浆、酸菜泡椒汤及小火汆熟。"
+        }
+      ],
+      "supportScope": "支持鱼片上浆、酸菜泡椒汤及小火汆熟。",
+      "differences": "去骨鱼片与包装酸菜形成独立家庭酸汤配方；不使用整鱼去骨、室温长时化冻或高温泼油。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a11",
+      "name": "金钱蛋",
+      "sources": [
+        {
+          "title": "HowToCook · 金钱蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/金钱蛋.md",
+          "path": "dishes/vegetable_dish/金钱蛋.md",
+          "sha256": "d7c405ed68a0a26a558ece398c38c46593afa47c98b66ff38e996731adaa900e",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "支持全熟鸡蛋切圆片、薄粉煎香及椒蒜合炒。",
+      "differences": "豆瓣酱改豆豉风味，油量分配定量；新增全熟蛋检查。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a12",
+      "name": "剁椒蒸鸡腿",
+      "sources": [
+        {
+          "title": "任芸丽 · 剁椒鸡腿",
+          "url": "https://www.xiachufang.com/recipe/107186903/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；支持拆骨鸡腿拌剁椒、冷藏腌30分钟、浅容器蒸30分钟。"
+        }
+      ],
+      "supportScope": "支持拆骨鸡腿拌剁椒、冷藏腌30分钟、浅容器蒸30分钟。",
+      "differences": "去掉金针菇垫底与双色椒装饰；辣度和咸度按家庭少量重排。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a13",
+      "name": "小炒黄牛肉",
+      "sources": [
+        {
+          "title": "HowToCook · 小炒黄牛肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+          "path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+          "sha256": "4bd7f5b1084c364c2337888d5f3d01ce1731a10faff0e716bf81cf24a493e448",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "支持牛肉逆纹薄切、泡椒鲜椒香菜小炒。",
+      "differences": "减少原配芹菜，保留香菜椒香；短腌冷藏和分批熟透，未采纳仅炒1分钟就熟。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a14",
+      "name": "蒸腊肉",
+      "sources": [
+        {
+          "title": "HowToCook · 粉蒸肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/粉蒸肉.md",
+          "path": "dishes/meat_dish/粉蒸肉.md",
+          "sha256": "a56312e91d4d664741f1cf7dc0e92ad3f3eb26d7eb44231605782e6f4bd08807",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "仅参考猪肉薄片蒸熟技法；腊肉以商品包装加工与熟制说明为首要依据。",
+      "differences": "独立家庭腊肉蒸制流程，先短煮再薄切；不包含家庭腌制或干燥保存流程。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a15",
+      "name": "擂辣椒皮蛋",
+      "sources": [
+        {
+          "title": "彭映嘉 · 擂擂辣椒皮蛋",
+          "url": "https://www.xiachufang.com/recipe/106889734/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；具体支持虎皮青椒、蒜盐捣碎后拌皮蛋酱油。"
+        }
+      ],
+      "supportScope": "具体支持虎皮青椒、蒜盐捣碎后拌皮蛋酱油。",
+      "differences": "煎熟代替油炸和热油淋，少量醋调整风味；正规即食皮蛋。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a16",
+      "name": "酸豆角炒肉末",
+      "sources": [
+        {
+          "title": "美食作家王刚 · 酸豆角炒肉末",
+          "url": "https://www.sohu.com/a/644603730_99991059",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；支持酸豆角切粒、先炒干水汽、肉末炒散和姜蒜椒合炒。"
+        }
+      ],
+      "supportScope": "支持酸豆角切粒、先炒干水汽、肉末炒散和姜蒜椒合炒。",
+      "differences": "使用包装酸豆角，较少酱油、无额外盐；不复制作者功效叙述。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a17",
+      "name": "农家一碗香",
+      "sources": [
+        {
+          "title": "HowToCook · 农家一碗香",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/农家一碗香/农家一碗香.md",
+          "path": "dishes/meat_dish/农家一碗香/农家一碗香.md",
+          "sha256": "f9e52296fcbdbe18137c6ddf8f1044e57df572fcf2c0b4de223492b85a2242d5",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "具体支持先煎蛋、煸猪肉、椒豉合炒。",
+      "differences": "修复上游食材表遗漏鸡蛋；分配油盐并明确全熟蛋和薄肉熟度。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a18",
+      "name": "湘味炒猪肝",
+      "sources": [
+        {
+          "title": "央视《天天饮食》时菜猪肝 20150914",
+          "url": "https://tv.cctv.com/2015/09/14/VIDE1442198281236455.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；时菜猪肝具体支持肝片薄切上浆、蔬菜先炒与碗汁合炒技法，非湘味原方。"
+        }
+      ],
+      "supportScope": "时菜猪肝具体支持肝片薄切上浆、蔬菜先炒与碗汁合炒技法，非湘味原方。",
+      "differences": "湘风味配青椒辣椒洋葱；增加熟透检查与短时补水熟化，不采用大火断生即出。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a19",
+      "name": "川味啤酒鸭",
+      "sources": [
+        {
+          "title": "HowToCook · 啤酒鸭",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/啤酒鸭/啤酒鸭.md",
+          "path": "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
+          "sha256": "77228241bd6afefa198fdf72921ef4553e463c11057cfa62a61c268889b74ef1",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "具体支持鸭块煸香、啤酒酱料焖煮及收汁。",
+      "differences": "不用上游大油量、过量盐和仅30分钟硬时间；川味作为椒香家庭风味归类，不声明唯一产地。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a20",
+      "name": "糖油粑粑",
+      "sources": [
+        {
+          "title": "Carol 自在生活 · 糖油粑粑",
+          "url": "https://caroleasylife.blogspot.com/2017/05/blog-post_20.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持热水糯米团、小饼两面煎、黑糖汁小火收至半量。"
+        }
+      ],
+      "supportScope": "原作者支持热水糯米团、小饼两面煎、黑糖汁小火收至半量。",
+      "differences": "家庭重新定量，糖减少；加关火降温再倒糖汁以减少溅油，按重量成型。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": []
+    },
+    {
+      "id": "v7a21",
+      "name": "葱烧海参",
+      "sources": [
+        {
+          "title": "HowToCook · 葱烧海参",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/葱烧海参/葱烧海参.md",
+          "path": "dishes/aquatic/葱烧海参/葱烧海参.md",
+          "sha256": "48dff852813ba184096bc979d8a5d3459eb3c83f9b5ca830076af0357b6c30b0",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "具体支持即食海参、慢煎大葱、调酱烧制和薄芡。",
+      "differences": "即食熟海参明确；总量分配水淀粉及汤汁，不涉及干海参泡发。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a22",
+      "name": "爆炒腰花",
+      "sources": [
+        {
+          "title": "rita美食 · 津味老爆三",
+          "url": "https://www.xiachufang.com/recipe/104236941/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；津味老爆三支持猪腰去腰臊改花刀、单独熟制；时菜猪肝支持内脏上浆和蔬菜碗汁技法。不是爆炒腰花原方。"
+        },
+        {
+          "title": "央视《天天饮食》时菜猪肝 20150914",
+          "url": "https://tv.cctv.com/2015/09/14/VIDE1442198281236455.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；津味老爆三支持猪腰去腰臊改花刀、单独熟制；时菜猪肝支持内脏上浆和蔬菜碗汁技法。不是爆炒腰花原方。"
+        }
+      ],
+      "supportScope": "津味老爆三支持猪腰去腰臊改花刀、单独熟制；时菜猪肝支持内脏上浆和蔬菜碗汁技法。不是爆炒腰花原方。",
+      "differences": "独立家庭腰花青椒木耳配方，不用滑油或30秒变色即熟；总时长含泡发。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a23",
+      "name": "大虾烧白菜",
+      "sources": [
+        {
+          "title": "yoyo酱爱烘焙 · 白菜大虾",
+          "url": "https://www.xiachufang.com/recipe/106576862/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；具体支持大虾炒出虾油、白菜蚝油合烧。"
+        }
+      ],
+      "supportScope": "具体支持大虾炒出虾油、白菜蚝油合烧。",
+      "differences": "菜帮叶分开，补少量水及虾熟透检查；葱姜有明确用量。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a24",
+      "name": "木须肉",
+      "sources": [
+        {
+          "title": "HowToCook · 水煮肉片",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/水煮肉片.md",
+          "path": "dishes/meat_dish/水煮肉片.md",
+          "sha256": "7d63f24fd63f8a3d7ec5ea00f6e5c103dce9780de84f6b8f9ed8d9d5c6b1ef33",
+          "kind": "technique"
+        },
+        {
+          "title": "HowToCook · 炒滑蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+          "path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+          "sha256": "8d84989f445ed542e29e5c405d10a2cb767b9fbd1b2758d0155ea1fa1eed384f",
+          "kind": "technique"
+        },
+        {
+          "title": "央视《天天饮食》时菜猪肝 20150914",
+          "url": "https://tv.cctv.com/2015/09/14/VIDE1442198281236455.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；仅支持肉片上浆、鸡蛋先炒和蔬菜合炒技法，不将所列页标成木须肉原方。"
+        }
+      ],
+      "supportScope": "仅支持肉片上浆、鸡蛋先炒和蔬菜合炒技法，不将所列页标成木须肉原方。",
+      "differences": "独立蛋肉木耳黄瓜家庭组合；与纯蛋肉酸汁的醋溜木须区分；泡发计入总时间。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a25",
+      "name": "鲁式酥焖带鱼",
+      "sources": [
+        {
+          "title": "悦悦玉食 · 酥焖带鱼",
+          "url": "https://home.meishichina.com/recipe-632212.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持带鱼先煎后加葱姜醋酱入压力锅压20分钟。"
+        }
+      ],
+      "supportScope": "原作者支持带鱼先煎后加葱姜醋酱入压力锅压20分钟。",
+      "differences": "明确电压力锅、升压泄压时间与容量边界；不承诺醋能使所有鱼骨可食。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a26",
+      "name": "山东汆丸子",
+      "sources": [
+        {
+          "title": "HowToCook · 生汆丸子汤",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/生汆丸子汤.md",
+          "path": "dishes/soup/生汆丸子汤.md",
+          "sha256": "d7f2f8ffe572c9f15a398f289ca2948859ca345bc786202932d0cacbe01f9f02",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "具体支持猪肉加少量水搅打上劲、小火逐个汆丸与粉丝汤。",
+      "differences": "不用蛋清、花椒水和生配料直接冲汤；菜粉全部煮熟；丸重固定、个数随份量变。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a27",
+      "name": "芫爆鸡丝",
+      "sources": [
+        {
+          "title": "厨娘香Q秀 · 芫爆鸡丝",
+          "url": "https://www.epochtimes.com/gb/9/1/4/n2385014.htm",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；节目公开配方支持鸡胸切丝上浆、香菜葱姜蒜与醋胡椒调味。"
+        }
+      ],
+      "supportScope": "节目公开配方支持鸡胸切丝上浆、香菜葱姜蒜与醋胡椒调味。",
+      "differences": "少油分批炒替代滑油，鸡丝先熟再合香菜；不以几成熟相加代替温度检查。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a28",
+      "name": "醋椒鱼汤",
+      "sources": [
+        {
+          "title": "蝶儿sl · 醋椒黄鱼",
+          "url": "https://m.xiachufang.com/recipe/257253/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；具体支持黄鱼先煎后葱姜煮汤、醋与白胡椒最后调味。"
+        }
+      ],
+      "supportScope": "具体支持黄鱼先煎后葱姜煮汤、醋与白胡椒最后调味。",
+      "differences": "整鱼改商家切块；不用大份黄酒或味精，补量化总水和熟度。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a29",
+      "name": "白菜炖豆腐",
+      "sources": [
+        {
+          "title": "央视《天天饮食》鱼汤老豆腐 20150831",
+          "url": "https://tv.cctv.com/2015/08/31/VIDE1440990000929473.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；仅参考老豆腐与白菜在汤中煮熟的技法，不是假称鱼汤原方。"
+        }
+      ],
+      "supportScope": "仅参考老豆腐与白菜在汤中煮熟的技法，不是假称鱼汤原方。",
+      "differences": "独立无鱼家庭白菜豆腐汤；总量与菜帮叶先后定量。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a30",
+      "name": "赛螃蟹",
+      "sources": [
+        {
+          "title": "央视《天天饮食》赛螃蟹 20150423",
+          "url": "https://tv.cctv.com/2015/04/23/VIDE1429755961341777.shtml",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；具体支持鱼丁先汆再入鸡蛋、姜醋薄芡调味。"
+        }
+      ],
+      "supportScope": "具体支持鱼丁先汆再入鸡蛋、姜醋薄芡调味。",
+      "differences": "黄鱼改无刺鳕鱼，分黄白呈现；降低油量，不依赖余热完成生蛋。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a31",
+      "name": "白切鸡",
+      "sources": [
+        {
+          "title": "月亮晶晶 · 白切鸡",
+          "url": "https://m.xiachufang.com/recipe/103122/",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；支持整鸡清煮后斩块、姜葱蘸食技法；仅采用来源中的料理结构，不采用短煮关火焖与粉色鸡骨安全说法。"
+        },
+        {
+          "title": "HowToCook · 凉拌鸡丝",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+          "path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+          "sha256": "472f32a2c31225c5f7d1655d9f77c63e73d48dca077787f4db836804bea6e989",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "支持整鸡清煮后斩块、姜葱蘸食技法；仅采用来源中的料理结构，不采用短煮关火焖与粉色鸡骨安全说法。",
+      "differences": "持续微沸并用官方中心温度校验；小鸡尺寸限定、禁止流水冲淋和自来水泡熟鸡；用量与蘸汁重编。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a32",
+      "name": "豉油鸡",
+      "sources": [
+        {
+          "title": "李锦记中国官网 · LKK贵妃豉油鸡",
+          "url": "https://china-kitchen.lkk.com.cn/kitchen/zh-cn/recipe/0/1a/recipe-50/",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；李锦记官方配方支持酱油香料浸煮并反复浇汁；本页为鸡腿家庭做法的技法参考。"
+        }
+      ],
+      "supportScope": "李锦记官方配方支持酱油香料浸煮并反复浇汁；本页为鸡腿家庭做法的技法参考。",
+      "differences": "整鸡改同规格鸡腿，瓶装豉油鸡汁改定量生抽糖水；不沿用整鸡25分钟保证熟度。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a33",
+      "name": "广式萝卜牛腩",
+      "sources": [
+        {
+          "title": "HowToCook · 广式萝卜牛腩",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+          "path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+          "sha256": "02bf864a45d65b1b58287b98bd13c5a5bfd9eb981cdcd933ac3af6136b73f4fe",
+          "kind": "recipe"
+        }
+      ],
+      "supportScope": "具体支持柱侯酱炒牛腩、常压长炖后加白萝卜。",
+      "differences": "按常压2小时加萝卜30分钟计总用时；牛腩先焯去浮沫，小份家庭独立定量。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a34",
+      "name": "冬瓜排骨汤",
+      "sources": [
+        {
+          "title": "HowToCook · 排骨山药玉米汤",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md",
+          "path": "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md",
+          "sha256": "202e45c59d9d2a4687642ffdb42d16da9fa7d88dd6580c3e8dfe5a62e6c67b42",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "仅参考排骨焯水、长时小火汤煮及配菜后入的技法，非原页面冬瓜原方。",
+      "differences": "山药玉米改冬瓜的独立家庭汤；炖50分钟后瓜15分钟，总时间含焯煮升温。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": []
+    },
+    {
+      "id": "v7a35",
+      "name": "豆腐鱼头汤",
+      "sources": [
+        {
+          "title": "央视《天天饮食》鱼汤老豆腐 20150831",
+          "url": "https://tv.cctv.com/2015/08/31/VIDE1440990000929473.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；央视鱼汤老豆腐支持鱼煎后加开水煮汤、豆腐后加；红烧鱼头支持鱼头剖开处理，不当成同一具体配方。"
+        },
+        {
+          "title": "HowToCook · 红烧鱼头",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/红烧鱼头.md",
+          "path": "dishes/aquatic/红烧鱼头.md",
+          "sha256": "a377f0923f4badd1258d0ecb17a4d6b5209f8f6ff5a882f0c2ca7eae100e42d7",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "央视鱼汤老豆腐支持鱼煎后加开水煮汤、豆腐后加；红烧鱼头支持鱼头剖开处理，不当成同一具体配方。",
+      "differences": "家庭清汤做法，不含白菜粉丝；煮汤阶段量化，温度而非汤乳白判熟。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a36",
+      "name": "客家酿豆腐",
+      "sources": [
+        {
+          "title": "梅州日报 · 《三餐四季》客家酿豆腐制作技法",
+          "url": "https://y.meizhou.cn/meizhou/p/229997.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；梅州日报现场报道支持豆腐填肉、煎、加水小火焖与芡汁的客家酿豆腐核心技法；本页非该饭店原配方。"
+        },
+        {
+          "title": "HowToCook · 肉饼炖蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/肉饼炖蛋.md",
+          "path": "dishes/meat_dish/肉饼炖蛋.md",
+          "sha256": "da606fcc7d971b21c8647494b6cfc4947c5a4024065d2ce22355dbcde4ccbaed",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "梅州日报现场报道支持豆腐填肉、煎、加水小火焖与芡汁的客家酿豆腐核心技法；本页非该饭店原配方。",
+      "differences": "省去鱿鱼干鱼胶和炸黄豆，香菇家庭肉馅；挖出的豆腐入馅，分配淀粉水并限制厚度。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a37",
+      "name": "咸鱼蒸肉饼",
+      "sources": [
+        {
+          "title": "蛇王芬主理人吴卓芝 · 咸鱼蒸肉饼（8world刊载）",
+          "url": "https://vibes.8world.com/food/steamed-pork-patty-with-salted-fish-2552691",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；吴卓芝配方支持手剁肉上浆、铺浅盘、咸鱼姜丝置顶蒸制；肉饼炖蛋支持少量水拌肉的技法。"
+        },
+        {
+          "title": "HowToCook · 肉饼炖蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/肉饼炖蛋.md",
+          "path": "dishes/meat_dish/肉饼炖蛋.md",
+          "sha256": "da606fcc7d971b21c8647494b6cfc4947c5a4024065d2ce22355dbcde4ccbaed",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "吴卓芝配方支持手剁肉上浆、铺浅盘、咸鱼姜丝置顶蒸制；肉饼炖蛋支持少量水拌肉的技法。",
+      "differences": "小份咸鱼20克而非原方100克，省马蹄和半蛋；独立家庭水淀粉肉馅，明确1.5厘米厚与测温。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a38",
+      "name": "滑蛋牛肉",
+      "sources": [
+        {
+          "title": "HowToCook · 小炒黄牛肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+          "path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+          "sha256": "4bd7f5b1084c364c2337888d5f3d01ce1731a10faff0e716bf81cf24a493e448",
+          "kind": "technique"
+        },
+        {
+          "title": "HowToCook · 炒滑蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+          "path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+          "sha256": "8d84989f445ed542e29e5c405d10a2cb767b9fbd1b2758d0155ea1fa1eed384f",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "分别参考牛肉逆纹上浆与滑蛋轻推技法，不标成任一原页的牛肉滑蛋具体原方。",
+      "differences": "牛肉先独立熟透再入蛋，蛋采用全凝固版本，不靠锅外余热完成。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a39",
+      "name": "干炒牛河",
+      "sources": [
+        {
+          "title": "琴心剑胆 · 干炒牛河",
+          "url": "https://home.meishichina.com/recipe-89781.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持鲜河粉松散、牛肉腌30分钟、肉和粉分炒后合炒、豆芽韭黄洋葱配料。"
+        }
+      ],
+      "supportScope": "原作者支持鲜河粉松散、牛肉腌30分钟、肉和粉分炒后合炒、豆芽韭黄洋葱配料。",
+      "differences": "少油并避免烧锅冒烟；牛肉豆芽先全熟；以熟制鲜河粉包装要求为准。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a40",
+      "name": "白灼虾",
+      "sources": [
+        {
+          "title": "HowToCook · 白灼虾",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/白灼虾/白灼虾.md",
+          "path": "dishes/aquatic/白灼虾/白灼虾.md",
+          "sha256": "db2537495063bb192db7f659efc90c169765a84e88a3a182df6feb81429b0e58",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "本地来源支持虾处理、姜葱香气与检查成熟技法；其具体方法为少水焖虾，本页是独立水煮白灼做法。",
+      "differences": "不用来源无水焖与停火5分钟的固定熟度断言；煮开后轻沸到全熟，蘸汁独立。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a41",
+      "name": "京酱肉丝",
+      "sources": [
+        {
+          "title": "央视《天天饮食》京酱肉丝 20150504",
+          "url": "https://tv.cctv.com/2015/05/04/VIDE1430705719417694.shtml",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；央视具体配方支持肉切丝上浆、豆皮焯熟、大葱配甜面酱肉丝。"
+        }
+      ],
+      "supportScope": "央视具体配方支持肉切丝上浆、豆皮焯熟、大葱配甜面酱肉丝。",
+      "differences": "家庭定量无蛋清、黄豆酱；肉丝先全熟，甜面酱小火炒防焦。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a42",
+      "name": "老北京醋溜木须",
+      "sources": [
+        {
+          "title": "央视《回家吃饭》醋溜木樨 20161117",
+          "url": "https://tv.cctv.com/2016/11/17/VIDEjtMneChZaXubU4Bkj6Rf161117.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；央视具体醋溜木樨配方支持蛋肉分熟、葱姜醋糖碗汁合炒；来源原料为羊里脊，本页猪肉家庭适配。"
+        }
+      ],
+      "supportScope": "央视具体醋溜木樨配方支持蛋肉分熟、葱姜醋糖碗汁合炒；来源原料为羊里脊，本页猪肉家庭适配。",
+      "differences": "猪里脊替羊肉，不添加木耳黄瓜；食材与图片保持纯蛋肉结构，量化碗汁和火候。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a43",
+      "name": "老北京炸酱",
+      "sources": [
+        {
+          "title": "HowToCook · 炸酱面",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/炸酱面.md",
+          "path": "dishes/staple/炸酱面.md",
+          "sha256": "ed8a925ab7d118937cffdd645f2b30dc19faf2edb75a83404ebe259cbac9fff2",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "仅参考HowToCook炸酱面中的肉酱制作段落，不包含面条烹调配方。",
+      "differences": "五花肉丁而非肉末、黄豆酱与甜面酱定量；将炸酱作为独立配饭配面佐餐酱，增加保存操作。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a44",
+      "name": "北京芥末墩",
+      "sources": [
+        {
+          "title": "西马栀子 · 京味小菜芥末墩儿",
+          "url": "https://home.meishichina.com/recipe-46403.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持白菜卷墩、芥末粉调糊、醋糖盐调味；本页保留结构但不是来源室温一日存放方法。"
+        }
+      ],
+      "supportScope": "原作者支持白菜卷墩、芥末粉调糊、醋糖盐调味；本页保留结构但不是来源室温一日存放方法。",
+      "differences": "芥末粉改小量，白菜彻底焯软；两小时冷藏入味替代室温一日等待，总时间含冷藏。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a45",
+      "name": "京味炒合菜",
+      "sources": [
+        {
+          "title": "抛抛酱 · 家庭版炒合菜",
+          "url": "https://m.xiachufang.com/recipe/104177124/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者具体支持粉丝豆芽韭菜鸡蛋组合、蛋先炒、酱料与少水熟化粉丝。"
+        }
+      ],
+      "supportScope": "原作者具体支持粉丝豆芽韭菜鸡蛋组合、蛋先炒、酱料与少水熟化粉丝。",
+      "differences": "无小米椒鸡精；豆芽全熟、粉丝按包装而非只泡熟；所有盐油分次定量。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a46",
+      "name": "天津老爆三",
+      "sources": [
+        {
+          "title": "rita美食 · 津味老爆三",
+          "url": "https://www.xiachufang.com/recipe/104236941/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持猪肉猪肝猪腰三样、猪腰花刀、大量蒜、酱醋糖碗汁合炒。"
+        },
+        {
+          "title": "央视《天天饮食》时菜猪肝 20150914",
+          "url": "https://tv.cctv.com/2015/09/14/VIDE1442198281236455.shtml",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；原作者支持猪肉猪肝猪腰三样、猪腰花刀、大量蒜、酱醋糖碗汁合炒。"
+        }
+      ],
+      "supportScope": "原作者支持猪肉猪肝猪腰三样、猪腰花刀、大量蒜、酱醋糖碗汁合炒。",
+      "differences": "不用滑油或30秒腰花焯水作熟度保证；三样独立全熟再合汁；份量按食材厚度不增大。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a47",
+      "name": "贴饽饽熬小鱼",
+      "sources": [
+        {
+          "title": "亮亮妈妈 · 贴饽饽熬小鱼（家庭两锅做法）",
+          "url": "https://www.wenxuecity.com/blog/201501/7072/23992.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者的家庭两锅做法具体支持热水玉米饼先烙、小鱼裹面粉煎后酱醋焖、熟饼回鱼汁。"
+        }
+      ],
+      "supportScope": "原作者的家庭两锅做法具体支持热水玉米饼先烙、小鱼裹面粉煎后酱醋焖、熟饼回鱼汁。",
+      "differences": "小鱼选小鲫鱼，调味由经验改定量；不采用鱼骨酥即可整鱼吃的断言；不假装家用锅能传统铁锅边贴饼。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a48",
+      "name": "虾酱炒鸡蛋",
+      "sources": [
+        {
+          "title": "HowToCook · 炒滑蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+          "path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+          "sha256": "8d84989f445ed542e29e5c405d10a2cb767b9fbd1b2758d0155ea1fa1eed384f",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "只参考HowToCook鸡蛋加少量水、小火轻推滑炒技法；虾酱调味为独立家庭配方，不假充该页虾酱原方。",
+      "differences": "采用少量包装虾酱并明确熟制要求，取消额外盐，蛋全凝固。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a49",
+      "name": "天津卷圈",
+      "sources": [
+        {
+          "title": "y依辰 · 天津卷圈",
+          "url": "https://www.xiangha.com/caipu/94375468.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持豆芽豆干粉皮香菜、腐乳香油馅、薄皮卷柱形并炸熟。"
+        }
+      ],
+      "supportScope": "原作者支持豆芽豆干粉皮香菜、腐乳香油馅、薄皮卷柱形并炸熟。",
+      "differences": "自擀皮改包装春卷皮，馅先炒熟；用分面慢煎替代深炸，控单卷直径，外形保持素春卷柱形。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a50",
+      "name": "天津锅巴菜",
+      "sources": [
+        {
+          "title": "戏水顽童 · 天津锅巴菜",
+          "url": "https://www.xiachufang.com/recipe/106064704/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者具体支持绿豆小米薄饼切片、香菜葱姜甜面酱卤煮20分钟、麻酱腐乳浇卤。"
+        },
+        {
+          "title": "HowToCook · 滕州菜煎饼",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/滕州菜煎饼.md",
+          "path": "dishes/staple/滕州菜煎饼.md",
+          "sha256": "b6a5ae54c987509ffd5f8047c466756fb2e02304a7a5b0ea808696e0b309cd25",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "原作者具体支持绿豆小米薄饼切片、香菜葱姜甜面酱卤煮20分钟、麻酱腐乳浇卤。",
+      "differences": "现成杂粮粉少量面粉代磨浆；薄饼两面完全煎熟，卤汤及各调汁水量独立分配。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a51",
+      "name": "黑米红豆粥",
+      "sources": [
+        {
+          "title": "HowToCook · 腊八粥",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/腊八粥.md",
+          "path": "dishes/soup/腊八粥.md",
+          "sha256": "b97f4bc9c770cba5d1be03d083a5beca8c908eb7cafc664d021b6f23ed640a80",
+          "kind": "technique"
+        },
+        {
+          "title": "HowToCook · 米粥",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/米粥.md",
+          "path": "dishes/soup/米粥.md",
+          "sha256": "a4aa3b411643a9cf87cf0a1fc75c5c7cbce5ffee1f4e8cec07be23d29818a794",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "分别参考腊八粥中杂粮豆类泡发与充分熬煮、米粥升温防溢及稠度检查技法。",
+      "differences": "仅保留红小豆黑米大米三种；泡发冷藏2小时，滚煮再长期熬，未采纳室温隔夜或25分钟能熟所有豆。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": []
+    },
+    {
+      "id": "v7a52",
+      "name": "豆沙山药卷",
+      "sources": [
+        {
+          "title": "阿流的趣味厨房 · 山药馒头",
+          "url": "https://www.xiachufang.com/recipe/107436422/",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；分别参考山药蒸软压泥及熟豆沙包馅成型技法，是独立组合配方，不假称两原页豆沙山药卷。"
+        },
+        {
+          "title": "烟火间 · 豆沙锅饼",
+          "url": "https://m.xiachufang.com/recipe/126655/",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；分别参考山药蒸软压泥及熟豆沙包馅成型技法，是独立组合配方，不假称两原页豆沙山药卷。"
+        }
+      ],
+      "supportScope": "分别参考山药蒸软压泥及熟豆沙包馅成型技法，是独立组合配方，不假称两原页豆沙山药卷。",
+      "differences": "不加面粉或糯米粉，外皮仅熟山药泥；分段成型而非旧紫薯山药球仅换配菜。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a53",
+      "name": "山药奶香小馒头",
+      "sources": [
+        {
+          "title": "阿流的趣味厨房 · 山药馒头",
+          "url": "https://www.xiachufang.com/recipe/107436422/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者具体支持蒸山药压泥、奶面酵母配方、两次发酵及蒸制。"
+        }
+      ],
+      "supportScope": "原作者具体支持蒸山药压泥、奶面酵母配方、两次发酵及蒸制。",
+      "differences": "取消泡打粉与厨师机，手揉小份量；山药先放温不烫死酵母，两次醒发和预热含总时间。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a54",
+      "name": "绿豆糕（去皮绿豆版）",
+      "sources": [
+        {
+          "title": "LOG · 自制绿豆糕",
+          "url": "https://www.xiachufang.com/recipe/107554686/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者支持去皮绿豆泡2–3小时、蒸软、压泥、黄油糖小火炒干、模具及冷藏1小时。"
+        }
+      ],
+      "supportScope": "原作者支持去皮绿豆泡2–3小时、蒸软、压泥、黄油糖小火炒干、模具及冷藏1小时。",
+      "differences": "冷藏泡发3小时，黄油糖减少，不用淡奶油；所有等待计入总时间，明示非带皮豆快速成型。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a55",
+      "name": "萝卜丝饼（烫面包馅）",
+      "sources": [
+        {
+          "title": "天国的女儿 · 萝卜丝馅饼",
+          "url": "https://home.meishichina.com/recipe-302510.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；原作者支持热水面团饧30分钟、萝卜丝焯熟挤干、海米葱香馅与中小火两面烙。"
+        }
+      ],
+      "supportScope": "原作者支持热水面团饧30分钟、萝卜丝焯熟挤干、海米葱香馅与中小火两面烙。",
+      "differences": "海米改常见虾皮，馅先全熟且不以滚油浇葱；包圆饼而非酥卷，油水盐定量。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a56",
+      "name": "豆沙锅饼",
+      "sources": [
+        {
+          "title": "烟火间 · 豆沙锅饼",
+          "url": "https://m.xiachufang.com/recipe/126655/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "具体配方结构参考；原作者具体支持蛋奶面糊薄皮、熟豆沙包长方、面糊封口及再煎两面。"
+        }
+      ],
+      "supportScope": "原作者具体支持蛋奶面糊薄皮、熟豆沙包长方、面糊封口及再煎两面。",
+      "differences": "少油分批；封口浆从总面糊留取，明确二次煎熟生封口浆；不写固定张数防人数缩放失效。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a57",
+      "name": "杂粮煎饼",
+      "sources": [
+        {
+          "title": "戏水顽童 · 天津锅巴菜",
+          "url": "https://www.xiachufang.com/recipe/106064704/",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；组合参考绿豆小米杂粮浆薄饼、平底锅薄摊与蛋层熟化技法；所列页均非本菜完整原方。"
+        },
+        {
+          "title": "HowToCook · 滕州菜煎饼",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/staple/滕州菜煎饼.md",
+          "path": "dishes/staple/滕州菜煎饼.md",
+          "sha256": "b6a5ae54c987509ffd5f8047c466756fb2e02304a7a5b0ea808696e0b309cd25",
+          "kind": "technique"
+        },
+        {
+          "title": "HowToCook · 莴笋叶煎饼",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+          "path": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+          "sha256": "e846b3160dea3057fb82202b2b7e0b7b536465175af2268be96dd06d2629fd69",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "组合参考绿豆小米杂粮浆薄饼、平底锅薄摊与蛋层熟化技法；所列页均非本菜完整原方。",
+      "differences": "独立玉米绿豆小麦薄皮加蛋翻面折叠做法，与旧鸡蛋面糊蔬菜厚饼区分；不含油条薄脆。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a58",
+      "name": "藜麦蔬菜蛋盅",
+      "sources": [
+        {
+          "title": "Bob’s Red Mill · Organic Quinoa Grain 官方基本烹调说明",
+          "url": "https://www.bobsredmill.com/recipes/how-to-make/basic-preparation-instructions-for-organic-quinoa-grain",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "技法参考；官方藜麦包装烹调说明支持先煮、静置再使用；本地蒸蛋仅支持蛋加水与凝固检查技法，本页非微波配方。"
+        },
+        {
+          "title": "HowToCook · 微波炉蒸蛋",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/breakfast/微波炉蒸蛋.md",
+          "path": "dishes/breakfast/微波炉蒸蛋.md",
+          "sha256": "f8786f1e3d8cc24f06026b8c0a1b909ec9a381c0f32102138270a2fd028dc634",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "官方藜麦包装烹调说明支持先煮、静置再使用；本地蒸蛋仅支持蛋加水与凝固检查技法，本页非微波配方。",
+      "differences": "独立熟藜麦彩椒蛋盅，改蒸锅、深度3厘米和中心测温，完整计入藜麦煮焖和蒸制等待。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a59",
+      "name": "鲜虾豆腐粥",
+      "sources": [
+        {
+          "title": "HowToCook · 米粥",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/米粥.md",
+          "path": "dishes/soup/米粥.md",
+          "sha256": "a4aa3b411643a9cf87cf0a1fc75c5c7cbce5ffee1f4e8cec07be23d29818a794",
+          "kind": "technique"
+        },
+        {
+          "title": "HowToCook · 皮蛋瘦肉粥",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/皮蛋瘦肉粥.md",
+          "path": "dishes/soup/皮蛋瘦肉粥.md",
+          "sha256": "bc8b5d139edfd9376d0b6e08af512b142d477809e1e900bd62d527cdfa445a96",
+          "kind": "technique"
+        },
+        {
+          "title": "HowToCook · 白灼虾",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/aquatic/白灼虾/白灼虾.md",
+          "path": "dishes/aquatic/白灼虾/白灼虾.md",
+          "sha256": "db2537495063bb192db7f659efc90c169765a84e88a3a182df6feb81429b0e58",
+          "kind": "technique"
+        }
+      ],
+      "supportScope": "仅组合参考米粥熬软、后加蛋白质料和虾处理熟度技法；不假充原页面鲜虾豆腐粥具体方。",
+      "differences": "独立姜葱虾豆腐咸粥，米先熟再豆腐虾，整体超过1小时不盲压快手。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "v7a60",
+      "name": "土豆鸡蛋沙拉",
+      "sources": [
+        {
+          "title": "煮夫查理 CharlieCooksEasy · 土豆鸡蛋沙拉公开食材说明",
+          "url": "https://www.youtube.com/watch?v=6IeR72j_h4U",
+          "kind": "web",
+          "support": "ingredients",
+          "checked": "2026-10-01",
+          "note": "仅核实作者公开配料说明中的土豆、鸡蛋与酸奶柠檬组合；未观看完整视频，不能作为操作步骤来源。"
+        },
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "用于全熟鸡蛋、熟食与生食隔离、熟制后及时冷藏的厨房操作核查；不是土豆沙拉具体原方。"
+        }
+      ],
+      "supportScope": "原作者公开视频配料说明实际支持土豆、蛋及酸奶柠檬调味组合，未观看完整教程；方法为独立家庭全熟凉拌流程。",
+      "differences": "省蛋黄酱蜂蜜与其他果蔬，加入全熟青豆；双锅可并行煮土豆与全熟蛋，但总用时按步骤顺序与切拌余量估计，不含健康功效。",
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "safetyReferences": [
+        {
+          "title": "香港食物安全中心 · 烹煮及翻热",
+          "url": "https://www.cfs.gov.hk/sc_chi/trade_zone/safe_kitchen/Cooking_and_reheating.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FoodSafety.gov · Safe Minimum Internal Temperatures",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01"
+        }
+      ]
+    }
+  ]
+}

@@ -12,9 +12,9 @@ function boot(storage={}){
 }
 try{
  const a=boot({'cook-saved':'["d01","d100"]','cook-prefs':'{"category":"家常菜","portions":2}'});
- assert.equal(a.q('#random-result [data-open]'),null);a.change('#max','15');assert.match(a.q('.match-count').textContent,/6/);assert.equal(a.q('#random-result [data-open]'),null);
+ assert.equal(a.q('#random-result [data-open]'),null);a.change('#max','15');assert.match(a.q('.match-count').textContent,new RegExp(String(a.w.CookCore.filter(a.w.RECIPES,{category:'家常菜',max:15}).length)));assert.equal(a.q('#random-result [data-open]'),null);
  assert.ok(a.q('#max').compareDocumentPosition(a.q('[data-draw]'))&4);a.click('[data-draw]');const chosen=a.q('#random-result [data-open]').dataset.open;
- a.change('#max','0');a.change('#search','红烧肉','input');assert.equal(a.q('#random-result [data-open]').dataset.open,chosen);assert.match(a.q('#random-result').textContent,/条件已改变/);a.click('[data-draw]');assert.match(a.q('#random-result').textContent,/红烧肉/);
+ a.change('#max','0');a.change('#search','红烧肉','input');assert.equal(a.q('#random-result [data-open]').dataset.open,chosen);assert.match(a.q('#random-result').textContent,/条件已改变/);a.click('[data-draw]');const red=a.q('#random-result [data-open]').dataset.open;assert.ok(a.w.CookCore.filter(a.w.RECIPES,{category:'家常菜',query:'红烧肉'}).some(r=>r.id===red));assert.ok(a.q('#random-result').textContent.includes(a.w.RECIPES.find(r=>r.id===red).name));
  a.click('[data-reset-filters]');a.change('#cuisine','粤菜');a.change('#food-group','白灼');a.change('#no-noodles',true);a.click('[data-difficulty="1"]');a.change('#max','15');
  const prefs=a.snapshot()['cook-prefs'];for(const page of ['recipes','favorites','shopping','home']){a.page(page);assert.equal(a.snapshot()['cook-prefs'],prefs);}assert.equal(a.q('#cuisine').value,'粤菜');assert.equal(a.q('#food-group').value,'白灼');assert.equal(a.q('#no-noodles').checked,true);
  const b=boot(a.snapshot());assert.equal(b.q('#no-noodles').checked,true);assert.equal(b.q('#max').value,'15');assert.equal(b.q('#cuisine').value,'粤菜');assert.equal(b.q('#random-result [data-open]'),null);
