@@ -1,0 +1,19 @@
+{
+  "version": "0.8.0",
+  "versionCode": 8,
+  "package": "com.leijiang.cookdaily",
+  "minSdk": 26,
+  "targetSdk": 35,
+  "apk": "downloads/cookdaily-v0.8.0.apk",
+  "bytes": 26175498,
+  "sha256": "31a4f455fc24087dfaf40dc3ef699acc03ef92c993911369ab8c9050fcd3f7e7",
+  "certificateSha256": "98dbc08957fea4364655caaadfdcb1591c548157162d09254b3131784dcf7434",
+  "v2": true,
+  "v3": true,
+  "zipalign": true,
+  "r8Release": true,
+  "javacDebugInfo": false,
+  "publicDownloadVerified": false,
+  "deviceValidation": "not-performed",
+  "kitchenValidation": "not-tested"
+}

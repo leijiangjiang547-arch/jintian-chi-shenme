@@ -1,6 +1,6 @@
 import pathlib,zipfile,json,hashlib
 root=pathlib.Path(__file__).resolve().parents[1]
-apk=root/'downloads/cookdaily-v0.7.0.apk'
+apk=root/'downloads/cookdaily-v0.8.0.apk'
 with zipfile.ZipFile(apk) as z:
     assert z.testzip() is None
     assets=[f for f in (root/'web').iterdir() if f.suffix in {'.html','.js','.css','.svg','.png'}]

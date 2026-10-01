@@ -4,6 +4,8 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.content.Intent;
 import android.content.ActivityNotFoundException;
+import android.content.ClipData;
+import android.content.ClipboardManager;
 import android.net.Uri;
 import android.view.View;
 import android.view.WindowInsets;
@@ -21,12 +23,17 @@ import android.widget.TextView;
 import org.json.JSONObject;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.util.concurrent.FutureTask;
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.TimeoutException;
 
 /** Offline assets served from a reserved local origin; external tutorials open in the browser. */
 public class MainActivity extends Activity {
   private WebView web;
   private String backup;
   private static final String HOST = "appassets.androidplatform.net";
+  private static final int MAX_TEXT_LENGTH = 50000;
   @Override public void onCreate(Bundle state) {
     super.onCreate(state);
     FrameLayout root = new FrameLayout(this);
@@ -112,9 +119,54 @@ public class MainActivity extends Activity {
       catch (SecurityException e) { message("系统暂不允许打开此链接，请换一个入口或检查浏览器设置"); }
     });
   }
+  /** Inspect WebView state only on its UI thread. Third-party frames are also blocked above. */
+  private boolean packagedPageInForeground() {
+    if (web == null || isFinishing() || isDestroyed() || !hasWindowFocus()) return false;
+    String url = web.getUrl();
+    if (url == null) return false;
+    Uri uri = Uri.parse(url);
+    return "https".equalsIgnoreCase(uri.getScheme()) && HOST.equalsIgnoreCase(uri.getHost())
+      && (uri.getPort() == -1 || uri.getPort() == 443) && uri.getUserInfo() == null;
+  }
+  /** Return the UI operation's result, rather than reporting a queued request as success. */
+  private boolean textAction(String text, boolean share) {
+    if (text == null || text.trim().isEmpty()) { message("没有可复制或分享的内容"); return false; }
+    if (text.length() > MAX_TEXT_LENGTH) { message("清单内容过长，请分批复制或分享"); return false; }
+    FutureTask<Boolean> task = new FutureTask<>(() -> {
+      if (!packagedPageInForeground()) return false;
+      try {
+        if (share) {
+          Intent send = new Intent(Intent.ACTION_SEND).setType("text/plain")
+            .putExtra(Intent.EXTRA_TEXT, text).putExtra(Intent.EXTRA_TITLE, "买菜清单");
+          startActivity(Intent.createChooser(send, "分享买菜清单"));
+        } else {
+          ClipboardManager clipboard = getSystemService(ClipboardManager.class);
+          if (clipboard == null) { message("系统剪贴板暂不可用，请重试"); return false; }
+          clipboard.setPrimaryClip(ClipData.newPlainText("买菜清单", text));
+        }
+        return true;
+      } catch (ActivityNotFoundException e) {
+        message("这台设备没有可用的分享入口，请复制清单后自行粘贴");
+      } catch (SecurityException | IllegalStateException e) {
+        message(share ? "系统暂不允许分享，请复制清单后自行粘贴" : "系统暂不允许复制，请稍后重试");
+      }
+      return false;
+    });
+    // JavascriptInterface runs on WebView's private background thread; this also works inline on UI.
+    runOnUiThread(task);
+    try { return task.get(2, TimeUnit.SECONDS); }
+    catch (InterruptedException e) { task.cancel(false); Thread.currentThread().interrupt(); return false; }
+    catch (ExecutionException | TimeoutException e) {
+      task.cancel(false); message("操作暂未完成，请再试一次"); return false;
+    }
+  }
   /** This bridge is exposed only to packaged content; all other origins are blocked. */
   public class NativeKitchen {
     @JavascriptInterface public void openExternal(String url, boolean choose) { MainActivity.this.openExternal(url, choose); }
+    /** Invoked only from the packaged page's explicit copy button. */
+    @JavascriptInterface public boolean copyText(String text) { return textAction(text, false); }
+    /** Opens a chooser; true does not mean the user selected a recipient or sent anything. */
+    @JavascriptInterface public boolean shareText(String text) { return textAction(text, true); }
     @JavascriptInterface public String timerStatus() { return KitchenTimer.status(MainActivity.this); }
     @JavascriptInterface public boolean systemDark() { return (getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK) == android.content.res.Configuration.UI_MODE_NIGHT_YES; }
     @JavascriptInterface public void appearance(boolean dark) { runOnUiThread(() -> {

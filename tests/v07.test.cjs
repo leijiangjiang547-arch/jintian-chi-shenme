@@ -2,11 +2,12 @@ const test=require('node:test'),assert=require('node:assert/strict'),fs=require(
 const R=require('../web/recipes.json'),C=require('../web/core.js'),ctx={window:{}};
 vm.runInNewContext(fs.readFileSync(path.join(__dirname,'../web/search-index.js'),'utf8'),ctx);
 const indexed=R.map(r=>({...r,initials:ctx.window.RECIPE_INITIALS[r.id],pinyin:ctx.window.RECIPE_PINYIN[r.id]}));
-test('v7 fills all eight cuisines, preserves baseline revisions, and adds distinct recipes',()=>{
+test('v7 coverage and legacy revisions survive except documented v8 step corrections',()=>{
  const audit=require('../docs/v07-content-audit.json');assert.equal(R.length,300);assert.equal(R.filter(r=>r.id.startsWith('v7')).length,120);
  for(const c of ['川菜','湘菜','鲁菜','粤菜','苏菜','浙菜','闽菜','徽菜'])assert.ok(R.filter(r=>r.cuisine===c).length>=10,c);
  for(const c of ['京菜','津菜','东北风味','西北风味'])assert.ok(R.some(r=>r.cuisine===c),c);
- for(const [id,revision] of Object.entries(audit.legacyRevisions))assert.equal(R.find(r=>r.id===id).revision,revision);
+ const v8=require('../docs/v08-content-audit.json'),changes=new Map(v8.changes.map(c=>[c.id,c]));
+ for(const [id,revision] of Object.entries(audit.legacyRevisions)){const change=changes.get(id);if(change?.changedFields.includes('steps')){assert.equal(change.previousRevision,revision);assert.equal(R.find(r=>r.id===id).revision,change.revision);}else assert.equal(R.find(r=>r.id===id).revision,revision);}
  assert.equal(Object.keys(audit.legacyRevisions).length,180);assert.equal(audit.kitchenValidation,'not-tested');
 });
 test('actual recipe aliases, full pinyin and initials find dry-pot cauliflower without mixing techniques',()=>{
