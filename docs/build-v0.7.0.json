@@ -16,5 +16,15 @@
   "recipes": 300,
   "deviceValidation": "pending",
   "kitchenValidation": "not-tested",
-  "releaseDownloadValidation": "pending"
+  "releaseDownloadValidation": {
+    "at": "2026-10-01T10:48:24.352904+00:00",
+    "url": "https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/download/v0.7.0/cookdaily-v0.7.0.apk",
+    "draft": false,
+    "prerelease": true,
+    "assetsUploaded": true,
+    "anonymousHttpDownload": true,
+    "bytes": 26171338,
+    "sha256": "c8a5b6127f90cc8104d5d5868dd5df4b000c3b2930d0f123bfc22f23892ab872",
+    "matchesLocal": true
+  }
 }

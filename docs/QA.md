@@ -8,7 +8,7 @@
 - 300道均有本地AI示意图，原6张图集保持，新增4张。图片数量、实际尺寸、裁剪边界、唯一单元与PNG一致性通过检查；非实拍，不用于判断熟透。
 - Android release经R8压缩混淆、javac -g:none；versionCode7/versionName0.7.0，包名com.leijiang.cookdaily，min26/target35，无debuggable标志。APK 26,171,338字节，SHA256：`c8a5b6127f90cc8104d5d5868dd5df4b000c3b2930d0f123bfc22f23892ab872`。
 - v2/v3签名及zipalign通过；证书SHA256 `98dbc08957fea4364655caaadfdcb1591c548157162d09254b3131784dcf7434`与旧版一致。scripts/verify_apk.py验证所有页面/脚本/图像等资源逐字节一致、300道数据、CRC、未压缩资源表、校验和及签名私钥文件排除通过。
-- GitHub公开发布与匿名下载校验将在发布后补记。手机验收见 ACCEPTANCE-v0.7.0.md；原生桥回归仍为模拟，锁屏提醒、系统选择器、真实文件导入导出和实际烹饪待真机/厨房验证。这不是商业上架验收完成声明。
+- GitHub公开预发布v0.7.0已确认draft=false，APK和校验文件均uploaded；未携带登录凭据重新下载公开APK，26,171,338字节与SHA256均与本地一致。手机验收见 ACCEPTANCE-v0.7.0.md；原生桥回归仍为模拟，锁屏提醒、系统选择器、真实文件导入导出和实际烹饪待真机/厨房验证。这不是商业上架验收完成声明。
 
 --- 以下为历史检查，保留原始结果 ---
 

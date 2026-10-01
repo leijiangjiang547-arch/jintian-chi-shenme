@@ -486,12 +486,14 @@
   ],
   "snapshots": {
     "scripts/catalog_v07_a.json": {
-      "sha256": "8273e1da65e7440604af1177205cc146f0b0161281757676bfc9182356b7eb97",
-      "bytes": 262419
+      "sha256": "860d6a7937b2ea0766ef8e55a8a2e9581fbd783b984b31ea2afc0f5a7fbb29af",
+      "bytes": 253446,
+      "encoding": "UTF-8 with LF line endings, same as committed Git blob"
     },
     "scripts/catalog_v07_b.json": {
-      "sha256": "2bafc1f948e296e41d8f1c0cb1962d8acdd123c8b03214cf0e7208f750e047ec",
-      "bytes": 303326
+      "sha256": "a7e06f50d5c2cbe19b3495bb78901a4e2e8f1ea1bca859c121efd2fe76a1d160",
+      "bytes": 293633,
+      "encoding": "UTF-8 with LF line endings, same as committed Git blob"
     }
   },
   "summary": {
