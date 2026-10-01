@@ -7,7 +7,7 @@
 - 删除每张图片上的重复标签；设置内一处折叠说明保留生成图性质。教程继续置于食材之前但默认收起；平台链接仍由系统选择器处理。用户主动点击才复制文本/呼出分享，系统选择页成功不代表发送成功，没有指定接收人、不新增权限。
 - Android release已构建，R8压缩混淆、javac -g:none，versionCode8/versionName0.8.0，包名com.leijiang.cookdaily，min26/target35，无debuggable标志。APK26,175,498字节，SHA256 `31a4f455fc24087dfaf40dc3ef699acc03ef92c993911369ab8c9050fcd3f7e7`。
 - v2/v3与zipalign通过。证书SHA256 `98dbc08957fea4364655caaadfdcb1591c548157162d09254b3131784dcf7434`沿用旧版。scripts/verify_apk.py核对全部HTML/JS/CSS/SVG/PNG逐字节一致、300道数据、CRC、未压缩资源表、校验和及私钥文件排除通过。
-- 公开下载核对将在发布后追加。荣耀真机复制/分享候选、锁屏提醒、权限设置返回、覆盖安装与厨房效果仍需用户体验；没有应用市场提交或收费。验收见 ACCEPTANCE-v0.8.0.md。
+- GitHub公开预发布v0.8.0确认draft=false，APK与校验文件均uploaded；标签指向ccf927adcaad6f8694ed95887ddc7cf61d52d059。无登录凭据重新下载公开APK，26,175,498字节与SHA256均与本地相同。全部APK页面资源也与已提交Git blob逐字节相同（LF归一）。荣耀真机复制/分享候选、锁屏提醒、权限设置返回、覆盖安装与厨房效果仍需用户体验；没有应用市场提交或收费。验收见 ACCEPTANCE-v0.8.0.md。
 
 --- 以下为历史检查，保留原始结果 ---
 

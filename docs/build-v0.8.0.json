@@ -13,7 +13,13 @@
   "zipalign": true,
   "r8Release": true,
   "javacDebugInfo": false,
-  "publicDownloadVerified": false,
+  "publicDownloadVerified": true,
   "deviceValidation": "not-performed",
-  "kitchenValidation": "not-tested"
+  "kitchenValidation": "not-tested",
+  "releaseCommit": "ccf927adcaad6f8694ed95887ddc7cf61d52d059",
+  "releaseUrl": "https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/tag/v0.8.0",
+  "publicDownloadBytes": 26175498,
+  "publicDownloadSha256": "31a4f455fc24087dfaf40dc3ef699acc03ef92c993911369ab8c9050fcd3f7e7",
+  "downloadUsedAuthentication": false,
+  "committedWebAssetsMatched": true
 }
