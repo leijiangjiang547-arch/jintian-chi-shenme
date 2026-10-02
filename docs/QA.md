@@ -6,7 +6,8 @@
 - 实际桌面浏览器390×844验证首页大模块（约99像素高、标题24像素）、340道菜谱入口、麻辣豆腐→麻婆豆腐直接开详情且保留搜索、梅菜扣肉图片及4小时40分钟、缺菜表单预填及离线保存。核对生成的GitHub链接指向本公开仓库且编码菜名/备注，未实际创建Issue。320×720建议对话框无横向溢出，主要按钮48像素以上；844×390建议对话框纵向可滚动且无横向溢出。截图：[首页](screenshots/v09-home.jpg)、[梅菜扣肉](screenshots/v09-meicai.jpg)、[补菜建议](screenshots/v09-requests.jpg)、[窄屏](screenshots/v09-requests-320.jpg)。这是桌面网页验证，不是安卓或厨房验证。
 - 新图集两张1402×1122，由ImageGen按菜名和主料生成；玉米排骨汤单元补齐胡萝卜后再次目视核对。原300道素材不变，弃用初稿留在仓库外。裁剪边界、唯一单元及实际PNG尺寸通过检查；详见IMAGE-ASSETS-v0.9.0.md。
 - 本机存储和备份schema4，兼容1/2/3。建议只存本机，主动打开GitHub并由用户确认后才成为公开提交；仓库Issues已启用，没有自动上传偏好或笔记。外链仍走系统选择器/默认方式，不绑定Chrome。
-- Android release已构建，R8压缩混淆、javac -g:none，versionCode9/versionName0.9.0，包名com.leijiang.cookdaily，min26/target35。APK31,369,441字节，SHA256 `77b53c608472248cb88e6130201cc70c369d8e3607fc1e0679b0b80140646cc8`。v2/v3签名与zipalign通过，证书SHA256 `98dbc08957fea4364655caaadfdcb1591c548157162d09254b3131784dcf7434`沿用旧版。全部页面/脚本/样式/图片按LF归一逐字节比对，340道数据、CRC、未压缩资源表、校验和及私钥文件排除通过。公开下载验证将在发布后追加。
+- Android release已构建，R8压缩混淆、javac -g:none，versionCode9/versionName0.9.0，包名com.leijiang.cookdaily，min26/target35。APK31,369,441字节，SHA256 `77b53c608472248cb88e6130201cc70c369d8e3607fc1e0679b0b80140646cc8`。v2/v3签名与zipalign通过，证书SHA256 `98dbc08957fea4364655caaadfdcb1591c548157162d09254b3131784dcf7434`沿用旧版。全部页面/脚本/样式/图片按LF归一逐字节比对，340道数据、CRC、未压缩资源表、校验和及私钥文件排除通过。
+- GitHub公开预发布v0.9.0确认draft=false，APK和校验文件均uploaded；标签指向a5f905baf075c43e09b203ed23e8a1e102435e17。不带登录凭据或Cookie重新下载公开APK，31,369,441字节及SHA256与本地一致。包内26份页面资源与发布提交Git blob按LF逐字节一致，资源集合完全匹配，无弃用图集残留。原生git-remote-https上传组件崩溃后改用Dulwich标准HTTPS协议上传、GitHub CLI发布；TLS验证保持开启，不影响APK。
 - 待用户验证：荣耀覆盖安装与旧数据、原生复制/文件选择器、真实后台提醒、教程浏览器候选和新菜实际烹饪。本轮没有提交应用市场、收费或联系推广对象。见ACCEPTANCE-v0.9.0.md。
 
 --- 以下为历史检查，保留原始结果 ---

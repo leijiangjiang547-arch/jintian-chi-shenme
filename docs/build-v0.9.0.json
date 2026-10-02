@@ -16,7 +16,14 @@
   "recipeCount": 340,
   "coreTestsPassed": 50,
   "domSuitesPassed": 7,
-  "publicDownloadVerified": false,
+  "publicDownloadVerified": true,
+  "releaseCommit": "a5f905baf075c43e09b203ed23e8a1e102435e17",
+  "releaseUrl": "https://github.com/leijiangjiang547-arch/jintian-chi-shenme/releases/tag/v0.9.0",
+  "publicDownloadBytes": 31369441,
+  "publicDownloadSha256": "77b53c608472248cb88e6130201cc70c369d8e3607fc1e0679b0b80140646cc8",
+  "downloadUsedAuthentication": false,
+  "committedWebAssetsMatched": true,
+  "exactWebAssetSetMatched": true,
   "deviceValidation": "not-performed",
   "kitchenValidation": "not-tested"
 }
