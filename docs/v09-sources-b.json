@@ -1,0 +1,535 @@
+{
+  "reviewedOn": "2026-10-01",
+  "count": 20,
+  "kitchen": "not-tested",
+  "sourcePolicy": "仅引用实际阅读的原作者页面、固定提交全文和官方食品安全资料；technique不声称为该道菜原配方。家庭用量、步骤与时间重新独立编排，不复制原文、原图或功效描述。",
+  "recipes": [
+    {
+      "id": "v9b01",
+      "name": "红烧带鱼",
+      "references": [
+        {
+          "title": "一条优雅的鱼 · 红烧带鱼",
+          "url": "https://m.meishichina.com/recipe/286825/",
+          "kind": "web",
+          "support": "recipe",
+          "note": "支持鱼段两面煎后加酱汁焖烧、最后收汁；家庭用量及时间独立编排，不采用食疗描述。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计40分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b02",
+      "name": "红烧黄花鱼",
+      "references": [
+        {
+          "title": "天国的女儿 · 红烧黄花鱼",
+          "url": "https://home.meishichina.com/recipe-300658.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "支持整鱼煎制、姜蒜焖汁及醋分两次加入；家庭鱼重、盐量和安全焖煮时长另行编排。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计45分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b03",
+      "name": "清蒸多宝鱼",
+      "references": [
+        {
+          "title": "Amanda曼达 ·【曼食慢语】清蒸多宝鱼",
+          "url": "https://m.xiachufang.com/recipe/261090/",
+          "kind": "web",
+          "support": "technique",
+          "note": "实际完整步骤支持葱姜垫鱼、蒸后倒汁和另调酱汁；改为低火炒葱姜再煮汁，不采纳冒白烟热油泼浇与固定短蒸时。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计40分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b04",
+      "name": "鲫鱼豆腐汤",
+      "references": [
+        {
+          "title": "幸运晴天 · 鲫鱼汤（鲫鱼豆腐汤）",
+          "url": "https://m.xiachufang.com/recipe/105983085/",
+          "kind": "web",
+          "support": "recipe",
+          "note": "已阅读清理擦干、双面煎鱼、加入热水炖鱼再加豆腐与调味步骤；调整为家用小鱼与定量淡汤，不采用食疗叙述。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计45分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b05",
+      "name": "酸菜炖粉条",
+      "references": [
+        {
+          "title": "catherinelyy · 酸菜粉（渍菜粉）",
+          "url": "https://home.meishichina.com/recipe-542927.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "支持酸菜挤水切丝、先炒后加粉条焖透；家庭版去猪肉和花椒辣椒，选择包装可30分钟泡软的细红薯粉，原作者冷泡2小时不挪作短时保证。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计65分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b06",
+      "name": "白菜豆腐炖粉条",
+      "references": [
+        {
+          "title": "红袖添香v · 白菜豆腐炖粉条",
+          "url": "https://home.meishichina.com/recipe-569997.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "支持白菜帮叶分开、豆腐先煎、泡软粉条合焖；家庭素版删除五花肉，独立定量并延长粉条熟透检查。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计60分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b07",
+      "name": "蒜苗炒腊肉",
+      "references": [
+        {
+          "title": "我家闺秀 · 蒜苗炒腊肉",
+          "url": "https://home.meishichina.com/recipe-205755.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "作者先蒸腊肉半小时再切片、炒蒜苗；家庭版改为小块先水煮40分钟并温度确认，再依蒜白蒜叶顺序炒，不将腌肉当熟食。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+          "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计75分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b08",
+      "name": "韭菜炒豆芽",
+      "references": [
+        {
+          "title": "红•宏 · 绿豆芽炒韭菜",
+          "url": "https://home.meishichina.com/recipe-561352.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "已读洗切、蒜香锅、豆芽加醋糖、韭菜后入的顺序；家庭版不加辣椒和酱油，延长豆芽热透检查。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计20分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b09",
+      "name": "蒜蓉粉丝蒸娃娃菜",
+      "references": [
+        {
+          "title": "全の美食 · 蒜蓉粉丝娃娃菜",
+          "url": "https://home.meishichina.com/recipe-550422.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "支持泡粉丝、蒜蓉调汁、菜与粉丝同蒸15分钟；家庭版补菜根薄度和粉丝硬芯检查。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计45分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b10",
+      "name": "虾仁豆腐",
+      "references": [
+        {
+          "title": "乐悠厨房 · 虾仁烩豆腐",
+          "url": "https://home.meishichina.com/recipe-316900.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "已读虾仁处理、豆腐入汤、回合虾仁及勾芡步骤；去蛋白浆、料酒与滑油，改直接在豆腐汤中煮透虾仁。",
+          "checked": "2026-10-01",
+          "access": "web_search_recipe_steps_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计30分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b11",
+      "name": "香菇烧豆腐",
+      "references": [
+        {
+          "title": "花鱼儿 · 香菇烧豆腐",
+          "url": "https://home.meishichina.com/recipe-546351.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "支持鲜香菇、胡萝卜先炒后与豆腐加汁烧煮；家庭版删甜面酱与蚝油，使用独立淡味酱汁。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计30分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b12",
+      "name": "豌豆炒肉末",
+      "references": [
+        {
+          "title": "labrador · 肉末豌豆",
+          "url": "https://m.xiachufang.com/recipe/1073088/",
+          "kind": "web",
+          "support": "recipe",
+          "note": "实际全文支持肉末先炒散、豌豆加水焖软并留少量汁；家庭版删料酒，补入肉末温度与鲜豆粒硬芯检查。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+          "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计40分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b13",
+      "name": "丝瓜炒鸡蛋",
+      "references": [
+        {
+          "title": "美乐猪 · 丝瓜炒鸡蛋",
+          "url": "https://home.meishichina.com/recipe-282377.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "实际步骤支持鸡蛋先炒盛出、蒜香炒丝瓜后加水、蛋块最后回合；删蒜苗，量化两段油盐与熟度。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计25分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b14",
+      "name": "尖椒炒肥肠",
+      "references": [
+        {
+          "title": "Q奶茶美食日记 · 尖椒炒肥肠",
+          "url": "https://home.meishichina.com/recipe-11391.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "支持肠段与姜蒜葱、椒块合炒及酱汁调味；原作者半成品肠清洗不作为本配方前处理依据，明确仅用全熟商品并先彻底复热。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+          "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+          "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计45分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b15",
+      "name": "豆角焖土豆",
+      "references": [
+        {
+          "title": "小小群 · 土豆炖豆角—东北家常菜",
+          "url": "https://home.meishichina.com/recipe-228657.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "支持豆角先炒、土豆后入、加水焖软；家庭版不用八角花椒，明确四季豆需足时沸煮，不以炒变色出锅。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全通讯第105期：豆类不宜低温慢煮",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsb_202602.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "实际读取豆类不宜低温慢煮全文；仅参考豆角、四季豆需彻底烹煮、不以低温保温或变色代替熟透的原则，不将干豆12小时泡发用于鲜豆角。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计50分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b16",
+      "name": "茄子烧豆角",
+      "references": [
+        {
+          "title": "这个好好吃那个也好好吃 · 茄子炖豆角（少油版）",
+          "url": "https://m.xiachufang.com/recipe/107148728/",
+          "kind": "web",
+          "support": "technique",
+          "note": "已读茄子少油慢煎、豆角另炒后合菜加水焖软；家庭版为熟透将豆角预先足时沸煮，独立分油与定量汁，不使用作者未量化的熟度承诺。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全通讯第105期：豆类不宜低温慢煮",
+          "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsb_202602.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "实际读取豆类不宜低温慢煮全文；仅参考豆角、四季豆需彻底烹煮、不以低温保温或变色代替熟透的原则，不将干豆12小时泡发用于鲜豆角。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计45分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b17",
+      "name": "西红柿烧豆腐",
+      "references": [
+        {
+          "title": "林大锅的无烟小炒 · 西红柿烧豆腐",
+          "url": "https://home.meishichina.com/recipe-533315.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "支持西红柿炒汁、预煎豆腐合烧与薄芡；家庭版不用油炸、青豆或宣传文案，调整芡汁后入顺序及独立用量。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计35分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b18",
+      "name": "海带排骨汤",
+      "references": [
+        {
+          "title": "温馨小饭桌 · 海带排骨汤",
+          "url": "https://home.meishichina.com/recipe-76323.html",
+          "kind": "web",
+          "support": "recipe",
+          "note": "搜索完整步骤已读：排骨焯水后炖1小时，海带后下；家庭版改鲜海带片、延长海带软化时间，不采用疗效叙述。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_recipe_extract"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+          "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计115分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b19",
+      "name": "玉米排骨汤",
+      "references": [
+        {
+          "title": "HowToCook · 玉米排骨汤",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/玉米排骨汤/玉米排骨汤.md",
+          "kind": "recipe",
+          "support": "recipe",
+          "note": "实际阅读本地固定提交全文：排骨焯水、玉米先入、胡萝卜后入与约1小时慢炖；家庭版不炒油，不用料酒醋与高盐量。",
+          "checked": "2026-10-01",
+          "access": "pinned_local_full_text",
+          "commit": "c2063eb7050bac0cb998779c62fa08c649c9882f",
+          "sha256": "827a65e089129644ab52a30b3708162b83e3b0ef1fba45a51058e9aceff8d31c"
+        },
+        {
+          "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+          "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+          "kind": "web",
+          "support": "technique",
+          "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+          "checked": "2026-10-01",
+          "access": "web_search_full_text_extract"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计110分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    },
+    {
+      "id": "v9b20",
+      "name": "香辣藕片",
+      "references": [
+        {
+          "title": "茶饭食界 · 香辣藕片",
+          "url": "https://m.xiachufang.com/recipe/104121507/",
+          "kind": "web",
+          "support": "technique",
+          "note": "实际全文已读：薄藕、姜蒜香锅、加水热炒约5分钟与青红椒酱醋调味；家庭版补短焯、定量油盐与辣椒粉，热炒成菜而非冷拌。",
+          "checked": "2026-10-01",
+          "access": "page_text"
+        }
+      ],
+      "formula": "两人份独立家庭配方；食材重量、调味量、分次用量和火候自洽编排。",
+      "kitchen": "not-tested",
+      "timing": "估计25分钟，含配方所列泡发、慢煮或稍凉等待；不是厨房实测。",
+      "remaining": "尚需真实厨房试做、口味反馈及不同锅具/食材规格校准。"
+    }
+  ],
+  "finalReviewedOn": "2026-10-02"
+}

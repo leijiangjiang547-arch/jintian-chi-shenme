@@ -1,0 +1,27 @@
+{
+  "reviewedOn": "2026-10-01",
+  "scope": "v9 product paths and forty hot dishes",
+  "independentReviewers": [
+    "ux_audit",
+    "content_audit",
+    "android_links"
+  ],
+  "fixed": [
+    "foreground modal toast and focus preservation",
+    "favorites fuzzy suggestions",
+    "main ingredient protection and meat-cut recognition",
+    "pork fallback excludes explicit beef",
+    "requests save failure keeps form and does not claim persisted",
+    "equipment string schema and required thermometer",
+    "sequential Mei-cai pork workflow and 280 minute estimate",
+    "prepared tofu cold-thaw prerequisite",
+    "intestine reheating and soaking recipes given generous sequential estimates",
+    "corn rib soup illustration corrected to show carrot",
+    "no tasting uncooked preserved mustard greens",
+    "batch count grows with portions for dry-pot foods",
+    "no fixed half-bowl juice or editorial contrast in recipe checks"
+  ],
+  "legacyRecipeRecordsPreserved": 300,
+  "kitchenValidation": "not-tested",
+  "realPhoneValidation": "pending"
+}

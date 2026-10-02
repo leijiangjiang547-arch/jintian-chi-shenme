@@ -1,0 +1,568 @@
+{
+  "batch": "a",
+  "version": "0.9.0",
+  "checked": "2026-10-01",
+  "upstreamCommit": "c2063eb7050bac0cb998779c62fa08c649c9882f",
+  "recipes": [
+    {
+      "id": "v9a01",
+      "name": "土豆烧排骨",
+      "sources": [
+        {
+          "title": "HowToCook · 土豆炖排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+          "kind": "recipe",
+          "path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+          "sha256": "a3819d67a46acd381314fc0adb76f2be1717ef9523f82a9b66202e9edf278fda",
+          "note": "实际读取固定提交全文；支持排骨先焯后焖、土豆后放与收汁。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；支持排骨先焯后焖、土豆后放与收汁。",
+      "differences": "简化多种香料，不炒糖色；普通锅50分钟后土豆20分钟，留足升温与收汁。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 110,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a02",
+      "name": "土豆烧牛肉",
+      "sources": [
+        {
+          "title": "小妞_hebycE · 土豆烧牛肉",
+          "url": "https://home.meishichina.com/recipe-341459.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料和步骤文本；支持牛肉普通锅约两小时炖软、土豆后加，香料与用量独立定量。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料和步骤文本；支持牛肉普通锅约两小时炖软、土豆后加，香料与用量独立定量。",
+      "differences": "少香料、无草果；牛腩先普通锅130分钟，土豆后加，时间保守。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 205,
+      "prepMinutes": 20,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "牛肉焖130分钟后土豆25分钟；另锅煎土豆8分钟安排在牛肉快软时，与末段焖牛肉重叠；含切配和升温共205分钟。"
+    },
+    {
+      "id": "v9a03",
+      "name": "梅菜扣肉",
+      "sources": [
+        {
+          "title": "HowToCook · 梅菜扣肉",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+          "kind": "technique",
+          "path": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+          "sha256": "1cd84e7bbd169dfc92601fc318dd369c1f86262aec2a556ebff4da948222f5c7",
+          "note": "实际读取固定提交全文；只借鉴梅菜浸洗、肉片码碗和倒扣蒸制技法，家庭配方不使用原文油炸及其调味量。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；只借鉴梅菜浸洗、肉片码碗和倒扣蒸制技法，家庭配方不使用原文油炸及其调味量。",
+      "differences": "不油炸肉皮、不采原文盐酱量；先泡梅菜再预煮肉，采用120分钟长蒸及安全倒扣。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 280,
+      "prepMinutes": 60,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "顺序泡梅菜60分钟、煮肉40分钟、晾肉15分钟、炒菜3分钟、煮汁2分钟、蒸120分钟、稍凉10分钟；另留切配、升温与倒扣时间，总预留280分钟。"
+    },
+    {
+      "id": "v9a04",
+      "name": "糖醋排骨",
+      "sources": [
+        {
+          "title": "HowToCook · 糖醋排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+          "kind": "technique",
+          "path": "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+          "sha256": "379a4ef588054b59611c695395c206f0a154c6e1273d54eb1b955186cdd369e7",
+          "note": "实际读取固定提交全文；支持糖醋调味与排骨挂汁，未把原文油炸短时方法冒充本配方焖熟流程。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；支持糖醋调味与排骨挂汁，未把原文油炸短时方法冒充本配方焖熟流程。",
+      "differences": "来源只支持糖醋掛汁技法；本配方不油炸，独立采用50分钟焖熟与分次陈醋。",
+      "duplicateReview": {
+        "nearIds": [
+          "v7b23"
+        ],
+        "distinct": "先焖软再甜酸收汁，区别炸排骨裹地瓜粉后拌蒜酸汁的福州醉排骨。"
+      },
+      "totalMinutes": 95,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a05",
+      "name": "红烧排骨",
+      "sources": [
+        {
+          "title": "HowToCook · 酱排骨",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/酱排骨/酱排骨.md",
+          "kind": "technique",
+          "path": "dishes/meat_dish/酱排骨/酱排骨.md",
+          "sha256": "9272ac37fd8c620aa2d3a7dbecf073f994efe81bc70428b09193577d80d32013",
+          "note": "实际读取固定提交全文；支持排骨焯水、酱色焖烧及收汁；不用原文高比例五香粉。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；支持排骨焯水、酱色焖烧及收汁；不用原文高比例五香粉。",
+      "differences": "降低糖和香料，普通锅60分钟焖软；来源支持酱烧排骨技法。",
+      "duplicateReview": {
+        "nearIds": [
+          "v7b05"
+        ],
+        "distinct": "少糖咸鲜家庭焖烧，区别无锡甜口酱排骨。"
+      },
+      "totalMinutes": 105,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a06",
+      "name": "土豆炖鸡",
+      "sources": [
+        {
+          "title": "huangyaomian · 土豆炖鸡汤",
+          "url": "https://home.meishichina.com/recipe-6427.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与四步正文；支持姜鸡先煸、清水炖40分钟后土豆15分钟；不使用功效描述。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与四步正文；支持姜鸡先煸、清水炖40分钟后土豆15分钟；不使用功效描述。",
+      "differences": "清淡姜葱汤式土豆鸡，不用酱油或辣椒；保留40+15分钟普通锅炖制。",
+      "duplicateReview": {
+        "nearIds": [
+          "v7b45"
+        ],
+        "distinct": "清淡鸡汤和土豆，区别花椒干辣椒酱色大盘鸡。"
+      },
+      "totalMinutes": 90,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a07",
+      "name": "番茄牛腩",
+      "sources": [
+        {
+          "title": "HowToCook · 西红柿牛腩",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+          "kind": "recipe",
+          "path": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+          "sha256": "f0b0321e13c114a8de735200a7105f09b4f9d867151c21ae17817c2bcb5a72ab",
+          "note": "实际读取固定提交全文；支持先炖牛腩、番茄炒出汁再合锅；普通锅延长炖煮并省去明火烤番茄。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；支持先炖牛腩、番茄炒出汁再合锅；普通锅延长炖煮并省去明火烤番茄。",
+      "differences": "普通锅120分钟后合番茄25分钟，先备料全算总时间；不明火烤番茄皮。",
+      "duplicateReview": {
+        "nearIds": [
+          "v7a33"
+        ],
+        "distinct": "突出番茄浓汤，区别柱侯酱萝卜牛腩。"
+      },
+      "totalMinutes": 195,
+      "prepMinutes": 20,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "牛肉焖120分钟、番茄合锅25分钟；另锅炒番茄8分钟在牛肉焖煮末段重叠；含切配焯水升温共195分钟。"
+    },
+    {
+      "id": "v9a08",
+      "name": "黄豆焖猪蹄",
+      "sources": [
+        {
+          "title": "阿拉伯博士 · 黄豆炖猪蹄",
+          "url": "https://home.meishichina.com/recipe-240659.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与十步正文；支持黄豆预泡、猪蹄焯后普通锅焖炖；补足冷藏泡豆与软烂检查。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与十步正文；支持黄豆预泡、猪蹄焯后普通锅焖炖；补足冷藏泡豆与软烂检查。",
+      "differences": "泡豆明确冷藏8小时；普通锅沸30+焖120，不沿用原文约1小时快速出锅。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 690,
+      "prepMinutes": 20,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "冷藏浸黄豆480分钟；焯肉10、煸炒6、调味1、沸腾30、慢焖120、收汁10分钟，另切配和升温合计预留690分钟。"
+    },
+    {
+      "id": "v9a09",
+      "name": "红烧鸡块",
+      "sources": [
+        {
+          "title": "happiness2882 · 红烧鸡块",
+          "url": "https://home.meishichina.com/recipe-391671.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与五步正文；支持鸡腿切块焯水、香料与酱油焖烧，省鸡精并独立量化。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与五步正文；支持鸡腿切块焯水、香料与酱油焖烧，省鸡精并独立量化。",
+      "differences": "原作者红烧鸡块组合，省鸡精和干辣椒，不炒糖色；以75℃与软嫩双检查。",
+      "duplicateReview": {
+        "nearIds": [
+          "d68"
+        ],
+        "distinct": "带骨酱色鸡块，区别去骨鸡腿配大葱炒烧的葱烧鸡。"
+      },
+      "totalMinutes": 70,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a10",
+      "name": "香辣虾",
+      "sources": [
+        {
+          "title": "茗月baby · 香辣虾",
+          "url": "https://home.meishichina.com/recipe-78173.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与八步正文；支持豆瓣花椒姜蒜炒香、虾后入锅与少量水焖熟，无油炸。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与八步正文；支持豆瓣花椒姜蒜炒香、虾后入锅与少量水焖熟，无油炸。",
+      "differences": "非油炸豆瓣香辣炒虾，熟度按官方75℃保守阈值，不单以变红出锅。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 35,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a11",
+      "name": "干锅土豆片",
+      "sources": [
+        {
+          "title": "球娃娃 · 干锅土豆片",
+          "url": "https://home.meishichina.com/recipe-598811.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与八步正文；支持先煎土豆、后煸肉炒豆瓣、回锅加洋葱孜然；用普通平底锅。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与八步正文；支持先煎土豆、后煸肉炒豆瓣、回锅加洋葱孜然；用普通平底锅。",
+      "differences": "先煎熟土豆，再肉料洋葱回锅，保留干锅炒香技法；不设桌面加热设备。",
+      "duplicateReview": {
+        "nearIds": [
+          "d25"
+        ],
+        "distinct": "先煎香再回锅豆瓣孜然，区别青椒土豆片的普通清炒。"
+      },
+      "totalMinutes": 45,
+      "prepMinutes": 10,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a12",
+      "name": "干锅千页豆腐",
+      "sources": [
+        {
+          "title": "长沙新东方烹饪学校 · 干锅千页豆腐",
+          "url": "https://www.csxdf.com/news/20230228/2023022816008.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮直接打开并读取正文；支持千页豆腐煎至膨起、猪肉炒豆瓣及蔬菜回锅，改为洋葱在锅内炒熟后出菜。"
+        }
+      ],
+      "supportScope": "本轮直接打开并读取正文；支持千页豆腐煎至膨起、猪肉炒豆瓣及蔬菜回锅，改为洋葱在锅内炒熟后出菜。",
+      "differences": "普通锅炒熟洋葱后出菜，省干锅桌面复热；鲜蔬菜、调味和水量独立量化。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 45,
+      "prepMinutes": 10,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a13",
+      "name": "青椒茄子",
+      "sources": [
+        {
+          "title": "苹果的萍 · 青椒炒茄子",
+          "url": "https://home.meishichina.com/recipe-590487.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与九步正文；支持茄子煎软后放青椒姜蒜；本配方不盐腌，使用少量水辅助软化。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与九步正文；支持茄子煎软后放青椒姜蒜；本配方不盐腌，使用少量水辅助软化。",
+      "differences": "不盐腌挤水，独立采用5毫米煎片和40毫升汁焖软；选择不辣青椒。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 30,
+      "prepMinutes": 10,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a14",
+      "name": "肉末茄子",
+      "sources": [
+        {
+          "title": "HowToCook · 炒茄子",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒茄子.md",
+          "kind": "technique",
+          "path": "dishes/vegetable_dish/炒茄子.md",
+          "sha256": "64f9e3b89091a20ec15555e4ea03d81b5c5d76a97b2a8f0995d5bfdfcab5862c",
+          "note": "实际读取固定提交全文；支持肉末与茄子合炒，不采用原文高温热油及大量酱油。"
+        },
+        {
+          "title": "HowToCook · 蒲烧茄子",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/蒲烧茄子.md",
+          "kind": "technique",
+          "path": "dishes/vegetable_dish/蒲烧茄子.md",
+          "sha256": "95a54a805fef61b7cc166892f671b242c2bfb1e0204fb06e6acfc30eb1b069e0",
+          "note": "实际读取固定提交全文；仅支持先蒸软茄子再入平底锅的技法，不借用蒲烧调味。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；支持肉末与茄子合炒，不采用原文高温热油及大量酱油。；实际读取固定提交全文；仅支持先蒸软茄子再入平底锅的技法，不借用蒲烧调味。",
+      "differences": "两个已读技法组合：蒸软茄子、炒熟肉末合锅；独立咸鲜调味，不伪称完整同名原方。",
+      "duplicateReview": {
+        "nearIds": [
+          "d60",
+          "v7b20"
+        ],
+        "distinct": "无豆瓣醋糖鱼香汁，区别鱼香茄子；肉末浇裹蒸软条，区别甜面酱酱爆茄子。"
+      },
+      "totalMinutes": 40,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a15",
+      "name": "肉末蒸蛋",
+      "sources": [
+        {
+          "title": "悦悦玉食 · 肉末蒸蛋",
+          "url": "https://home.meishichina.com/recipe-225956.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与七步正文；支持蛋液兑1.5倍水过滤蒸制、炒熟肉末浇头，不是肉饼垫底蒸蛋。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与七步正文；支持蛋液兑1.5倍水过滤蒸制、炒熟肉末浇头，不是肉饼垫底蒸蛋。",
+      "differences": "蛋水比1:1.5，耐热盘替代保鲜膜，15分钟并温度检查；熟肉末浇头，非肉饼底层蒸蛋。",
+      "duplicateReview": {
+        "nearIds": [
+          "d64"
+        ],
+        "distinct": "嫩蛋羹先蒸、熟肉末后浇，区别d64原料肉饼垫底蒸蛋。"
+      },
+      "totalMinutes": 40,
+      "prepMinutes": 10,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a16",
+      "name": "黄焖鸡",
+      "sources": [
+        {
+          "title": "HowToCook · 黄焖鸡",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/黄焖鸡.md",
+          "kind": "recipe",
+          "path": "dishes/meat_dish/黄焖鸡.md",
+          "sha256": "c24bd558d9d8bf168bfc799af79599757c40dc3d0b46d3e088f21a329c23996d",
+          "note": "实际读取固定提交全文；支持鸡块、香菇、土豆焖烧与青椒末段加入；改用鲜香菇而非需预浸泡的干香菇。"
+        }
+      ],
+      "supportScope": "实际读取固定提交全文；支持鸡块、香菇、土豆焖烧与青椒末段加入；改用鲜香菇而非需预浸泡的干香菇。",
+      "differences": "鲜香菇、土豆与甜青椒量化，不炒糖色；普通锅焖30分钟，青椒后入。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "香菇土豆浓汁饭配菜，区别无土豆的红烧鸡块与清淡土豆炖鸡汤。"
+      },
+      "totalMinutes": 65,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a17",
+      "name": "香菇烧鸭",
+      "sources": [
+        {
+          "title": "zwhlz · 鸭肉焖香菇",
+          "url": "https://home.meishichina.com/recipe-58503.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整五步正文；仅支持鲜香菇配鸭及姜蒜煸香组合；其步骤无可靠焖熟用时，不能据变色判熟。"
+        },
+        {
+          "title": "blry2006 · 蘑菇炖鸭块",
+          "url": "https://home.meishichina.com/recipe-240601.html",
+          "kind": "web",
+          "support": "technique",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整五步正文；支持鸭块焯后煸香、砂锅约1小时炖制；鲜香菇、清水与酱油版独立编排。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整五步正文；仅支持鲜香菇配鸭及姜蒜煸香组合；其步骤无可靠焖熟用时，不能据变色判熟。；本轮读取搜索工具返回的完整五步正文；支持鸭块焯后煸香、砂锅约1小时炖制；鲜香菇、清水与酱油版独立编排。",
+      "differences": "鲜香菇配鸭和约1小时炖鸭技法组合，家庭酱油汁80分钟焖，不伪称原作者完整同配方。",
+      "duplicateReview": {
+        "nearIds": [
+          "v7a19"
+        ],
+        "distinct": "鲜香菇酱香烧鸭，无啤酒辣椒，区别川味啤酒鸭。"
+      },
+      "totalMinutes": 130,
+      "prepMinutes": 20,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a18",
+      "name": "板栗烧鸡",
+      "sources": [
+        {
+          "title": "零零落落2011 · 板栗烧鸡",
+          "url": "https://m.meishichina.com/recipe/431938/",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的配料列表及步骤2至12；支持焯鸡、酱色烧鸡和中途放板栗；改为普通锅与已去皮生板栗，未复制自动程序用时。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的配料列表及步骤2至12；支持焯鸡、酱色烧鸡和中途放板栗；改为普通锅与已去皮生板栗，未复制自动程序用时。",
+      "differences": "普通锅取代自动砂锅程序；已去皮生栗仁、分次加入与25分钟熟软检查明确。",
+      "duplicateReview": {
+        "nearIds": [
+          "v7b43",
+          "v7b37"
+        ],
+        "distinct": "栗仁酱烧，无榛蘑粉条，区别东北小鸡炖蘑菇；无雪菜冬笋，区别雪冬烧鸡。"
+      },
+      "totalMinutes": 85,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    },
+    {
+      "id": "v9a19",
+      "name": "冬瓜烧肉",
+      "sources": [
+        {
+          "title": "掀帘晨曦datura · 冬瓜烧肉",
+          "url": "https://home.meishichina.com/recipe-276154.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与二十步正文；支持薄五花肉先烧、冬瓜后放、淀粉收汁；独立定量并省辛辣香料。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与二十步正文；支持薄五花肉先烧、冬瓜后放、淀粉收汁；独立定量并省辛辣香料。",
+      "differences": "薄肉先焖、冬瓜后放；淀粉和水分两用途准确分配，少香料无蚝油。",
+      "duplicateReview": {
+        "nearIds": [
+          "d65"
+        ],
+        "distinct": "炒烧薄五花肉和冬瓜块，区别蒸制冬瓜肉馅夹。"
+      },
+      "totalMinutes": 45,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "腌肉10分钟与切冬瓜香料重叠；后续炒肉5、炒料1、肉先焖6、冬瓜12、芡汁1，加切肉与升温共45分钟。"
+    },
+    {
+      "id": "v9a20",
+      "name": "莲藕炖排骨",
+      "sources": [
+        {
+          "title": "阳台上的草莓 · 莲藕排骨汤",
+          "url": "https://home.meishichina.com/recipe-529180.html",
+          "kind": "web",
+          "support": "recipe",
+          "checked": "2026-10-01",
+          "note": "本轮读取搜索工具返回的完整配料与五步正文；支持普通锅先炖排骨1小时、莲藕后加；不用卤料包与未入步骤的醋。"
+        }
+      ],
+      "supportScope": "本轮读取搜索工具返回的完整配料与五步正文；支持普通锅先炖排骨1小时、莲藕后加；不用卤料包与未入步骤的醋。",
+      "differences": "无卤料包、醋与酱油；普通锅排骨60分钟后藕60分钟，完整计入准备和烧开。",
+      "duplicateReview": {
+        "nearIds": [],
+        "distinct": "现有300道中无同名、同调味及同流程的独立配方。"
+      },
+      "totalMinutes": 155,
+      "prepMinutes": 15,
+      "kitchen": "not-tested",
+      "checked": "2026-10-01",
+      "timingNotes": "总时间计入切配、升温、焯水/焖煮、出锅；增量分批或肉质偏老需延长。"
+    }
+  ],
+  "safetyReferences": [
+    {
+      "title": "香港食物安全中心 · 烹煮",
+      "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+      "support": "食物中心75℃、蛋全熟、汤汁沸腾至少1分钟；本轮直接打开全文。",
+      "checked": "2026-10-01"
+    }
+  ],
+  "retrievalNotes": "美食天下页面本轮直接open常返回520，实际依据搜索工具返回的原作者完整正文/明确步骤片段，note逐条限定支持范围；未下载或再分发其照片、视频，不复制原作者叙述和用量。",
+  "kitchen": "not-tested",
+  "recipeCount": 20,
+  "validation": {
+    "uniqueNamesAgainstExisting300": true,
+    "stepsRange": "7–9",
+    "positiveIngredientTokenCoverage": "20/20",
+    "tokenFractionSums": "all 1 within 1e-7",
+    "kitchen": "not-tested",
+    "timing": "manual elapsed estimates with explicitly documented overlaps; ordinary stove/pot; may extend by ingredient/quantity"
+  },
+  "finalReviewedOn": "2026-10-02"
+}

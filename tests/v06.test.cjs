@@ -3,7 +3,7 @@ const C=require('../web/core.js'),R=require('../web/recipes.json'),find=id=>R.fi
 test('v6 migration preserves prior preferences and personal records, sanitizes private notes',()=>{
  const map=new Map(Object.entries({'cook-version':'2','cook-saved':'["b41"]','cook-bought':'{"鸡蛋|个":true}','cook-prefs':JSON.stringify({category:'早餐',noNoodles:true}),'cook-notes':JSON.stringify({b41:{text:'少放糖',updatedAt:1},unknown:{text:'x'}})}));
  const st={getItem:k=>map.get(k)??null,setItem:(k,v)=>map.set(k,v)};C.migrateStorage(st,R);
- assert.equal(map.get('cook-version'),'3');assert.equal(map.get('cook-saved'),'["b41"]');assert.equal(map.get('cook-bought'),'{"鸡蛋|个":true}');assert.equal(JSON.parse(map.get('cook-prefs')).noNoodles,true);assert.deepEqual(JSON.parse(map.get('cook-notes')),{b41:{text:'少放糖',updatedAt:1}});
+ assert.equal(map.get('cook-version'),'4');assert.equal(map.get('cook-saved'),'["b41"]');assert.equal(map.get('cook-bought'),'{"鸡蛋|个":true}');assert.equal(JSON.parse(map.get('cook-prefs')).noNoodles,true);assert.deepEqual(JSON.parse(map.get('cook-notes')),{b41:{text:'少放糖',updatedAt:1}});
  const note=C.normalizeNotes({d01:{text:'x'.repeat(2000),updatedAt:'invalid'}},R).d01;assert.equal(note.text.length,1000);assert.equal(note.updatedAt,0);
 });
 test('progress chooses the earliest undone step without losing separate completed checks',()=>{

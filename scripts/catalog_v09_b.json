@@ -1,0 +1,3145 @@
+[
+  {
+    "id": "v9b01",
+    "name": "红烧带鱼",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "煎烧",
+    "minutes": 40,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次煎制或控制鱼肉完整；按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "带鱼",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "米醋",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "饮用水",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "处理带鱼",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{带鱼}}去头、内脏和腹内黑膜，清洗后切5厘米段；鱼身厚度不超过2厘米，用厨房纸擦干。",
+        "check": "新鲜或已安全解冻的带鱼再开始；清洗后洗净手和水槽。"
+      },
+      {
+        "title": "切配调汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{姜}}切片，{{蒜}}拍裂，{{小葱}}切段；碗里混合{{生抽}}、{{老抽}}、{{白糖}}、{{米醋}}、{{盐}}和{{饮用水}}。",
+        "check": "调汁碗不用装生鱼；葱段分成葱白和葱绿。"
+      },
+      {
+        "title": "热锅排鱼",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "不粘锅加入{{食用油}}，中火加热约1分钟；带鱼擦干后单层排入，鱼段之间留空。",
+        "check": "锅装不下就分批煎，别叠放，也不要把湿鱼投入热油。"
+      },
+      {
+        "title": "煎定第一面",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "保持中火煎3分钟，先不翻动；边缘变黄后轻推，能移动再翻面。",
+        "check": "若仍黏锅，再等30秒；不要用铲子硬撕鱼皮。"
+      },
+      {
+        "title": "煎另一面",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "翻面再煎3分钟，空处放入姜、蒜和葱白炒出香味。",
+        "check": "两面浅金黄即可，煎制不是最终熟透检查。"
+      },
+      {
+        "title": "加汁焖烧",
+        "heat": "中小火",
+        "seconds": 720,
+        "text": "沿锅边倒入调好的汁，煮沸后转中小火，加盖焖12分钟；中途用勺把汤汁淋到鱼段上。",
+        "check": "计时从汤重新沸腾开始；若提前见底，补少量热水防糊。"
+      },
+      {
+        "title": "检查收汁",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "最厚鱼段中心达到63℃再开盖，中火收汁2–3分钟；轻晃锅让汁裹住鱼段。",
+        "check": "探针避开骨头；肉仍半透明或未达温度则继续焖2分钟后复查。"
+      },
+      {
+        "title": "装盘挑刺",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "将鱼段和浓汁盛入干净盘，撒上葱绿，趁热配饭。",
+        "check": "带鱼仍有鱼刺；给儿童或老人吃时拆开逐块挑净。"
+      }
+    ],
+    "tips": [
+      "多人份分批煎，鱼段厚度维持不变；收汁只留能裹住鱼的少量汤。",
+      "这道菜从新鲜或已解冻带鱼开始；冷冻整块需提前冷藏解冻，另留等待时间。"
+    ],
+    "allergens": [
+      "鱼",
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "一条优雅的鱼 · 红烧带鱼",
+        "url": "https://m.meishichina.com/recipe/286825/",
+        "kind": "web",
+        "support": "recipe",
+        "note": "支持鱼段两面煎后加酱汁焖烧、最后收汁；家庭用量及时间独立编排，不采用食疗描述。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "家常红烧带鱼",
+      "红烧带鱼段"
+    ]
+  },
+  {
+    "id": "v9b02",
+    "name": "红烧黄花鱼",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "煎烧",
+    "minutes": 45,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次煎制或控制鱼肉完整；按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "黄花鱼",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 2,
+        "unit": "ml"
+      },
+      {
+        "name": "米醋",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 4,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 280,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "清理擦干",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{黄花鱼}}去鳞、鳃和内脏，冲净腹内残血，用厨房纸擦干；两侧各划两道浅口，不切断脊骨。",
+        "check": "选择鱼体厚度不超过3厘米的规格；可请鱼摊处理，回家复查鳃和腹腔。"
+      },
+      {
+        "title": "备香料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{姜}}切片、{{蒜}}拍裂，{{小葱}}切段；{{生抽}}、{{老抽}}、{{白糖}}、{{盐}}与{{饮用水}}混合。",
+        "check": "葱白和葱绿分放；切鱼和切配菜使用分开的刀板。"
+      },
+      {
+        "title": "下锅煎鱼",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "锅内放{{食用油}}，热约1分钟后放鱼；中火煎4分钟至鱼皮定形。",
+        "check": "鱼身单层放平，锅小可把鱼切段；不要强行把大鱼折进锅。"
+      },
+      {
+        "title": "翻面增香",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "用两把铲子托住翻面，再煎3分钟；锅边放姜、蒜和葱白炒香。",
+        "check": "若鱼皮黏住，延长半分钟再翻；香料微黄就够，不炒黑。"
+      },
+      {
+        "title": "加汁煮沸",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "沿锅边加入调好的汁和{{米醋@0.5}}，煮沸，轻轻把汁淋到鱼身。",
+        "check": "汤汁约到鱼腹中部；不足可添少量热水，避免煎鱼时泼入凉水。"
+      },
+      {
+        "title": "盖锅焖熟",
+        "heat": "中小火",
+        "seconds": 900,
+        "text": "转中小火加盖，保持轻沸15分钟；第8分钟开盖淋汁，再盖回去。",
+        "check": "鱼最厚处中心需达到63℃，探针避骨；较厚处未熟则继续焖2–3分钟。"
+      },
+      {
+        "title": "开盖收浓",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "确认鱼熟后开盖，加入{{米醋@0.5}}，收汁约3分钟，撒葱绿。",
+        "check": "汁能挂住勺背就关火；不要收到干锅后才停。"
+      },
+      {
+        "title": "托鱼装盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "托住鱼头和鱼尾移入干净盘，浇汁；食用时先拆开鱼肉再挑刺。",
+        "check": "多人份增加鱼的条数并分锅做，维持单条厚度，不选成倍大的鱼。"
+      }
+    ],
+    "tips": [
+      "人数较少可切分鱼取用；多人份保持同样规格分锅煎焖。",
+      "鱼刺不能靠炖煮消除，鱼头、腹部和脊骨附近尤需仔细挑净。"
+    ],
+    "allergens": [
+      "鱼",
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "天国的女儿 · 红烧黄花鱼",
+        "url": "https://home.meishichina.com/recipe-300658.html",
+        "kind": "web",
+        "support": "recipe",
+        "note": "支持整鱼煎制、姜蒜焖汁及醋分两次加入；家庭鱼重、盐量和安全焖煮时长另行编排。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "红烧黄鱼",
+      "家常黄花鱼"
+    ]
+  },
+  {
+    "id": "v9b03",
+    "name": "清蒸多宝鱼",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "蒸菜",
+    "minutes": 40,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次煎制或控制鱼肉完整；按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "多宝鱼",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 35,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 12,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "title": "清理鱼身",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{多宝鱼}}去鳃、内脏并刷洗鱼皮，冲净擦干；两面厚肉处划浅口。",
+        "check": "从新鲜或已安全解冻鱼开始；鱼体最厚不超过3厘米，不重叠蒸。"
+      },
+      {
+        "title": "整理葱姜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{姜@0.67}}切片，{{姜@0.33}}切细丝；{{小葱@0.5}}切段，{{小葱@0.5}}切细丝。",
+        "check": "姜片和葱段用于蒸鱼，姜丝和葱丝留给成品汁。"
+      },
+      {
+        "title": "摆盘架空",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "耐热盘底铺姜片、葱段，再放鱼；厚肉面朝上，盘子放得下且四周能通汽。",
+        "check": "少量可切分取用；多人按同样鱼体厚度分盘分次蒸，不能摞鱼。"
+      },
+      {
+        "title": "烧开蒸锅",
+        "heat": "大火",
+        "seconds": 180,
+        "text": "蒸锅加足清水，水面低于蒸架，盖盖大火烧至持续冒汽。",
+        "check": "盘底不泡在锅水里；先烧开再放鱼，隔热手套提前放手边。"
+      },
+      {
+        "title": "入锅计时",
+        "heat": "大火",
+        "seconds": 900,
+        "text": "将鱼盘放进蒸架，加盖蒸15分钟，从蒸汽恢复连续冒出时开始计时。",
+        "check": "保持足够蒸汽；中途缺水从锅边加热水，避免水溅到鱼盘。"
+      },
+      {
+        "title": "检查熟度",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "探针插最厚鱼肉并避骨，中心达到63℃；打开切口，鱼肉应不再半透明。",
+        "check": "未达温度继续蒸2分钟复查；不要仅按鱼皮变色判断。"
+      },
+      {
+        "title": "煮葱姜汁",
+        "heat": "小火",
+        "seconds": 120,
+        "text": "小锅放{{食用油}}，低火炒姜丝和葱丝30秒；加{{生抽}}、{{白糖}}、{{饮用水}}，煮沸再煮1分钟。",
+        "check": "油温以有轻微香味为宜，不烧到冒烟；汁在锅内煮好再淋，避开热油泼盘。"
+      },
+      {
+        "title": "换盘淋汁",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "戴隔热手套端鱼，倒掉蒸鱼积水并取掉蒸用葱姜，移到干净盘，均匀淋上葱姜汁。",
+        "check": "端盘防烫；食用前逐块挑鱼刺，蒸用葱姜弃去即可。"
+      }
+    ],
+    "tips": [
+      "蒸锅小就把鱼切分、单层放盘；增加人数时增加盘数，不延用更厚大鱼的时间。",
+      "不要把油烧到冒烟后泼在鱼上；葱姜汁在小锅内煮好也能带出香味。"
+    ],
+    "allergens": [
+      "鱼",
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "蒸锅、耐热鱼盘、小锅、食品温度计、隔热手套",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "Amanda曼达 ·【曼食慢语】清蒸多宝鱼",
+        "url": "https://m.xiachufang.com/recipe/261090/",
+        "kind": "web",
+        "support": "technique",
+        "note": "实际完整步骤支持葱姜垫鱼、蒸后倒汁和另调酱汁；改为低火炒葱姜再煮汁，不采纳冒白烟热油泼浇与固定短蒸时。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "蒸多宝鱼",
+      "清蒸大菱鲆"
+    ]
+  },
+  {
+    "id": "v9b04",
+    "name": "鲫鱼豆腐汤",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "汤羹",
+    "minutes": 45,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次煎制或控制鱼肉完整；按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "鲫鱼",
+        "amount": 450,
+        "unit": "g"
+      },
+      {
+        "name": "嫩豆腐",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 1000,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "清理鲫鱼",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鲫鱼}}去鳞、鳃、内脏和腹内黑膜，洗净擦干；选择鱼身厚度不超过3厘米的小鲫鱼。",
+        "check": "请鱼摊处理后仍复查腹腔；鲫鱼小刺多，烹煮不会消除刺。"
+      },
+      {
+        "title": "切豆腐葱姜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{嫩豆腐}}切2厘米方块，{{姜}}切片，{{小葱}}分葱白与葱绿切段；{{饮用水}}烧成热水备用。",
+        "check": "豆腐放在干净碗，葱绿最后加入；清水表量不含清洗水。"
+      },
+      {
+        "title": "煎鱼第一面",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "锅放{{食用油}}，温热后放擦干的鱼，中火煎3分钟。",
+        "check": "鱼皮能轻推移动再翻，装不下分批煎，不能叠放。"
+      },
+      {
+        "title": "翻面加香",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "托住鱼身翻面再煎3分钟，加入姜片和葱白30秒炒出香味。",
+        "check": "鱼皮浅黄即可；不要把鱼煎碎，否则汤里更容易散落鱼刺。"
+      },
+      {
+        "title": "加热水炖鱼",
+        "heat": "中火",
+        "seconds": 900,
+        "text": "沿锅边慢慢加入备好的热水，煮开后保持汤面持续轻沸，盖留缝炖15分钟。",
+        "check": "计时从重新沸腾开始；不要为了汤白开大火让汤溢出。"
+      },
+      {
+        "title": "加入豆腐",
+        "heat": "中小火",
+        "seconds": 480,
+        "text": "轻放豆腐块，不用铲子乱翻；再次沸腾后中小火煮8分钟。",
+        "check": "厚鱼肉中心需达到63℃；豆腐中间热透，汤不足补少量热水。"
+      },
+      {
+        "title": "调味再煮",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "加入{{盐}}和{{白胡椒粉}}，轻晃锅匀开，再煮2分钟，撒葱绿关火。",
+        "check": "确认鱼肉已熟后才尝汤；喜欢淡味可先少放部分盐，余量不必全部加入。"
+      },
+      {
+        "title": "分开盛汤鱼",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "用宽铲托出鱼放盘，再把豆腐和汤盛入碗；喝汤前留意细刺。",
+        "check": "给儿童喝时用细筛过滤汤，鱼肉另挑净刺；别直接连鱼搅成碎汤。"
+      }
+    ],
+    "tips": [
+      "清汤或乳白汤都可以，汤色不能代替熟度检查。",
+      "多人份保持鱼大小不变，煎鱼分批；汤锅容量至少比食材和水的总体积多留三分之一。"
+    ],
+    "allergens": [
+      "鱼",
+      "大豆"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭和一份清淡蔬菜；汤菜同时食用汤中的食材。",
+    "sources": [
+      {
+        "title": "幸运晴天 · 鲫鱼汤（鲫鱼豆腐汤）",
+        "url": "https://m.xiachufang.com/recipe/105983085/",
+        "kind": "web",
+        "support": "recipe",
+        "note": "已阅读清理擦干、双面煎鱼、加入热水炖鱼再加豆腐与调味步骤；调整为家用小鱼与定量淡汤，不采用食疗叙述。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "鲫鱼汤",
+      "鲫鱼炖豆腐"
+    ]
+  },
+  {
+    "id": "v9b05",
+    "name": "酸菜炖粉条",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "焖炖",
+    "minutes": 65,
+    "prepMinutes": 30,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "东北酸菜",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "干红薯粉条",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 350,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "泡软粉条",
+        "heat": "不开火",
+        "seconds": 1800,
+        "text": "{{干红薯粉条}}用足量温水泡30分钟，选择包装说明在此时间内可泡软的细粉条；沥水备用。",
+        "check": "能弯折、中心不硬脆再用；粗粉或包装需更长泡发时，按包装增加等待。"
+      },
+      {
+        "title": "处理酸菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{东北酸菜}}用饮用水快速冲洗后挤干，切细丝；{{姜}}切丝、{{蒜}}切末、{{小葱}}切段。",
+        "check": "腌制酸菜不要烹前尝生味；包装胀袋、霉变或异常黏滑就不用。"
+      },
+      {
+        "title": "炒香葱姜",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "锅放{{食用油}}，中小火加热，放姜、蒜和葱段炒1分钟。",
+        "check": "香料有香味而不变黑；蒜刚微黄就放酸菜。"
+      },
+      {
+        "title": "炒开酸菜",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "加入酸菜丝，中火翻炒4分钟，把挤成团的菜丝拨散。",
+        "check": "锅底若干焦，先转小火并添一小勺水，别继续干煸。"
+      },
+      {
+        "title": "加水和调味",
+        "heat": "大火",
+        "seconds": 120,
+        "text": "倒入{{饮用水}}、{{生抽}}和{{白糖}}，煮到锅边连续冒泡。",
+        "check": "汤能基本浸住菜丝；生抽已带盐，最后再决定盐量。"
+      },
+      {
+        "title": "下粉条焖透",
+        "heat": "中小火",
+        "seconds": 600,
+        "text": "加入泡软粉条，用筷子分散；再次沸腾后转中小火，加盖焖10分钟，中途搅一次。",
+        "check": "粉条中心无白硬芯；仍硬则补热水并多焖3–5分钟，不能只看表面透明。"
+      },
+      {
+        "title": "调盐留汁",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "确认粉条熟后尝一小勺汤，按咸度加入{{盐}}的全部或一部分，再煮2分钟。",
+        "check": "成品要留少量汤，粉条还会吸汁；过咸可补热水，不加更多酱油。"
+      },
+      {
+        "title": "趁热盛出",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "把酸菜和粉条一同盛出，长粉条可剪短再吃。",
+        "check": "多人份用更宽锅或分锅，粉条泡软后再入锅，不能塞入干粉条硬炖。"
+      }
+    ],
+    "tips": [
+      "用无肉的东北酸菜与红薯粉条；酸菜、酱油包装若含其他配料，按包装核对过敏原。",
+      "30分钟泡粉包含在总时间里；粗粉条可能要泡更久，以包装说明和无硬芯为准。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "catherinelyy · 酸菜粉（渍菜粉）",
+        "url": "https://home.meishichina.com/recipe-542927.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "支持酸菜挤水切丝、先炒后加粉条焖透；家庭版去猪肉和花椒辣椒，选择包装可30分钟泡软的细红薯粉，原作者冷泡2小时不挪作短时保证。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "酸菜粉条",
+      "渍菜粉"
+    ]
+  },
+  {
+    "id": "v9b06",
+    "name": "白菜豆腐炖粉条",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "焖炖",
+    "minutes": 60,
+    "prepMinutes": 20,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "大白菜",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "北豆腐",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "干红薯粉条",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "饮用水",
+        "amount": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 18,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "泡软粉条",
+        "heat": "不开火",
+        "seconds": 1200,
+        "text": "{{干红薯粉条}}放足量温水，按包装泡约20分钟至能弯折，捞出沥水。",
+        "check": "选可20分钟泡软的细粉；包装需更久时增加等待，不以干粉直接代替。"
+      },
+      {
+        "title": "分别切配",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{大白菜}}洗净，帮切1厘米条、叶切4厘米块；{{北豆腐}}切1.5厘米厚块擦干，{{姜}}切片，{{小葱}}切段。",
+        "check": "菜帮和菜叶分放，豆腐表面擦干能减少煎油飞溅。"
+      },
+      {
+        "title": "煎豆腐",
+        "heat": "中火",
+        "seconds": 360,
+        "text": "不粘锅放{{食用油@0.67}}，豆腐单层排入，两面各煎3分钟，浅金黄后盛出。",
+        "check": "多人份分批煎且保持厚度；未定形前不翻，别追求深焦色。"
+      },
+      {
+        "title": "炒白菜帮",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "锅放{{食用油@0.33}}，下姜和葱白30秒，再下白菜帮炒2–3分钟。",
+        "check": "菜帮边缘略软即可，后面还会焖熟；底部干时及时转小火。"
+      },
+      {
+        "title": "菜叶入锅",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "加入白菜叶翻炒1分钟，倒{{生抽}}和{{饮用水}}，煮至持续冒泡。",
+        "check": "热汤基本达到白菜高度；菜量较多时分锅，不硬塞满锅。"
+      },
+      {
+        "title": "合入豆腐粉条",
+        "heat": "中小火",
+        "seconds": 600,
+        "text": "放煎好的豆腐和泡软粉条，轻压进汤里；重新沸腾后盖留缝焖10分钟。",
+        "check": "第5分钟拨散粉条并检查锅底，不让粉条结团粘锅。"
+      },
+      {
+        "title": "熟度调盐",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "粉条无硬芯、白菜帮软后，加入{{盐}}并轻晃锅，撒葱绿，再煮2分钟。",
+        "check": "粉条仍硬就补热水多焖3分钟；不要用锅铲把豆腐搅碎。"
+      },
+      {
+        "title": "带汤装碗",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "留一些汤汁一起盛出，让豆腐与粉条保持湿润，趁热食用。",
+        "check": "这道菜吸水快，不要收成干锅；剩菜及时冷藏，食前彻底热透。"
+      }
+    ],
+    "tips": [
+      "这是白菜、豆腐、粉条同焖的素菜；选无肉的酱油和豆腐制品即可。",
+      "泡粉时同时切菜、煎豆腐能节省等待；粗粉仍需按包装延长泡发时间。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "红袖添香v · 白菜豆腐炖粉条",
+        "url": "https://home.meishichina.com/recipe-569997.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "支持白菜帮叶分开、豆腐先煎、泡软粉条合焖；家庭素版删除五花肉，独立定量并延长粉条熟透检查。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "素白菜炖粉条",
+      "白菜豆腐粉条"
+    ]
+  },
+  {
+    "id": "v9b07",
+    "name": "蒜苗炒腊肉",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "肉类小炒",
+    "minutes": 75,
+    "prepMinutes": 40,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "腊肉",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "蒜苗",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "title": "核对腊肉",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{腊肉}}查看包装储存和加热说明，洗去表面浮盐；选厚度不超过2厘米的块，太厚先切开。",
+        "check": "腊肉腌过不等于已熟；异常霉斑、酸败或超过保质期不用。"
+      },
+      {
+        "title": "先煮腊肉",
+        "heat": "中小火",
+        "seconds": 2400,
+        "text": "腊肉放小锅，加清水没过，烧开后转中小火煮40分钟；包装要求更久时按较长时间。",
+        "check": "计时从水沸腾开始；中途保持水覆盖，补热水，不让锅煮干。"
+      },
+      {
+        "title": "检查取出",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "腊肉最厚处中心达到75℃后捞出，放干净盘稍凉5分钟。",
+        "check": "探针插肉心；未达温度再煮5分钟复查，不能只看外皮颜色。"
+      },
+      {
+        "title": "切腊肉和蒜苗",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "熟腊肉切2毫米片；{{蒜苗}}洗净切4厘米段，蒜白拍扁另放，{{姜}}切丝。",
+        "check": "切熟肉用洗净的刀板；腊肉外皮若很硬可先去掉。"
+      },
+      {
+        "title": "煸香腊肉",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "炒锅放{{食用油}}，下姜丝30秒，再放腊肉片，中小火煸3分钟至边缘稍卷。",
+        "check": "腊肉已熟，只需炒热出香；不煸到焦黑、干硬。"
+      },
+      {
+        "title": "先炒蒜白",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "加入蒜苗白色段，中火炒2分钟，必要时沿锅边添一小勺水。",
+        "check": "蒜白按压变软；腊肉本身咸，暂不加盐或酱油。"
+      },
+      {
+        "title": "后放蒜叶",
+        "heat": "中火",
+        "seconds": 90,
+        "text": "加入蒜苗绿叶，翻炒1–2分钟至叶片均匀变软，再取一片熟肉和菜尝咸度。",
+        "check": "叶片不留生硬部位；味道太咸可另配淡菜，不再添咸调料。"
+      },
+      {
+        "title": "装盘食用",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "把肉片和蒜苗一同盛出，配米饭食用。",
+        "check": "人数增加保持肉块厚度不变，先煮熟再分批炒；炒锅不要堆满。"
+      }
+    ],
+    "tips": [
+      "食材表不额外加盐；腊肉含盐量较高，先煮再切炒，勿叠加咸味调料。",
+      "总时间包括40分钟煮腊肉和5分钟稍凉；包装注明需更长煮制时继续加时。"
+    ],
+    "allergens": [],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "我家闺秀 · 蒜苗炒腊肉",
+        "url": "https://home.meishichina.com/recipe-205755.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "作者先蒸腊肉半小时再切片、炒蒜苗；家庭版改为小块先水煮40分钟并温度确认，再依蒜白蒜叶顺序炒，不将腌肉当熟食。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+        "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "蒜苗腊肉",
+      "腊肉炒蒜苗"
+    ]
+  },
+  {
+    "id": "v9b08",
+    "name": "韭菜炒豆芽",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "蔬菜小炒",
+    "minutes": 20,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "绿豆芽",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "韭菜",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "米醋",
+        "amount": 5,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "清洗豆芽",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{绿豆芽}}放盆冲洗两遍，拣掉烂芽和浮皮，沥干；明显酸臭或黏滑的豆芽不用。",
+        "check": "不是洗净就能生吃，豆芽还要下锅充分加热。"
+      },
+      {
+        "title": "清洗切韭菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{韭菜}}拆散洗净根部泥沙，沥水切4厘米段；较粗韭白和绿叶分放。",
+        "check": "不在原来放生肉的刀板上切直接下锅的蔬菜。"
+      },
+      {
+        "title": "备好蒜和调料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{蒜}}切末，把{{米醋}}和{{白糖}}混匀；{{盐}}和{{食用油}}量好备用。",
+        "check": "开炒后节奏快，调料备齐再点火。"
+      },
+      {
+        "title": "低火炒蒜",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "锅放量好的油，中小火加热后放蒜末，炒约30秒至有香味。",
+        "check": "蒜微黄就加豆芽；发黑则换油重新炒，不用焦蒜掩味。"
+      },
+      {
+        "title": "先炒豆芽",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "加入豆芽，中火不断翻炒4分钟；锅底干时添一小勺饮用水，再盖30秒帮助热透。",
+        "check": "豆芽整体热透、无硬生豆味；保持锅中有少量湿气而非干焦。"
+      },
+      {
+        "title": "加入韭菜",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "先下韭白30秒，再下韭叶，合炒1–2分钟；加入醋糖汁和盐。",
+        "check": "韭白和韭叶都变软，不保留大把生叶；锅小就分批炒。"
+      },
+      {
+        "title": "翻匀检查",
+        "heat": "中火",
+        "seconds": 30,
+        "text": "再翻炒30秒，让酸咸味分布均匀，取少量熟菜尝味。",
+        "check": "若芽梗仍硬生，补一小勺水盖煮1分钟后复查。"
+      },
+      {
+        "title": "及时出锅",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "盛入干净盘，趁热配饭；盘底少量菜汁可一起盛出。",
+        "check": "不要将熟菜盛回装未洗豆芽的盆里；多人份维持锅内浅铺。"
+      }
+    ],
+    "tips": [
+      "这道菜从新鲜豆芽开始；豆芽要充分加热，不以保持脆感为由半生出锅。",
+      "韭菜后下能保留香味，但叶片和韭白仍需全部热透。"
+    ],
+    "allergens": [],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "红•宏 · 绿豆芽炒韭菜",
+        "url": "https://home.meishichina.com/recipe-561352.html",
+        "kind": "web",
+        "support": "recipe",
+        "note": "已读洗切、蒜香锅、豆芽加醋糖、韭菜后入的顺序；家庭版不加辣椒和酱油，延长豆芽热透检查。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "豆芽炒韭菜",
+      "绿豆芽炒韭菜"
+    ]
+  },
+  {
+    "id": "v9b09",
+    "name": "蒜蓉粉丝蒸娃娃菜",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "蒸菜",
+    "minutes": 45,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "娃娃菜",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "干粉丝",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 90,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 12,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "title": "泡粉丝",
+        "heat": "不开火",
+        "seconds": 900,
+        "text": "{{干粉丝}}放足量温水泡15分钟至能弯曲，剪成约15厘米段并沥干。",
+        "check": "选择包装注明此时间可泡软的细粉丝；粗粉按包装另加等待。"
+      },
+      {
+        "title": "切菜洗蒜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{娃娃菜}}去烂叶，每棵纵切成4–6条，根部相连；冲净叶缝，{{蒜}}切末，{{小葱}}切碎。",
+        "check": "每条根部最厚不超过2厘米；人数增加多切条，不加大单条。"
+      },
+      {
+        "title": "短焯娃娃菜",
+        "heat": "大火",
+        "seconds": 60,
+        "text": "另锅清水烧开，娃娃菜先把根部浸入30秒，再整条焯30秒，捞出沥水。",
+        "check": "只是预软化，不是完整蒸熟；取菜用夹子防烫。"
+      },
+      {
+        "title": "低火煮蒜汁",
+        "heat": "小火",
+        "seconds": 120,
+        "text": "小锅加{{食用油}}，放蒜末小火炒1分钟；加入{{生抽}}、{{白糖}}、{{饮用水}}煮沸即关火。",
+        "check": "蒜只需微黄，不炒深褐；调味汁在锅中煮，不向盘内泼热油。"
+      },
+      {
+        "title": "摆盘浇汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "耐热浅盘铺粉丝，娃娃菜单层排在上面；把蒜汁均匀淋到菜根与粉丝。",
+        "check": "粉丝能接触汁，菜不堆高；盘太小就分两盘分次蒸。"
+      },
+      {
+        "title": "蒸透根部",
+        "heat": "大火",
+        "seconds": 900,
+        "text": "蒸锅先烧到持续冒汽，再放菜盘，加盖；蒸汽恢复后蒸15分钟。",
+        "check": "锅水低于蒸架；中途查看时防蒸汽扑脸，缺水补热水。"
+      },
+      {
+        "title": "检查粉丝",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "夹最厚菜根，应柔软能轻易夹断；粉丝尝一根，无硬芯才完成。",
+        "check": "菜根硬或粉丝不透，加少量热水回蒸3分钟再查。"
+      },
+      {
+        "title": "撒葱端盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "撒葱花，盖上余热焖30秒；用隔热手套端盘，带盘内汁一起吃。",
+        "check": "葱洗净沥干后再撒；汁和盘都热，提醒用餐者防烫。"
+      }
+    ],
+    "tips": [
+      "干粉丝的泡软等待已包含在总时间内；不同品牌按包装调整。",
+      "粉丝吸汁快，蒸后若偏干，少量热水淋到粉丝上再拌开，不淋凉水。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "蒸锅、耐热浅盘、小锅、夹子、隔热手套",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "全の美食 · 蒜蓉粉丝娃娃菜",
+        "url": "https://home.meishichina.com/recipe-550422.html",
+        "kind": "web",
+        "support": "recipe",
+        "note": "支持泡粉丝、蒜蓉调汁、菜与粉丝同蒸15分钟；家庭版补菜根薄度和粉丝硬芯检查。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "蒜蓉娃娃菜粉丝",
+      "粉丝蒸娃娃菜"
+    ]
+  },
+  {
+    "id": "v9b10",
+    "name": "虾仁豆腐",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "海鲜小炒",
+    "minutes": 30,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "鲜虾仁",
+        "amount": 180,
+        "unit": "g"
+      },
+      {
+        "name": "嫩豆腐",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "处理鲜虾",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鲜虾仁}}挑去肠线，快速冲洗、沥干；体厚超过2厘米的虾仁沿背划开。",
+        "check": "使用新鲜或已冷藏解冻虾仁；保持低温，生虾用具与熟食分开。"
+      },
+      {
+        "title": "切豆腐葱姜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{嫩豆腐}}切2厘米方块，{{姜}}切细末，{{小葱}}分葱白与葱绿切末。",
+        "check": "嫩豆腐轻拿，碎少量无妨；不要压成泥。"
+      },
+      {
+        "title": "调水淀粉",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{玉米淀粉}}与{{饮用水@0.12}}搅匀；其余{{饮用水@0.88}}留作汤。",
+        "check": "淀粉水入锅前还要再搅一次，避免粉沉底结团。"
+      },
+      {
+        "title": "炒香煮汤",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "锅放{{食用油}}，炒姜末、葱白30秒，加入留好的汤水及{{生抽}}，煮开。",
+        "check": "汤沸再加豆腐，姜葱不能炒焦；不用大锅宽油滑虾。"
+      },
+      {
+        "title": "豆腐先煮",
+        "heat": "中小火",
+        "seconds": 240,
+        "text": "轻轻放豆腐块，保持轻沸4分钟，轻晃锅让热汤接触各面。",
+        "check": "豆腐中间热透，不用铲子翻碎；水少时补少量热水。"
+      },
+      {
+        "title": "虾仁入锅",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "放虾仁并拨散，重新煮沸后保持中火4分钟，翻一次虾仁让两面浸汤。",
+        "check": "切开最大虾仁，中间呈乳白不透明、无透明软芯；仍透明继续煮1分钟复查。"
+      },
+      {
+        "title": "调盐勾薄芡",
+        "heat": "中小火",
+        "seconds": 90,
+        "text": "加{{盐}}，再搅匀淀粉水，分两圈淋入汤里；轻推豆腐，煮1–2分钟至芡汁均匀。",
+        "check": "汁微稠能挂住虾仁即可，不煮成糊块；过稠加一点热水。"
+      },
+      {
+        "title": "撒葱盛盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "加葱绿轻轻拌开，装入干净深盘，连汤汁配饭。",
+        "check": "多人份增加锅宽或分锅，虾仁维持同样厚度，不让生虾挤成团。"
+      }
+    ],
+    "tips": [
+      "配方从鲜虾仁或已经安全解冻的虾仁开始；整块冷冻虾需提前冷藏解冻，另留等待时间。",
+      "嫩豆腐不耐翻，用轻推或晃锅拌匀；虾仁不能仅凭卷曲形状判断熟透。"
+    ],
+    "allergens": [
+      "甲壳类",
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "乐悠厨房 · 虾仁烩豆腐",
+        "url": "https://home.meishichina.com/recipe-316900.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "已读虾仁处理、豆腐入汤、回合虾仁及勾芡步骤；去蛋白浆、料酒与滑油，改直接在豆腐汤中煮透虾仁。",
+        "checked": "2026-10-01",
+        "access": "web_search_recipe_steps_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "虾仁烩豆腐",
+      "虾仁烧豆腐"
+    ]
+  },
+  {
+    "id": "v9b11",
+    "name": "香菇烧豆腐",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "豆腐小炒",
+    "minutes": 30,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "鲜香菇",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "北豆腐",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 160,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "洗切鲜香菇",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鲜香菇}}冲净伞褶、去硬根，菌盖切约5毫米片。",
+        "check": "使用鲜香菇，不用干菇直接替换；干菇需另行冷藏泡发并增加时间。"
+      },
+      {
+        "title": "切豆腐配菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{北豆腐}}切2厘米方块，{{胡萝卜}}切2毫米薄片，{{蒜}}切片。",
+        "check": "豆腐切好放干净碗，胡萝卜薄片便于在短时间内焖软。"
+      },
+      {
+        "title": "混合调味汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "把{{生抽}}、{{白糖}}、{{盐}}和{{饮用水}}搅匀。",
+        "check": "盐按食材表量称好；不另外叠加蚝油或咸酱。"
+      },
+      {
+        "title": "炒蒜和胡萝卜",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "锅加{{食用油}}，下蒜片炒30秒，再放胡萝卜片炒1–2分钟。",
+        "check": "蒜微黄即可；胡萝卜开始软，不用炒到焦边。"
+      },
+      {
+        "title": "炒软香菇",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "放香菇片，中火炒3分钟至片片略软，香味明显。",
+        "check": "保持翻动；锅底干时加一小勺调好的汁，避免香菇粘锅。"
+      },
+      {
+        "title": "加豆腐焖煮",
+        "heat": "中小火",
+        "seconds": 480,
+        "text": "轻放豆腐，倒入调好的汁；汤汁沸腾后转中小火加盖焖8分钟。",
+        "check": "每块豆腐都浸到汤；中途轻晃锅，不把豆腐铲碎。"
+      },
+      {
+        "title": "检查收汁",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "香菇软熟、豆腐中心热透后开盖，中火收汁约2分钟。",
+        "check": "汤汁能裹住豆腐就停；若胡萝卜仍硬，补水再焖2分钟。"
+      },
+      {
+        "title": "带汁装盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "盛入深盘，汤汁一同浇在豆腐上，趁热配饭。",
+        "check": "多人份分锅或增锅宽，豆腐仍切2厘米块，不加大块延用原时间。"
+      }
+    ],
+    "tips": [
+      "鲜香菇和干香菇所需备料时间不同，本配方用鲜香菇。",
+      "不加淀粉也能烧出有汁的豆腐；汤汁保留少量，别收到干锅。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "花鱼儿 · 香菇烧豆腐",
+        "url": "https://home.meishichina.com/recipe-546351.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "支持鲜香菇、胡萝卜先炒后与豆腐加汁烧煮；家庭版删甜面酱与蚝油，使用独立淡味酱汁。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "香菇炖豆腐",
+      "鲜香菇烧豆腐"
+    ]
+  },
+  {
+    "id": "v9b12",
+    "name": "豌豆炒肉末",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "肉类小炒",
+    "minutes": 40,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "鲜豌豆粒",
+        "amount": 220,
+        "unit": "g"
+      },
+      {
+        "name": "猪肉末",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 220,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "整理豌豆",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鲜豌豆粒}}拣去坏粒后洗净沥水；优先选嫩豌豆，老粒需延长煮制。",
+        "check": "不是干豌豆；若用冷冻豌豆，按包装加热说明，不在室温长放。"
+      },
+      {
+        "title": "备好肉末香料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{猪肉末}}保持冷藏至下锅前，{{姜}}和{{蒜}}切末，{{饮用水}}量好。",
+        "check": "肉末保持颗粒细小，不把大肉团直接放进锅里。"
+      },
+      {
+        "title": "炒香姜蒜",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "锅放{{食用油}}，下姜蒜末炒30秒。",
+        "check": "蒜微黄有香味就下肉，发黑则停火重新处理。"
+      },
+      {
+        "title": "炒散肉末",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "加入肉末，中火用铲背不断压散，炒5分钟至没有大肉团。",
+        "check": "肉变色只表示表面受热，仍要继续与豌豆焖熟。"
+      },
+      {
+        "title": "加豌豆和水",
+        "heat": "大火",
+        "seconds": 120,
+        "text": "倒入豌豆翻炒1分钟，再加量好的水和{{盐}}，煮至整锅沸腾。",
+        "check": "水基本到豌豆高度；锅太宽、蒸发快时补少量热水。"
+      },
+      {
+        "title": "焖软豌豆",
+        "heat": "中小火",
+        "seconds": 900,
+        "text": "转中小火盖留缝煮15分钟，中途翻动一次，让豌豆和肉末均匀浸汤。",
+        "check": "一粒豌豆能用勺背压碎且无生硬芯；老粒再煮3–5分钟。"
+      },
+      {
+        "title": "查肉末收汁",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "肉末中心达到75℃后开盖，中火收汁2分钟，留少量拌饭的汁。",
+        "check": "探针测一勺聚拢的肉末；未达温度再煮2分钟复查，不以颜色代替温度。"
+      },
+      {
+        "title": "盛出配饭",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "将肉末、豌豆和少量汤汁一起盛出，趁热食用。",
+        "check": "多人份用宽锅或分锅，肉末完全拨散；不把豌豆堆成厚层干炒。"
+      }
+    ],
+    "tips": [
+      "本配方用鲜豌豆粒，干豌豆不能直接替换；大而老的鲜粒也需要更久焖煮。",
+      "成品留少量汤汁更适合拌饭；肉末需充分熟透再尝味。"
+    ],
+    "allergens": [],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "labrador · 肉末豌豆",
+        "url": "https://m.xiachufang.com/recipe/1073088/",
+        "kind": "web",
+        "support": "recipe",
+        "note": "实际全文支持肉末先炒散、豌豆加水焖软并留少量汁；家庭版删料酒，补入肉末温度与鲜豆粒硬芯检查。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+        "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "肉末豌豆",
+      "豌豆肉末"
+    ]
+  },
+  {
+    "id": "v9b13",
+    "name": "丝瓜炒鸡蛋",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "蛋类小炒",
+    "minutes": 25,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "丝瓜",
+        "amount": 350,
+        "unit": "g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": 2,
+        "unit": "个"
+      },
+      {
+        "name": "蒜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 18,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "削皮切丝瓜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{丝瓜}}洗净削去硬棱和老皮，切厚约1.5厘米滚刀块；{{蒜}}切片。",
+        "check": "丝瓜老硬的籽瓤去掉；切块保持大小接近，避免外软内硬。"
+      },
+      {
+        "title": "打匀鸡蛋",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鸡蛋}}打入干净碗，加{{盐@0.33}}，用筷子打匀至蛋黄蛋白混合。",
+        "check": "蛋壳不掉进碗；打蛋后洗手，不拿沾生蛋的筷子直接尝熟菜。"
+      },
+      {
+        "title": "先炒熟蛋",
+        "heat": "中火",
+        "seconds": 90,
+        "text": "锅放{{食用油@0.5}}，温热后倒入蛋液；轻推成大块，炒约1–2分钟至完全凝固。",
+        "check": "不留流动蛋液；用干净盘盛出，不盛回生蛋碗。"
+      },
+      {
+        "title": "炒香蒜片",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "锅加{{食用油@0.5}}，放蒜片中小火炒30秒。",
+        "check": "蒜出香但不焦黑，再下丝瓜。"
+      },
+      {
+        "title": "炒软丝瓜",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "倒入丝瓜，中火翻炒3分钟，让各面接触热锅。",
+        "check": "丝瓜稍出水；若锅太干先转小火，别为防粘反复加油。"
+      },
+      {
+        "title": "加水焖熟",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "加入{{饮用水}}和{{盐@0.67}}，盖锅焖3分钟，从汁液沸腾后计时。",
+        "check": "丝瓜中心软嫩，勺边可切开；还硬则再焖1–2分钟。"
+      },
+      {
+        "title": "回合鸡蛋",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "把炒熟鸡蛋放回锅，轻推拌匀，再炒1分钟让蛋吸到丝瓜汁。",
+        "check": "蛋块仍完全凝固，丝瓜没有硬芯；菜汁少量保留即可。"
+      },
+      {
+        "title": "趁热盛出",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "装入干净盘，连同少量汁配饭。",
+        "check": "多人份分批炒蛋，丝瓜保持1.5厘米厚度，不切成更厚大块。"
+      }
+    ],
+    "tips": [
+      "丝瓜容易出水，少量水帮助焖透即可；不要盖锅长时间炖成泥。",
+      "鸡蛋先炒熟再回锅，能保留蛋块；每次换量仍要确认没有流动蛋液。"
+    ],
+    "allergens": [
+      "鸡蛋"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "美乐猪 · 丝瓜炒鸡蛋",
+        "url": "https://home.meishichina.com/recipe-282377.html",
+        "kind": "web",
+        "support": "recipe",
+        "note": "实际步骤支持鸡蛋先炒盛出、蒜香炒丝瓜后加水、蛋块最后回合；删蒜苗，量化两段油盐与熟度。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "丝瓜炒蛋",
+      "鸡蛋炒丝瓜"
+    ]
+  },
+  {
+    "id": "v9b14",
+    "name": "尖椒炒肥肠",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "肉类小炒",
+    "minutes": 45,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": true,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "全熟肥肠",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "尖椒",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 2,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "食用油",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "title": "确认熟制品",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{全熟肥肠}}必须是包装标明已经完全煮熟、可按说明复热的商品；查看日期、冷藏要求和配料。",
+        "check": "半成品、生肥肠、只焯过水的肠不能代用；本配方不包括生肠清洗和长煮。"
+      },
+      {
+        "title": "先彻底复热",
+        "heat": "中小火",
+        "seconds": 600,
+        "text": "按包装复热；无较长要求时把全熟肥肠放入清水，水开后轻沸煮10分钟。",
+        "check": "中心达到75℃再捞出；包装要求更长就延时，未达温度继续煮。"
+      },
+      {
+        "title": "切肠和配菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "肥肠稍凉2分钟后切2厘米段；{{尖椒}}洗净去籽切3厘米块，{{姜}}切丝、{{蒜}}切片、{{小葱}}切段。",
+        "check": "切熟肠用干净刀板；切辣椒后洗手，不揉眼睛。"
+      },
+      {
+        "title": "混合小碗汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "把{{生抽}}、{{老抽}}、{{白糖}}与{{饮用水}}混合。",
+        "check": "熟肥肠常已含盐，不额外加盐；可先用部分碗汁，过咸不再加。"
+      },
+      {
+        "title": "煸香熟肥肠",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "锅放{{食用油}}，加入姜蒜和葱白30秒；再放已复热的肥肠，中火翻炒3分钟。",
+        "check": "肠段炒热、边缘略上色即可，不焦煎到硬；不把生肠在此步骤现炒熟。"
+      },
+      {
+        "title": "加尖椒炒软",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "加入尖椒，翻炒3分钟，让椒块均匀接触锅底。",
+        "check": "尖椒有韧度但无生硬芯；锅小就分批炒，不能堆成团。"
+      },
+      {
+        "title": "加汁焖匀",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "沿锅边加小碗汁，沸腾后加盖焖2分钟；放葱绿翻匀。",
+        "check": "肥肠整体保持滚热，复热后不要在室温久放；过干补一点热水。"
+      },
+      {
+        "title": "开盖装盘",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "开盖翻1分钟留少量浓汁，装干净盘立即食用。",
+        "check": "包装如含大豆、小麦等配料，按包装另核对；原熟食包装不可作盛菜容器。"
+      }
+    ],
+    "tips": [
+      "只用全熟商品肥肠；“半成品”不代表完全熟透，不可直接替换。",
+      "熟肥肠已有调味，本配方不额外加盐；配料表可能含大豆、小麦或其他过敏原，应逐项核对。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "Q奶茶美食日记 · 尖椒炒肥肠",
+        "url": "https://home.meishichina.com/recipe-11391.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "支持肠段与姜蒜葱、椒块合炒及酱汁调味；原作者半成品肠清洗不作为本配方前处理依据，明确仅用全熟商品并先彻底复热。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "FoodSafety.gov · Cook to a Safe Minimum Internal Temperature",
+        "url": "https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持鱼中心63℃、肉末充分熟透、鸡蛋凝固、熟食复热与虾肉不透明的熟度判断，不支持本菜配方。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+        "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "青椒炒熟肥肠",
+      "辣椒炒肥肠"
+    ]
+  },
+  {
+    "id": "v9b15",
+    "name": "豆角焖土豆",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "焖炖",
+    "minutes": 50,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "四季豆",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "土豆",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "饮用水",
+        "amount": 450,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "摘洗豆角",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{四季豆}}摘去两端和筋，洗净切4厘米段，拣掉发黑、腐烂的豆荚。",
+        "check": "豆角需彻底煮熟；不要在生的时候尝味。"
+      },
+      {
+        "title": "处理土豆",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{土豆}}洗净去皮，切2厘米块后冲去表面淀粉；{{姜}}切丝、{{蒜}}拍裂，{{小葱}}切段。",
+        "check": "发绿、发芽或腐烂土豆不用；块大小接近，便于同时熟。"
+      },
+      {
+        "title": "炒香料",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "锅放{{食用油}}，加姜、蒜和葱白，中小火炒30秒。",
+        "check": "香料出香即放豆角，蒜不炒黑。"
+      },
+      {
+        "title": "炒豆角加土豆",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "放豆角翻炒3分钟，再加入土豆和{{生抽}}炒1分钟。",
+        "check": "颜色变化不是熟透标准，此时豆角仍需加水充分焖煮。"
+      },
+      {
+        "title": "加水煮沸",
+        "heat": "大火",
+        "seconds": 120,
+        "text": "加{{饮用水}}和{{盐}}，水基本盖住食材；大火煮到汤面连续沸腾。",
+        "check": "锅宽或菜量多时适量补热水，不让豆角上层长期露在汤外。"
+      },
+      {
+        "title": "维持沸腾焖熟",
+        "heat": "中火",
+        "seconds": 1500,
+        "text": "盖留缝，调火保持汤汁持续沸腾，煮25分钟，第10和20分钟各翻动一次。",
+        "check": "不是低温保温焖；若提前缺水加热水，不能干锅硬煸。"
+      },
+      {
+        "title": "检查豆角土豆",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "夹开最粗豆角，内外柔软、无生硬豆腥；土豆能用筷子轻松穿透，再开盖收汁2分钟。",
+        "check": "豆角仍生硬就补水继续沸煮5分钟；不要为脆口缩短彻底煮透过程。"
+      },
+      {
+        "title": "撒葱盛出",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "放葱绿轻拌，保留少量汁盛出配饭。",
+        "check": "多人份选容量充足的锅或分锅，土豆和豆角尺寸维持不变。"
+      }
+    ],
+    "tips": [
+      "选新鲜四季豆，先炒后保持汤沸腾焖透；不要用低温保温替代煮熟。",
+      "土豆切2厘米更易和豆角同熟，锅底将干时补热水，避免外焦内硬。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "小小群 · 土豆炖豆角—东北家常菜",
+        "url": "https://home.meishichina.com/recipe-228657.html",
+        "kind": "web",
+        "support": "recipe",
+        "note": "支持豆角先炒、土豆后入、加水焖软；家庭版不用八角花椒，明确四季豆需足时沸煮，不以炒变色出锅。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全通讯第105期：豆类不宜低温慢煮",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsb_202602.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "实际读取豆类不宜低温慢煮全文；仅参考豆角、四季豆需彻底烹煮、不以低温保温或变色代替熟透的原则，不将干豆12小时泡发用于鲜豆角。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "土豆炖豆角",
+      "豆角炖土豆"
+    ]
+  },
+  {
+    "id": "v9b16",
+    "name": "茄子烧豆角",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "蔬菜小炒",
+    "minutes": 45,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "长茄子",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "长豇豆",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 120,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 22,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切茄子豆角",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{长茄子}}洗净切粗约1.5厘米、长5厘米条；{{长豇豆}}去两端洗净，切4厘米段。",
+        "check": "茄条粗细接近；不用粗大豆角替换后仍沿用短时间。"
+      },
+      {
+        "title": "切蒜姜调汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{蒜}}切末，{{姜}}切丝；把{{生抽}}、{{白糖}}、{{盐}}和{{饮用水}}混匀。",
+        "check": "分开的油量提前称好，不在炒制时随手不断加油。"
+      },
+      {
+        "title": "先煮透豆角",
+        "heat": "大火",
+        "seconds": 900,
+        "text": "另锅加足清水烧开，放豆角，水再次沸腾后保持沸煮15分钟，捞出沥干。",
+        "check": "豆角掰开内外柔软、无硬生芯；粗老段再煮3–5分钟，不能半熟捞出。"
+      },
+      {
+        "title": "浅煎茄条",
+        "heat": "中小火",
+        "seconds": 360,
+        "text": "不粘锅放{{食用油@0.68}}，茄条单层铺开，中小火煎6分钟，途中翻面两次。",
+        "check": "茄子吸油后不要立即补油，先保持低火慢煎；多人份分批。"
+      },
+      {
+        "title": "炒香姜蒜",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "茄条盛出，锅加{{食用油@0.32}}，姜丝与蒜末炒30秒。",
+        "check": "蒜微黄就合菜，不煎到深褐色。"
+      },
+      {
+        "title": "合菜加汁",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "放回茄条和已煮透豆角，翻匀1分钟，加入调好的汁煮沸。",
+        "check": "豆角入锅前沥水，防油飞溅；轻推茄条避免碎成泥。"
+      },
+      {
+        "title": "焖匀收汁",
+        "heat": "中小火",
+        "seconds": 300,
+        "text": "盖锅焖5分钟，再开盖收至汁刚能裹住茄条，最多再炒1分钟。",
+        "check": "茄肉能用勺边轻切开、无硬芯；过干添少量热水再焖。"
+      },
+      {
+        "title": "装盘食用",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "将熟茄子和豆角一同盛出，趁热配饭。",
+        "check": "多人份维持茄条宽度与豆角段长，分锅做，不把锅塞成厚层。"
+      }
+    ],
+    "tips": [
+      "豆角先足时沸煮再合炒，茄子不必过大油也能软嫩；浅煎用不粘锅更易控制。",
+      "煮豆角时可同步浅煎茄条；时间包括15分钟豆角煮制，粗老豆角另加时。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "这个好好吃那个也好好吃 · 茄子炖豆角（少油版）",
+        "url": "https://m.xiachufang.com/recipe/107148728/",
+        "kind": "web",
+        "support": "technique",
+        "note": "已读茄子少油慢煎、豆角另炒后合菜加水焖软；家庭版为熟透将豆角预先足时沸煮，独立分油与定量汁，不使用作者未量化的熟度承诺。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全通讯第105期：豆类不宜低温慢煮",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsb_202602.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "实际读取豆类不宜低温慢煮全文；仅参考豆角、四季豆需彻底烹煮、不以低温保温或变色代替熟透的原则，不将干豆12小时泡发用于鲜豆角。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "茄子豆角",
+      "豆角烧茄子"
+    ]
+  },
+  {
+    "id": "v9b17",
+    "name": "西红柿烧豆腐",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "豆腐小炒",
+    "minutes": 35,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "西红柿",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "北豆腐",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "玉米淀粉",
+        "amount": 5,
+        "unit": "g"
+      },
+      {
+        "name": "白糖",
+        "amount": 3,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 18,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切好西红柿",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{西红柿}}洗净去蒂，切约2厘米小块，汁水一同保留；{{姜}}切末，{{小葱}}切段。",
+        "check": "不用未熟青西红柿；葱白和绿叶分放。"
+      },
+      {
+        "title": "处理豆腐",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{北豆腐}}切1.5厘米厚块，用厨房纸轻轻吸干表面水。",
+        "check": "保持薄厚一致；湿豆腐直接下热锅容易溅油。"
+      },
+      {
+        "title": "调淀粉水",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{玉米淀粉}}和{{饮用水@0.2}}搅匀，剩下{{饮用水@0.8}}留作烧汁。",
+        "check": "淀粉水最后使用，放置后要再搅一次。"
+      },
+      {
+        "title": "浅煎豆腐",
+        "heat": "中火",
+        "seconds": 360,
+        "text": "不粘锅加{{食用油@0.67}}，豆腐单层排入，两面各煎3分钟至浅金黄后盛出。",
+        "check": "不要强行翻未定形的豆腐；多人份分批，维持厚度。"
+      },
+      {
+        "title": "炒出番茄汁",
+        "heat": "中小火",
+        "seconds": 240,
+        "text": "锅放{{食用油@0.33}}，炒香姜与葱白30秒，再下西红柿炒3–4分钟至变软出汁。",
+        "check": "用勺轻压释放汁；锅太干可添留好的水，不炒成焦酱。"
+      },
+      {
+        "title": "加豆腐焖煮",
+        "heat": "中小火",
+        "seconds": 360,
+        "text": "加入留好的汤水、{{盐}}和{{白糖}}，沸腾后放回豆腐，轻推拌匀，加盖焖6分钟。",
+        "check": "番茄块软、豆腐中心热透；中途轻晃锅，不乱翻豆腐。"
+      },
+      {
+        "title": "淋芡煮透",
+        "heat": "中小火",
+        "seconds": 90,
+        "text": "再搅匀淀粉水，绕锅分次淋入，轻推豆腐，煮1–2分钟至汁略稠。",
+        "check": "不必全淋到黏糊；汁过稠补少量热水，出现粉团用勺轻压散。"
+      },
+      {
+        "title": "葱绿装盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "加入葱绿拌开，装深盘连汁食用。",
+        "check": "给小孩盛菜先稍晾防烫；剩菜及时冷藏，食前彻底热透。"
+      }
+    ],
+    "tips": [
+      "用熟透西红柿炒软后再加水，酸甜汁更均匀；不同西红柿酸度有差别，糖可按口味少用。",
+      "豆腐先浅煎保持形状，勾芡只求薄薄挂汁，不需大油炸制。"
+    ],
+    "allergens": [
+      "大豆"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "林大锅的无烟小炒 · 西红柿烧豆腐",
+        "url": "https://home.meishichina.com/recipe-533315.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "支持西红柿炒汁、预煎豆腐合烧与薄芡；家庭版不用油炸、青豆或宣传文案，调整芡汁后入顺序及独立用量。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "番茄烧豆腐",
+      "西红柿炖豆腐"
+    ]
+  },
+  {
+    "id": "v9b18",
+    "name": "海带排骨汤",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "汤羹",
+    "minutes": 115,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "猪排骨",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "鲜海带",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 12,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 1200,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 2.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "确认鲜海带",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鲜海带}}用无额外盐渍的鲜品，冲净砂粒和表面杂质，切3厘米方片。",
+        "check": "不是干海带或厚盐渍海带；这些品种需另按包装泡发去盐，等待不在本配方内。"
+      },
+      {
+        "title": "处理排骨",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{猪排骨}}选已斩成3厘米段的新鲜小排，拣去碎骨；{{姜}}切片，{{小葱}}分葱白与绿叶切段。",
+        "check": "生肉和熟食用分开的刀板；无需强水流冲肉，避免溅到周围。"
+      },
+      {
+        "title": "冷水焯排骨",
+        "heat": "大火",
+        "seconds": 180,
+        "text": "排骨入锅加足冷水，烧开后煮3分钟、撇沫，再用夹子捞出。",
+        "check": "焯水只去浮沫，不代表肉已熟透；焯水弃去不用作汤。"
+      },
+      {
+        "title": "转汤锅加水",
+        "heat": "大火",
+        "seconds": 480,
+        "text": "排骨放入干净汤锅，加{{饮用水}}、姜片和葱白，煮到汤持续沸腾，撇去浮沫。",
+        "check": "锅容量留三分之一空隙防溢；水基本没过排骨。"
+      },
+      {
+        "title": "慢炖排骨",
+        "heat": "中小火",
+        "seconds": 3600,
+        "text": "盖留缝，保持轻沸炖60分钟，从汤重新沸腾时计时；中途检查水量。",
+        "check": "不完全离开厨房；水快露出肉时补热水，别让锅烧干。"
+      },
+      {
+        "title": "加入鲜海带",
+        "heat": "中小火",
+        "seconds": 1200,
+        "text": "加入切好的鲜海带，重新煮沸后再轻沸煮20分钟。",
+        "check": "海带片柔软无硬芯；如果海带较厚，再煮5–10分钟。"
+      },
+      {
+        "title": "熟度与调盐",
+        "heat": "中小火",
+        "seconds": 120,
+        "text": "最厚排骨肉中心达到75℃且能轻松离骨后，加{{盐}}，再煮2分钟。",
+        "check": "探针避开骨头；仍硬不易脱骨就加热水继续炖10分钟后复查。"
+      },
+      {
+        "title": "撒葱分汤",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "取掉葱白，撒上葱绿；把肉、海带和汤一同分碗食用。",
+        "check": "挑出碎骨，提醒汤碗烫手；剩汤分浅盒及时冷藏，食前煮沸热透。"
+      }
+    ],
+    "tips": [
+      "本配方用鲜海带，115分钟包括排骨慢炖和海带煮软；干海带、厚盐渍海带不能不泡直接替换。",
+      "多人数保持排骨3厘米段，选更大汤锅或分锅；汤锅不要超过约三分之二满。"
+    ],
+    "allergens": [],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭和一份清淡蔬菜；汤菜同时食用汤中的食材。",
+    "sources": [
+      {
+        "title": "温馨小饭桌 · 海带排骨汤",
+        "url": "https://home.meishichina.com/recipe-76323.html",
+        "kind": "web",
+        "support": "recipe",
+        "note": "搜索完整步骤已读：排骨焯水后炖1小时，海带后下；家庭版改鲜海带片、延长海带软化时间，不采用疗效叙述。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_recipe_extract"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+        "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "海带炖排骨",
+      "排骨海带汤"
+    ]
+  },
+  {
+    "id": "v9b19",
+    "name": "玉米排骨汤",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "汤羹",
+    "minutes": 110,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "猪排骨",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "甜玉米",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "小葱",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 1200,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 2.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "整理排骨",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{猪排骨}}选已斩3厘米段的新鲜小排，拣去碎骨；保持冷藏至准备焯水前。",
+        "check": "生肉用具不要和熟食共用，焯水前后洗手。"
+      },
+      {
+        "title": "切玉米配菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{甜玉米}}去叶和须，洗净切3厘米段；{{胡萝卜}}去皮切2厘米块，{{姜}}切片，{{小葱}}分葱白葱绿。",
+        "check": "玉米较硬时请摊主切段，别用小刀强劈；块大小保持一致。"
+      },
+      {
+        "title": "排骨焯水",
+        "heat": "大火",
+        "seconds": 180,
+        "text": "排骨加足冷水煮开，持续煮3分钟撇沫，捞出；焯水弃掉。",
+        "check": "焯水不是最终熟透步骤；热排骨放干净盘，不回生肉盆。"
+      },
+      {
+        "title": "加汤水煮沸",
+        "heat": "大火",
+        "seconds": 480,
+        "text": "排骨放干净汤锅，加{{饮用水}}、姜片和葱白，煮到持续冒泡。",
+        "check": "锅内不超过约三分之二满；留足空间防溢。"
+      },
+      {
+        "title": "玉米先炖",
+        "heat": "中小火",
+        "seconds": 1800,
+        "text": "放入玉米，重新沸腾后盖留缝，保持轻沸炖30分钟。",
+        "check": "从重新沸腾开始计时；不要关小到仅保温不冒泡。"
+      },
+      {
+        "title": "胡萝卜后下",
+        "heat": "中小火",
+        "seconds": 2400,
+        "text": "加入胡萝卜，恢复轻沸后继续炖40分钟，期间看一次水量。",
+        "check": "缺水补热水；多份换大锅或分锅，不堆成干煮的肉层。"
+      },
+      {
+        "title": "确认排骨调盐",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "排骨肉心达到75℃、能轻松脱骨后加{{盐}}，再煮3分钟；胡萝卜能轻易穿透。",
+        "check": "探针避骨；排骨仍硬可再炖10分钟，玉米熟甜不能证明肉已熟。"
+      },
+      {
+        "title": "葱绿分碗",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "取掉葱白，撒葱绿，把玉米、排骨、胡萝卜和汤一起分碗。",
+        "check": "肉汤都有温度，食前稍晾；小排可能有碎骨，盛碗时复查。"
+      }
+    ],
+    "tips": [
+      "甜玉米按可食用整段称重，人数增加加段数，排骨和胡萝卜尺寸保持不变。",
+      "本配方不用料酒或炒油，排骨焯净后慢炖；110分钟包含70分钟炖煮与切配、升温、焯水。"
+    ],
+    "allergens": [],
+    "equipment": "炒锅、锅铲、厨房秤、量勺、食品温度计",
+    "pairing": "配米饭和一份清淡蔬菜；汤菜同时食用汤中的食材。",
+    "sources": [
+      {
+        "title": "HowToCook · 玉米排骨汤",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/soup/玉米排骨汤/玉米排骨汤.md",
+        "kind": "recipe",
+        "support": "recipe",
+        "note": "实际阅读本地固定提交全文：排骨焯水、玉米先入、胡萝卜后入与约1小时慢炖；家庭版不炒油，不用料酒醋与高盐量。",
+        "checked": "2026-10-01",
+        "access": "pinned_local_full_text",
+        "commit": "c2063eb7050bac0cb998779c62fa08c649c9882f",
+        "sha256": "827a65e089129644ab52a30b3708162b83e3b0ef1fba45a51058e9aceff8d31c"
+      },
+      {
+        "title": "香港食物安全中心 · 食物安全五要点：烹煮",
+        "url": "https://www.cfs.gov.hk/sc_chi/consumer_zone/safefood_all/five_keys_apply_cook.html",
+        "kind": "web",
+        "support": "technique",
+        "note": "仅支持食品中心75℃检查、温度计避开骨头及汤羹炖食保持沸腾的食品安全技法；不是配方来源。",
+        "checked": "2026-10-01",
+        "access": "web_search_full_text_extract"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "排骨玉米汤",
+      "玉米小排汤"
+    ]
+  },
+  {
+    "id": "v9b20",
+    "name": "香辣藕片",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "cuisineNote": "日常家庭做法，不指定单一地域归属。",
+    "group": "蔬菜小炒",
+    "minutes": 25,
+    "prepMinutes": 12,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": true,
+    "difficulty": 1,
+    "difficultyReason": "先备好食材，控制火候并按检查点确认熟度。",
+    "ingredients": [
+      {
+        "name": "莲藕",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "红尖椒",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 8,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "米醋",
+        "amount": 8,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "饮用水",
+        "amount": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "洗藕切薄片",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{莲藕}}洗净去皮，刷净藕孔泥沙，切3毫米薄片，放清水里暂时浸着防褐变。",
+        "check": "发黑腐烂的藕不用；片厚一致，人数增加只增片数。"
+      },
+      {
+        "title": "备椒姜蒜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{红尖椒}}去蒂切小圈，{{干辣椒}}剪段，{{姜}}和{{蒜}}切末。",
+        "check": "切辣椒后洗手；怕辣可少用辣椒，但不要追加未列入配方的辣酱。"
+      },
+      {
+        "title": "短焯藕片",
+        "heat": "大火",
+        "seconds": 180,
+        "text": "另锅清水烧开，藕片下锅，水重新沸腾后煮3分钟；捞出充分沥水。",
+        "check": "藕片整体受热但保持形状；不要只看浮起判断，厚片需加时。"
+      },
+      {
+        "title": "混好碗汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "把{{生抽}}、{{米醋}}、{{白糖}}、{{盐}}与{{饮用水}}搅匀。",
+        "check": "调味汁一旁放好，炒辣椒时不临时找调料。"
+      },
+      {
+        "title": "低火煸香椒蒜",
+        "heat": "中小火",
+        "seconds": 45,
+        "text": "锅放{{食用油}}，下姜、蒜和干辣椒，中小火炒约45秒至有香味。",
+        "check": "干辣椒变深红就下藕，别烧黑；锅不冒烟，开油烟机。"
+      },
+      {
+        "title": "藕片热炒",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "加入沥干藕片和红尖椒，中火翻炒3分钟，让藕片均匀受热。",
+        "check": "沥干后再下锅避免油溅；用铲轻拨，不把薄片拍碎。"
+      },
+      {
+        "title": "调汁烧透",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "撒{{辣椒粉}}，立刻加入碗汁，翻匀煮2分钟，让各片裹上香辣汁。",
+        "check": "不让辣椒粉在干锅里焦煳；藕片中间热透、无生涩硬芯，厚片继续加水煮。"
+      },
+      {
+        "title": "带少量汁装盘",
+        "heat": "关火",
+        "seconds": 0,
+        "text": "汁略浓就关火，热藕片盛入干净盘趁热食用。",
+        "check": "这是热炒藕片，不能把没充分加热的生藕拌汁直接吃；多人份分锅浅铺。"
+      }
+    ],
+    "tips": [
+      "3毫米薄片短焯后继续热炒，兼顾容易熟与藕片形状；厚片需延长煮制。",
+      "香辣程度以辣椒品种为准，初次可少用部分辣椒；蒜和辣椒都不要炒到发黑。"
+    ],
+    "allergens": [
+      "大豆",
+      "小麦"
+    ],
+    "equipment": "炒锅、锅铲、厨房秤、量勺",
+    "pairing": "配米饭；另搭一份清淡蔬菜或汤。",
+    "sources": [
+      {
+        "title": "茶饭食界 · 香辣藕片",
+        "url": "https://m.xiachufang.com/recipe/104121507/",
+        "kind": "web",
+        "support": "technique",
+        "note": "实际全文已读：薄藕、姜蒜香锅、加水热炒约5分钟与青红椒酱醋调味；家庭版补短焯、定量油盐与辣椒粉，热炒成菜而非冷拌。",
+        "checked": "2026-10-01",
+        "access": "page_text"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    },
+    "aliases": [
+      "香辣炒藕片",
+      "辣炒莲藕片"
+    ]
+  }
+]

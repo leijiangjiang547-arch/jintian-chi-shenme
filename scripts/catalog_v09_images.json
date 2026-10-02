@@ -1,0 +1,602 @@
+{
+  "v9a01": {
+    "sheet": "food-atlas-11.png",
+    "cell": 0,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      0,
+      280,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a02": {
+    "sheet": "food-atlas-11.png",
+    "cell": 1,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      0,
+      281,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a03": {
+    "sheet": "food-atlas-11.png",
+    "cell": 2,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      0,
+      280,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a04": {
+    "sheet": "food-atlas-11.png",
+    "cell": 3,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      0,
+      280,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a05": {
+    "sheet": "food-atlas-11.png",
+    "cell": 4,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      0,
+      281,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a06": {
+    "sheet": "food-atlas-11.png",
+    "cell": 5,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      267,
+      280,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a07": {
+    "sheet": "food-atlas-11.png",
+    "cell": 6,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      267,
+      281,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a08": {
+    "sheet": "food-atlas-11.png",
+    "cell": 7,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      267,
+      280,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a09": {
+    "sheet": "food-atlas-11.png",
+    "cell": 8,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      267,
+      280,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a10": {
+    "sheet": "food-atlas-11.png",
+    "cell": 9,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      267,
+      281,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a11": {
+    "sheet": "food-atlas-11.png",
+    "cell": 10,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      535,
+      280,
+      270
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a12": {
+    "sheet": "food-atlas-11.png",
+    "cell": 11,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      535,
+      281,
+      270
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a13": {
+    "sheet": "food-atlas-11.png",
+    "cell": 12,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      535,
+      280,
+      270
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a14": {
+    "sheet": "food-atlas-11.png",
+    "cell": 13,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      535,
+      280,
+      270
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a15": {
+    "sheet": "food-atlas-11.png",
+    "cell": 14,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      535,
+      281,
+      270
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a16": {
+    "sheet": "food-atlas-11.png",
+    "cell": 15,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      805,
+      280,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a17": {
+    "sheet": "food-atlas-11.png",
+    "cell": 16,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      805,
+      281,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a18": {
+    "sheet": "food-atlas-11.png",
+    "cell": 17,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      805,
+      280,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a19": {
+    "sheet": "food-atlas-11.png",
+    "cell": 18,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      805,
+      280,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9a20": {
+    "sheet": "food-atlas-11.png",
+    "cell": 19,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      805,
+      281,
+      267
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b01": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 0,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      0,
+      280,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b02": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 1,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      0,
+      281,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b03": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 2,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      0,
+      280,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b04": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 3,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      0,
+      280,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b05": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 4,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      0,
+      281,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b06": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 5,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      256,
+      280,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b07": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 6,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      256,
+      281,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b08": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 7,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      256,
+      280,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b09": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 8,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      256,
+      280,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b10": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 9,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      256,
+      281,
+      256
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b11": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 10,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      512,
+      280,
+      260
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b12": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 11,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      512,
+      281,
+      260
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b13": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 12,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      512,
+      280,
+      260
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b14": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 13,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      512,
+      280,
+      260
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b15": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 14,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      512,
+      281,
+      260
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b16": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 15,
+    "kind": "ai-illustration",
+    "rect": [
+      0,
+      772,
+      280,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b17": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 16,
+    "kind": "ai-illustration",
+    "rect": [
+      280,
+      772,
+      281,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b18": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 17,
+    "kind": "ai-illustration",
+    "rect": [
+      561,
+      772,
+      280,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b19": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 18,
+    "kind": "ai-illustration",
+    "rect": [
+      841,
+      772,
+      280,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  },
+  "v9b20": {
+    "sheet": "food-atlas-12-v2.png",
+    "cell": 19,
+    "kind": "ai-illustration",
+    "rect": [
+      1121,
+      772,
+      281,
+      268
+    ],
+    "size": [
+      1402,
+      1122
+    ]
+  }
+}

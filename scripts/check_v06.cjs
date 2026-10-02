@@ -137,7 +137,7 @@ try{
  assert.equal(journalReload.w.noteRan,undefined);
  journalReload.click('[data-close]');
  const backup=journalReload.exportedBackup();
- assert.equal(backup.schema,3);
+ assert.equal(backup.schema,4);
  assert.deepEqual(backup.data.saved,['d01']);
  assert.ok(JSON.stringify(backup.data.notes).includes('私人试做：下次盐少一点'));
  assert.equal(backup.data.progress.d01.index,1);

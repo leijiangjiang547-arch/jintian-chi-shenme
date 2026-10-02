@@ -1,0 +1,3247 @@
+[
+  {
+    "id": "v9a01",
+    "name": "土豆烧排骨",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 110,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "土豆炖排骨",
+      "排骨烧土豆"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "土豆",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "八角",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 700.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配土豆",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "土豆削皮切约3厘米块，姜切片，葱切段；土豆暂放清水中，入锅前沥干。",
+        "check": "排骨请摊主切成约4厘米段，清除骨屑。"
+      },
+      {
+        "title": "焯排骨",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{排骨}}冷水入锅，水没过肉，加入{{姜@0.5}}和{{料酒}}；烧开后撇沫，继续煮5分钟。",
+        "check": "水沸后才计时，勿只烫表面。"
+      },
+      {
+        "title": "洗锅沥水",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "捞出排骨，用温水冲掉浮沫，充分沥干；倒掉焯水并洗净锅。",
+        "check": "排骨表面不滴水再煸炒。"
+      },
+      {
+        "title": "煸香排骨",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "热锅加{{食用油}}，放排骨平铺，炒3–4分钟；人多时分批，不堆叠。",
+        "check": "表面稍金黄，不焦黑。"
+      },
+      {
+        "title": "加料调色",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "放{{姜@0.5}}、{{葱}}、{{八角}}炒香，再加{{生抽}}、{{老抽}}、{{白糖}}炒匀。",
+        "check": "酱料裹住肉，若锅干先转小火。"
+      },
+      {
+        "title": "先焖排骨",
+        "heat": "小火",
+        "seconds": 3000,
+        "text": "加入{{清水}}烧开，转小火盖盖焖50分钟，每15分钟检查水位；低于锅底1厘米时补少量开水。",
+        "check": "持续微沸，肉用筷子能戳入但尚不脱骨。"
+      },
+      {
+        "title": "加入土豆",
+        "heat": "小火",
+        "seconds": 1200,
+        "text": "放入沥干的{{土豆}}，加{{盐}}，再煮20分钟，中途轻翻一次。",
+        "check": "土豆中心能用筷子轻松穿过。"
+      },
+      {
+        "title": "检查收汁",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "最大块肉中心测至75℃以上且肉已软；不够软则加水继续焖。揭盖收汁约5分钟，挑出八角和葱段。",
+        "check": "汁能挂在土豆上，锅底保留少量汁。"
+      }
+    ],
+    "tips": [
+      "使用普通锅，总时间包含焯水、烧开和焖煮；排骨较老时需延长。",
+      "人数增加时块大小不变，煸炒分批，锅内食材和汤不超过容量三分之二。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 土豆炖排骨",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+        "kind": "recipe",
+        "path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+        "sha256": "a3819d67a46acd381314fc0adb76f2be1717ef9523f82a9b66202e9edf278fda",
+        "note": "实际读取固定提交全文；支持排骨先焯后焖、土豆后放与收汁。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a02",
+    "name": "土豆烧牛肉",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 205,
+    "prepMinutes": 20,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "土豆炖牛肉",
+      "牛肉烧土豆"
+    ],
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "土豆",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "洋葱",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "八角",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 18.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 16.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 1000.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切块备料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "牛腩切3厘米块；土豆削皮切3厘米块，洋葱切小块，姜切片，蒜拍裂。",
+        "check": "去除明显硬筋，土豆泡清水待用。"
+      },
+      {
+        "title": "焯净牛肉",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{牛腩}}冷水入锅，水没过肉，加{{姜@0.5}}和{{料酒}}；烧开撇沫后再煮5分钟，捞出冲净沥干。",
+        "check": "焯水倒掉，不作炖汤。"
+      },
+      {
+        "title": "炒香底料",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "锅加{{食用油@0.5}}，放{{洋葱}}、{{蒜}}、{{姜@0.5}}、{{八角}}炒2分钟。",
+        "check": "洋葱边缘透明，蒜不焦。"
+      },
+      {
+        "title": "牛肉入锅",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "放牛肉炒3分钟，加{{生抽}}、{{老抽}}、{{白糖}}翻匀。",
+        "check": "肉块挂色，不以表面变色代替熟透。"
+      },
+      {
+        "title": "长时焖牛肉",
+        "heat": "小火",
+        "seconds": 7800,
+        "text": "倒{{清水}}烧开后转小火，加盖焖130分钟；每20分钟查看，缺水补开水。",
+        "check": "持续微沸，肉中心至少75℃，筷子能较轻松穿入。"
+      },
+      {
+        "title": "煎土豆",
+        "heat": "中火",
+        "seconds": 480,
+        "text": "牛肉快软时，另一个平底锅加{{食用油@0.5}}，放沥干的{{土豆}}，翻面煎约8分钟。",
+        "check": "表面有少量金黄边，内部此时可未熟。"
+      },
+      {
+        "title": "土豆合炖",
+        "heat": "小火",
+        "seconds": 1500,
+        "text": "将土豆倒入牛肉锅，加{{盐}}，继续焖25分钟；若牛肉仍硬，先把土豆盛出，牛肉继续炖。",
+        "check": "土豆无硬芯，牛肉软而不柴。"
+      },
+      {
+        "title": "收浓汤汁",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "揭盖煮约5分钟，轻翻防粘，挑出八角。",
+        "check": "剩少量能裹住肉和土豆的汤汁。"
+      }
+    ],
+    "tips": [
+      "普通锅预留约3小时以上；老牛肉可能还需延长，以软烂检查为准。",
+      "1–6人都切3厘米块，增量使用更大锅或两锅；不要靠切大块节省切配。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "小妞_hebycE · 土豆烧牛肉",
+        "url": "https://home.meishichina.com/recipe-341459.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料和步骤文本；支持牛肉普通锅约两小时炖软、土豆后加，香料与用量独立定量。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a03",
+    "name": "梅菜扣肉",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "蒸菜",
+    "minutes": 280,
+    "prepMinutes": 60,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 3,
+    "difficultyReason": "等待较长，需掌握蒸制、成型及安全倒扣。",
+    "aliases": [
+      "梅干菜扣肉",
+      "梅干菜蒸五花肉"
+    ],
+    "ingredients": [
+      {
+        "name": "带皮五花肉",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "梅干菜",
+        "amount": 35.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 4.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 120.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "浸洗梅菜",
+        "heat": "不开火",
+        "seconds": 3600,
+        "text": "{{梅干菜}}反复冲洗掉砂粒，再泡清水60分钟；中途换水一次，最后挤干并切碎。",
+        "check": "按包装要求充分浸洗，水浑浊或有明显盐粒时再换水；不要尝未经烹煮的梅菜，蒸熟后再尝咸度。"
+      },
+      {
+        "title": "煮熟五花肉",
+        "heat": "小火",
+        "seconds": 2400,
+        "text": "梅菜泡好后，把{{带皮五花肉}}放冷水锅，加{{姜@0.5}}、{{料酒}}；烧开撇沫，小火煮40分钟。",
+        "check": "最厚处中心达75℃，肉皮能被筷子戳入；不够则续煮。"
+      },
+      {
+        "title": "晾肉切片",
+        "heat": "不开火",
+        "seconds": 900,
+        "text": "捞肉晾约15分钟，降到可以安全触碰；切成约6毫米厚片，姜剩余部分切末，蒜切末。",
+        "check": "切片厚薄一致，手不触碰烫肉。"
+      },
+      {
+        "title": "拌好肉片",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "肉片拌{{生抽@0.5}}、{{老抽}}和{{白糖@0.5}}，放在耐热深碗中，肉皮贴着碗底，依次码齐。",
+        "check": "用容量足够的碗，肉片层高不超过4厘米。"
+      },
+      {
+        "title": "炒香梅菜",
+        "heat": "中小火",
+        "seconds": 180,
+        "text": "锅加{{食用油}}，下{{姜@0.5}}、{{蒜}}炒香，再放挤干的梅菜炒约3分钟。",
+        "check": "梅菜散开并有香味，不干焦。"
+      },
+      {
+        "title": "铺菜加汁",
+        "heat": "小火",
+        "seconds": 120,
+        "text": "加入{{生抽@0.5}}、{{白糖@0.5}}、{{清水}}，煮2分钟；全部铺在肉片上。",
+        "check": "调味汁均匀分布，碗不装到满沿。"
+      },
+      {
+        "title": "长时蒸软",
+        "heat": "中小火",
+        "seconds": 7200,
+        "text": "碗盖耐热盘，蒸锅水沸后上锅，保持出汽蒸120分钟；每30分钟查水位，从锅边补开水。",
+        "check": "肉皮软糯、筷子容易穿透，不熟软就继续蒸20分钟。"
+      },
+      {
+        "title": "安全倒扣",
+        "heat": "不开火",
+        "seconds": 600,
+        "text": "关火静置10分钟，戴隔热手套取出；先将碗里汁倒入小碗，再盖盘扣紧翻转，提起蒸碗。",
+        "check": "双手稳住盘碗，热汁不淋到手。"
+      },
+      {
+        "title": "淋汁上桌",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "将倒出的汁淋回肉片，即可配饭食用。",
+        "check": "肉片成排，梅菜铺底。"
+      }
+    ],
+    "tips": [
+      "梅菜咸度差异大，先充分浸洗；生抽调味后通常无需另加盐。",
+      "增量时分成多个耐热碗，保持肉片厚度和堆叠高度，蒸锅留出蒸汽通道。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、蒸锅、耐热深碗、耐热盘、隔热手套、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 梅菜扣肉",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+        "kind": "technique",
+        "path": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+        "sha256": "1cd84e7bbd169dfc92601fc318dd369c1f86262aec2a556ebff4da948222f5c7",
+        "note": "实际读取固定提交全文；只借鉴梅菜浸洗、肉片码碗和倒扣蒸制技法，家庭配方不使用原文油炸及其调味量。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a04",
+    "name": "糖醋排骨",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 95,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "糖醋小排",
+      "甜酸排骨"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 2.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 20.0,
+        "unit": "g"
+      },
+      {
+        "name": "陈醋",
+        "amount": 25.0,
+        "unit": "ml"
+      },
+      {
+        "name": "熟白芝麻",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 650.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配调汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "排骨请摊主切成3–4厘米段，清掉骨屑；姜切片，把糖、醋和酱油分别量好。",
+        "check": "陈醋分成五分之三和五分之二两小份。"
+      },
+      {
+        "title": "焯水去沫",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{排骨}}冷水入锅，加{{姜@0.5}}、{{料酒}}，烧开撇沫后再煮5分钟。",
+        "check": "焯水用水另备，倒掉不用。"
+      },
+      {
+        "title": "冲净沥干",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "捞排骨温水冲净，沥干；锅洗净并擦干。",
+        "check": "肉表面不带大量水，避免入油飞溅。"
+      },
+      {
+        "title": "轻煎排骨",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "锅加{{食用油}}，排骨单层放入，翻面煎4分钟；量多分批。",
+        "check": "表面少许金黄，无需煎成硬壳。"
+      },
+      {
+        "title": "放入糖醋汁",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{姜@0.5}}、{{生抽}}、{{老抽}}、{{白糖}}和{{陈醋@0.6}}，翻匀。",
+        "check": "糖正在化开，酱汁不烧焦。"
+      },
+      {
+        "title": "焖至肉软",
+        "heat": "小火",
+        "seconds": 3000,
+        "text": "加{{清水}}烧开，盖盖小火焖50分钟，中途查看水量，缺水补开水。",
+        "check": "最大肉块中心达75℃并能被筷子较轻松穿入。"
+      },
+      {
+        "title": "揭盖收汁",
+        "heat": "中火",
+        "seconds": 480,
+        "text": "肉软后挑出姜，揭盖煮5–8分钟，不断轻翻；汁开始稠时调小火。",
+        "check": "汁能裹住排骨，锅底仍湿润。"
+      },
+      {
+        "title": "补醋装盘",
+        "heat": "小火",
+        "seconds": 60,
+        "text": "加入{{陈醋@0.4}}，翻匀煮1分钟，关火撒{{熟白芝麻}}。",
+        "check": "汁亮而不焦，甜酸味集中。"
+      }
+    ],
+    "tips": [
+      "糖醋汁浓后容易糊，最后几分钟守在锅边翻动。",
+      "人数改变只改变排骨数量，3–4厘米尺寸不变；收汁用时会随锅宽浮动。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦",
+      "芝麻"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 糖醋排骨",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+        "kind": "technique",
+        "path": "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+        "sha256": "379a4ef588054b59611c695395c206f0a154c6e1273d54eb1b955186cdd369e7",
+        "note": "实际读取固定提交全文；支持糖醋调味与排骨挂汁，未把原文油炸短时方法冒充本配方焖熟流程。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a05",
+    "name": "红烧排骨",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 105,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "家常红烧排骨",
+      "酱香烧排骨"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "八角",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 18.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 750.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "备齐材料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "排骨切4厘米段，姜切片，葱切段；量好酱油和白糖。",
+        "check": "肉块大小一致，碎骨屑洗净。"
+      },
+      {
+        "title": "焯排骨",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{排骨}}冷水入锅，加{{姜@0.5}}和{{料酒}}；烧开撇沫后继续煮5分钟。",
+        "check": "排骨全部浸在水中。"
+      },
+      {
+        "title": "沥干洗锅",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "捞排骨温水冲净沥干，倒掉焯水，洗净锅擦干。",
+        "check": "排骨不滴水。"
+      },
+      {
+        "title": "煸肉炒香",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "加{{食用油}}，排骨单层煎3分钟，再放{{姜@0.5}}、{{葱}}、{{八角}}炒香2分钟。",
+        "check": "香料有香味，肉表面轻微金黄。"
+      },
+      {
+        "title": "酱油调色",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{生抽}}、{{老抽}}、{{白糖}}，翻匀约1分钟。",
+        "check": "糖溶化，不让酱汁糊锅。"
+      },
+      {
+        "title": "小火焖烧",
+        "heat": "小火",
+        "seconds": 3600,
+        "text": "倒{{清水}}烧开，盖盖小火焖60分钟；每15分钟检查，汤见底前补少量开水。",
+        "check": "肉中心达75℃，筷子易插入；仍硬继续焖。"
+      },
+      {
+        "title": "挑料收汁",
+        "heat": "中火",
+        "seconds": 480,
+        "text": "挑出八角和葱，揭盖煮5–8分钟，中途翻肉。",
+        "check": "酱汁稍稠可挂肉，留一些拌饭。"
+      },
+      {
+        "title": "关火装盘",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "把排骨和少量酱汁盛出，趁热食用。",
+        "check": "不以颜色深浅代替熟度与软烂检查。"
+      }
+    ],
+    "tips": [
+      "酱油已含盐，先按表中用量做，不额外追求深色。",
+      "多人数分批煎肉，炖锅内不超过三分之二，保持微沸。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 酱排骨",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/酱排骨/酱排骨.md",
+        "kind": "technique",
+        "path": "dishes/meat_dish/酱排骨/酱排骨.md",
+        "sha256": "9272ac37fd8c620aa2d3a7dbecf073f994efe81bc70428b09193577d80d32013",
+        "note": "实际读取固定提交全文；支持排骨焯水、酱色焖烧及收汁；不用原文高比例五香粉。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a06",
+    "name": "土豆炖鸡",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "汤羹",
+    "minutes": 90,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "土豆炖鸡汤",
+      "鸡块土豆汤"
+    ],
+    "ingredients": [
+      {
+        "name": "带骨鸡腿块",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "土豆",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 1000.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "备料清洗",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "鸡腿块保持约4厘米，检查骨屑；土豆削皮切3厘米块，姜切片，葱切段。",
+        "check": "生鸡刀板与熟食工具分开，清洗避免溅水。"
+      },
+      {
+        "title": "沥干鸡块",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{带骨鸡腿块}}沥干，厨房纸吸去表面水；土豆暂泡清水。",
+        "check": "鸡皮无明显挂水。"
+      },
+      {
+        "title": "煸香姜鸡",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "厚底锅加{{食用油}}，放{{姜}}和鸡块，单层煸约5分钟，翻面。",
+        "check": "表面发白，出少量鸡油，不焦黑。"
+      },
+      {
+        "title": "加水烧开",
+        "heat": "中大火",
+        "seconds": 60,
+        "text": "加入{{清水}}、{{葱}}，烧开后撇去表面浮沫，沸腾1分钟。",
+        "check": "全锅确实沸腾，之后再调小火。"
+      },
+      {
+        "title": "先炖鸡肉",
+        "heat": "小火",
+        "seconds": 2400,
+        "text": "盖盖小火炖40分钟，每15分钟检查水位，必要时补开水。",
+        "check": "持续微沸，鸡肉开始松软。"
+      },
+      {
+        "title": "放入土豆",
+        "heat": "小火",
+        "seconds": 900,
+        "text": "加入沥干的{{土豆}}，再次烧开后小火炖15分钟。",
+        "check": "土豆可被筷子穿透；未软则再煮5分钟。"
+      },
+      {
+        "title": "检查调味",
+        "heat": "小火",
+        "seconds": 180,
+        "text": "最大块鸡肉最厚处测至75℃，避开骨头；加入{{盐}}和{{白胡椒粉}}，再煮3分钟。",
+        "check": "鸡肉熟透且软嫩，汤有姜香。"
+      },
+      {
+        "title": "盛汤上桌",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "挑出葱段，鸡块、土豆和汤一起盛出。",
+        "check": "骨头和软骨挑出后再给小孩食用。"
+      }
+    ],
+    "tips": [
+      "选普通肉鸡的鸡腿块；老母鸡需要明显更长的炖煮时间。",
+      "人数增加可分两锅，鸡块和土豆尺寸不变，汤水留足但不超过锅三分之二。"
+    ],
+    "allergens": [],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "huangyaomian · 土豆炖鸡汤",
+        "url": "https://home.meishichina.com/recipe-6427.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与四步正文；支持姜鸡先煸、清水炖40分钟后土豆15分钟；不使用功效描述。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a07",
+    "name": "番茄牛腩",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 195,
+    "prepMinutes": 20,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "西红柿牛腩",
+      "番茄炖牛腩"
+    ],
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "番茄",
+        "amount": 500.0,
+        "unit": "g"
+      },
+      {
+        "name": "洋葱",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 14.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 1000.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配牛腩",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "牛腩切3厘米块，姜切片，洋葱切丁；番茄洗净切小块。",
+        "check": "去掉明显硬筋，番茄不需用明火烧皮。"
+      },
+      {
+        "title": "焯净牛肉",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{牛腩}}冷水下锅，加{{姜@0.5}}和{{料酒}}，烧开撇沫后煮5分钟，捞出洗净沥干。",
+        "check": "焯水倒掉，锅洗净。"
+      },
+      {
+        "title": "煸炒洋葱牛肉",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "锅加{{食用油@0.5}}，炒{{洋葱}}2分钟，再放牛肉炒3分钟。",
+        "check": "洋葱透明，肉表面稍干。"
+      },
+      {
+        "title": "清水焖牛腩",
+        "heat": "小火",
+        "seconds": 7200,
+        "text": "加{{姜@0.5}}、{{清水}}，烧开后盖盖小火焖120分钟；水不足时补开水。",
+        "check": "牛肉中心至少75℃，筷子能较轻松穿入。"
+      },
+      {
+        "title": "炒番茄出汁",
+        "heat": "中火",
+        "seconds": 480,
+        "text": "牛肉快软时，另锅加{{食用油@0.5}}和{{番茄}}，炒6–8分钟，边翻边压碎。",
+        "check": "番茄明显出红汁，锅底不焦。"
+      },
+      {
+        "title": "合锅调味",
+        "heat": "小火",
+        "seconds": 1500,
+        "text": "把番茄汁全部倒入牛腩锅，加入{{生抽}}、{{白糖}}、{{盐}}，盖盖再焖25分钟。",
+        "check": "番茄与肉味融合，牛肉软而保持形状。"
+      },
+      {
+        "title": "调整浓度",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "牛肉仍硬就加开水继续焖；已软则揭盖煮5分钟，保留较多浓汤。",
+        "check": "汤略稠，可舀起浇饭。"
+      },
+      {
+        "title": "盛出食用",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "挑出大块姜片，牛腩与番茄汁一起盛出。",
+        "check": "趁热吃，热汤勿直接入口。"
+      }
+    ],
+    "tips": [
+      "牛腩实际软烂时间随部位浮动，不能只到计时结束就出锅。",
+      "增量保持3厘米肉块；番茄可以分批炒，炖肉用更大锅或分锅。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 西红柿牛腩",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+        "kind": "recipe",
+        "path": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+        "sha256": "f0b0321e13c114a8de735200a7105f09b4f9d867151c21ae17817c2bcb5a72ab",
+        "note": "实际读取固定提交全文；支持先炖牛腩、番茄炒出汁再合锅；普通锅延长炖煮并省去明火烤番茄。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a08",
+    "name": "黄豆焖猪蹄",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 690,
+    "prepMinutes": 20,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "黄豆炖猪蹄",
+      "黄豆烧猪脚"
+    ],
+    "ingredients": [
+      {
+        "name": "猪蹄块",
+        "amount": 500.0,
+        "unit": "g"
+      },
+      {
+        "name": "干黄豆",
+        "amount": 60.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 15.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 15.0,
+        "unit": "g"
+      },
+      {
+        "name": "八角",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 18.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 1200.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "冷藏泡黄豆",
+        "heat": "不开火",
+        "seconds": 28800,
+        "text": "{{干黄豆}}洗净，加至少三倍体积清水，放4℃以下冰箱浸泡8小时，煮前倒掉泡水并冲净。",
+        "check": "黄豆明显吸水变大；有异味或黏滑不要使用。"
+      },
+      {
+        "title": "猪蹄备料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "猪蹄请摊主剁成4–5厘米块，检查骨屑和残毛；姜切片，蒜拍裂。",
+        "check": "新手不要自己硬剁猪蹄骨。"
+      },
+      {
+        "title": "焯猪蹄",
+        "heat": "中大火",
+        "seconds": 600,
+        "text": "{{猪蹄块}}冷水入锅，加{{姜@0.5}}和{{料酒}}；烧开撇沫后再煮10分钟，捞出温水洗净沥干。",
+        "check": "焯水弃去，锅洗净。"
+      },
+      {
+        "title": "煸肉炒料",
+        "heat": "中火",
+        "seconds": 360,
+        "text": "锅加{{食用油}}，猪蹄单层煸4分钟，再放{{姜@0.5}}、{{蒜}}、{{八角}}炒2分钟。",
+        "check": "表面稍金黄，蒜不焦。"
+      },
+      {
+        "title": "酱色入锅",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{生抽}}、{{老抽}}、{{白糖}}，翻匀；倒入{{清水}}和泡好的黄豆。",
+        "check": "豆子与肉都浸在汤中，锅不超过三分之二满。"
+      },
+      {
+        "title": "先沸后焖",
+        "heat": "中大火转小火",
+        "seconds": 1800,
+        "text": "全锅烧开后，先保持连续沸腾30分钟，略留盖缝防溢；之后调至小火。",
+        "check": "沸腾是整锅冒泡，黄豆不是只温热。"
+      },
+      {
+        "title": "慢焖软烂",
+        "heat": "小火",
+        "seconds": 7200,
+        "text": "盖盖继续小火焖120分钟，每20分钟检查，水低于食材时补开水。",
+        "check": "猪蹄厚肉中心达75℃；豆子一压即碎，肉皮筷子可穿。"
+      },
+      {
+        "title": "调味收汁",
+        "heat": "中火",
+        "seconds": 600,
+        "text": "加{{盐}}，揭盖收汁约10分钟，轻翻防粘；仍硬就先加水继续焖，不急着收汁。",
+        "check": "黄豆无硬芯，猪蹄软糯，保留拌饭的汁。"
+      }
+    ],
+    "tips": [
+      "总时间含8小时冷藏泡豆；当天来不及可改天做，不缩短泡发与彻底煮熟。",
+      "增量时尺寸不变、分锅炖；猪蹄骨头多，食用时仔细挑骨。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "阿拉伯博士 · 黄豆炖猪蹄",
+        "url": "https://home.meishichina.com/recipe-240659.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与十步正文；支持黄豆预泡、猪蹄焯后普通锅焖炖；补足冷藏泡豆与软烂检查。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a09",
+    "name": "红烧鸡块",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 70,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "家常红烧鸡",
+      "酱烧鸡块"
+    ],
+    "ingredients": [
+      {
+        "name": "带骨鸡腿块",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "八角",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3.0,
+        "unit": "ml"
+      },
+      {
+        "name": "蚝油",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 450.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配备料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "鸡腿块保持4厘米，姜切片、葱切段；把酱油、蚝油和白糖量好。",
+        "check": "生禽工具用后清洗，熟食另用干净工具。"
+      },
+      {
+        "title": "焯净鸡块",
+        "heat": "中大火",
+        "seconds": 180,
+        "text": "{{带骨鸡腿块}}冷水入锅，加{{姜@0.5}}和{{料酒}}，烧开撇沫后煮3分钟。",
+        "check": "焯水倒掉，鸡块沥干。"
+      },
+      {
+        "title": "煎出香味",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "锅加{{食用油}}，鸡块单层煎5分钟，中途翻面。",
+        "check": "鸡皮微金黄，不堆满锅。"
+      },
+      {
+        "title": "炒香调味",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{姜@0.5}}、{{葱}}、{{八角}}炒香，再加{{生抽}}、{{老抽}}、{{蚝油}}、{{白糖}}拌匀。",
+        "check": "调味汁均匀裹在鸡块上。"
+      },
+      {
+        "title": "加水焖鸡",
+        "heat": "小火",
+        "seconds": 1500,
+        "text": "加入{{清水}}烧开，盖盖小火焖25分钟；中途轻翻，汁不足时补开水。",
+        "check": "保持微沸，鸡肉松软。"
+      },
+      {
+        "title": "检查熟透",
+        "heat": "小火",
+        "seconds": 300,
+        "text": "食品温度计插入最大鸡块最厚的肉处，避骨，中心至少75℃；未达到继续焖5分钟后复测。",
+        "check": "靠骨部位也已熟透，不用酱色判断。"
+      },
+      {
+        "title": "收汁出锅",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "挑出葱和八角，揭盖收汁3–5分钟，轻翻后盛出。",
+        "check": "汤汁稍稠，鸡块不干柴。"
+      }
+    ],
+    "tips": [
+      "蚝油、生抽都含盐，此配方不再加盐。",
+      "多人份分批煎，鸡块尺寸不变；老母鸡不适用这段焖煮时间。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦",
+      "软体贝类"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "happiness2882 · 红烧鸡块",
+        "url": "https://home.meishichina.com/recipe-391671.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与五步正文；支持鸡腿切块焯水、香料与酱油焖烧，省鸡精并独立量化。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a10",
+    "name": "香辣虾",
+    "category": "家常菜",
+    "cuisine": "川菜",
+    "group": "海鲜小炒",
+    "minutes": 35,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🦐",
+    "spicy": true,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "香辣炒虾",
+      "川味香辣虾"
+    ],
+    "ingredients": [
+      {
+        "name": "带壳鲜虾",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "青椒",
+        "amount": 60.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "花椒",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "料酒",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "香油",
+        "amount": 2.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 40.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "处理鲜虾",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "鲜虾剪去长须与尖刺，沿背浅划开挑掉虾线，冲净沥干；青椒去籽切块。",
+        "check": "保留虾壳，虾表面用厨房纸吸干。"
+      },
+      {
+        "title": "切好香料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "姜切丝、蒜切片、葱切段、干辣椒剪段；豆瓣酱剁细，所有调味量好。",
+        "check": "先备齐再开火，避免找调料时糊锅。"
+      },
+      {
+        "title": "炒香椒姜蒜",
+        "heat": "中小火",
+        "seconds": 45,
+        "text": "锅加{{食用油}}，放{{花椒}}、{{姜}}、{{蒜}}、{{干辣椒}}炒约45秒。",
+        "check": "有香气，干辣椒保持红褐色而非黑色。"
+      },
+      {
+        "title": "炒出豆瓣香",
+        "heat": "小火",
+        "seconds": 45,
+        "text": "加入{{豆瓣酱}}，不断翻炒约45秒。",
+        "check": "油呈红色，酱不粘焦。"
+      },
+      {
+        "title": "虾下锅翻炒",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "放{{带壳鲜虾}}，单层翻炒3分钟，人多分批；加{{料酒}}、{{生抽}}、{{白糖}}。",
+        "check": "虾壳变红，调味汁裹虾。"
+      },
+      {
+        "title": "加水焖透",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "倒{{清水}}，盖盖焖3分钟；最大虾厚肉中心至少75℃，不够则续热。",
+        "check": "虾肉不透明、紧实，计时不能代替熟度检查。"
+      },
+      {
+        "title": "加入青椒葱",
+        "heat": "中大火",
+        "seconds": 120,
+        "text": "放{{青椒}}和{{葱}}，揭盖翻炒2分钟。",
+        "check": "青椒无生硬味，汁明显减少。"
+      },
+      {
+        "title": "香油收尾",
+        "heat": "小火",
+        "seconds": 30,
+        "text": "加{{香油}}翻匀约30秒，关火装盘。",
+        "check": "锅里仅少量香辣汁，不留大碗水汤。"
+      }
+    ],
+    "tips": [
+      "豆瓣酱咸度差异大，此配方不另加盐。",
+      "保持鲜虾大小一致，增量分批；虾头壳不能作为熟透的唯一判断。"
+    ],
+    "allergens": [
+      "甲壳类",
+      "大豆",
+      "可能含小麦",
+      "芝麻"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖厚底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "茗月baby · 香辣虾",
+        "url": "https://home.meishichina.com/recipe-78173.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与八步正文；支持豆瓣花椒姜蒜炒香、虾后入锅与少量水焖熟，无油炸。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a11",
+    "name": "干锅土豆片",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "肉类小炒",
+    "minutes": 45,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": true,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "香辣干锅土豆",
+      "干锅洋芋片"
+    ],
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "五花肉",
+        "amount": 80.0,
+        "unit": "g"
+      },
+      {
+        "name": "洋葱",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "孜然粉",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 20.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切片清洗",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "土豆削皮切3–4毫米片，清水冲去表面淀粉后沥干，用厨房纸吸干。",
+        "check": "厚度一致，不带水入油锅。"
+      },
+      {
+        "title": "切配肉料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "五花肉切2毫米片，洋葱切条，姜蒜切片，干辣椒剪段，豆瓣剁细。",
+        "check": "原料和调味量好再开火。"
+      },
+      {
+        "title": "分批煎土豆",
+        "heat": "中火",
+        "seconds": 960,
+        "text": "平底锅加{{食用油@0.75}}，放{{土豆}}单层煎，每批两面共约8分钟；按单层铺满程度分批（两人份约2批，人数增加时相应增加批次），油在各批间共用。",
+        "check": "土豆可被筷子穿透，表面少量金黄，先盛出。"
+      },
+      {
+        "title": "煸熟肉片",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "同锅加{{食用油@0.25}}，放{{五花肉}}炒4分钟，肉片厚处至少75℃。",
+        "check": "肉变熟、边缘微卷，锅底有少量猪油。"
+      },
+      {
+        "title": "炒香料酱",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "放{{姜}}、{{蒜}}、{{干辣椒}}、{{豆瓣酱}}，炒约1分钟。",
+        "check": "豆瓣出香，蒜与辣椒不焦。"
+      },
+      {
+        "title": "炒洋葱",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "加入{{洋葱}}炒3分钟。",
+        "check": "洋葱边缘透明，保留少量脆感。"
+      },
+      {
+        "title": "土豆回锅",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "放回土豆，加{{生抽}}、{{孜然粉}}，轻翻2分钟。",
+        "check": "调味均匀，土豆片不大量碎裂。"
+      },
+      {
+        "title": "趁热盛出",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "关火盛在干燥盘中，锅底香料酱一同装盘。",
+        "check": "成品干香，盘底没有大量水汤。"
+      }
+    ],
+    "tips": [
+      "煎土豆每批保持单层；人数增加多煎几批，不加厚片。",
+      "表中油量是全部煎炒用油，分批共用，不是每批另加一次。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "球娃娃 · 干锅土豆片",
+        "url": "https://home.meishichina.com/recipe-598811.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与八步正文；支持先煎土豆、后煸肉炒豆瓣、回锅加洋葱孜然；用普通平底锅。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a12",
+    "name": "干锅千页豆腐",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "肉类小炒",
+    "minutes": 45,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": true,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "干锅千叶豆腐",
+      "香辣千页豆腐"
+    ],
+    "ingredients": [
+      {
+        "name": "千页豆腐",
+        "amount": 300.0,
+        "unit": "g"
+      },
+      {
+        "name": "五花肉",
+        "amount": 80.0,
+        "unit": "g"
+      },
+      {
+        "name": "洋葱",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "青椒",
+        "amount": 70.0,
+        "unit": "g"
+      },
+      {
+        "name": "芹菜",
+        "amount": 60.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "蚝油",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 18.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 30.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "核对豆腐切片",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "千页豆腐使用冷藏或已解冻的，切约5毫米片；五花肉切2毫米片。",
+        "check": "千页豆腐配方不同，先核对大豆、蛋、乳与小麦标识。"
+      },
+      {
+        "title": "切配蔬菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "洋葱切条，青椒去籽切块，芹菜去老筋切3厘米段；姜蒜切片，豆瓣剁细。",
+        "check": "菜表面沥干，调味量好。"
+      },
+      {
+        "title": "分批煎豆腐",
+        "heat": "中火",
+        "seconds": 720,
+        "text": "锅加{{食用油@0.6666666667}}，放{{千页豆腐}}单层煎，每批约6分钟，按单层铺满程度分批（两人份约2批，人数增加时相应增加批次）；翻至两面微金黄后盛出。",
+        "check": "豆腐膨起，边缘发黄，不炸成硬壳。"
+      },
+      {
+        "title": "煸熟猪肉",
+        "heat": "中火",
+        "seconds": 240,
+        "text": "同锅加{{食用油@0.3333333333}}，放{{五花肉}}炒4分钟，厚肉处至少75℃。",
+        "check": "肉片熟透并析出少许油。"
+      },
+      {
+        "title": "炒香豆瓣",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "放{{姜}}、{{蒜}}和{{豆瓣酱}}，炒约1分钟。",
+        "check": "豆瓣香味出来，锅底不焦。"
+      },
+      {
+        "title": "炒熟蔬菜",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "加入{{洋葱}}、{{青椒}}和{{芹菜}}，翻炒3分钟。",
+        "check": "洋葱透明，芹菜无生硬口感。"
+      },
+      {
+        "title": "豆腐回锅收汁",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "放回豆腐，加{{生抽}}、{{蚝油}}、{{白糖}}、{{清水}}，翻炒3分钟。",
+        "check": "豆腐热透，汁收至能裹住表面。"
+      },
+      {
+        "title": "关火装盘",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "将豆腐、肉片和蔬菜一起盛出，趁热吃。",
+        "check": "成品干香，避免盘底积一层水。"
+      }
+    ],
+    "tips": [
+      "千页豆腐不等同于嫩豆腐，购买时认清名称；过敏者逐项核对包装。",
+      "增量分批煎同样厚度；各批共用表中分配的油，不每批重复加整份。",
+      "用时按冷藏、已解冻千页豆腐计算；冷冻品请提前按包装要求冷藏解冻，解冻等待另计。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦",
+      "可能含蛋",
+      "可能含乳",
+      "软体贝类"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "长沙新东方烹饪学校 · 干锅千页豆腐",
+        "url": "https://www.csxdf.com/news/20230228/2023022816008.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮直接打开并读取正文；支持千页豆腐煎至膨起、猪肉炒豆瓣及蔬菜回锅，改为洋葱在锅内炒熟后出菜。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a13",
+    "name": "青椒茄子",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "蔬菜小炒",
+    "minutes": 30,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🍆",
+    "spicy": false,
+    "difficulty": 1,
+    "difficultyReason": "切配后按顺序加热，掌握软熟检查即可。",
+    "aliases": [
+      "青椒炒茄子",
+      "甜椒炒茄子"
+    ],
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "青椒",
+        "amount": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.8,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 18.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 40.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切薄茄子",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "茄子洗净去蒂，切约5毫米厚斜片；切后尽快开火。",
+        "check": "片厚均匀，太厚会难炒软。"
+      },
+      {
+        "title": "切好青椒姜蒜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "选不辣的甜青椒，去蒂去籽切3厘米块；姜切末，蒜切片。",
+        "check": "不辣取决于品种，拿不准可用青彩椒。"
+      },
+      {
+        "title": "调好味汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "把{{生抽}}、{{盐}}和{{清水}}混合。",
+        "check": "盐先化开，避免局部过咸。"
+      },
+      {
+        "title": "单层煎茄子",
+        "heat": "中火",
+        "seconds": 360,
+        "text": "平底锅加{{食用油}}，下{{茄子}}，翻面煎约6分钟，人多分批。",
+        "check": "茄子明显变软，表面轻微金黄。"
+      },
+      {
+        "title": "姜蒜入锅",
+        "heat": "中小火",
+        "seconds": 30,
+        "text": "把茄子拨到一边，放{{姜}}和{{蒜}}，利用锅底油炒约30秒。",
+        "check": "蒜有香味，不焦黄发苦。"
+      },
+      {
+        "title": "放青椒翻炒",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "加{{青椒}}，与茄子一起翻炒2分钟。",
+        "check": "青椒稍软，仍保持绿色。"
+      },
+      {
+        "title": "加汁焖软",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "倒入调好的味汁，盖盖焖3分钟，再开盖翻匀。",
+        "check": "茄子中心软透，能被筷子轻轻夹断。"
+      },
+      {
+        "title": "揭盖盛菜",
+        "heat": "中大火",
+        "seconds": 60,
+        "text": "若水仍多，揭盖翻炒约1分钟后装盘。",
+        "check": "盘底少量汁，茄子软润。"
+      }
+    ],
+    "tips": [
+      "茄子开始吸油不必不断加油，按表中用量和少量水焖软。",
+      "人数增加保持5毫米片，分批煎后合炒；不要把生茄子堆满锅。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、带盖平底锅",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "苹果的萍 · 青椒炒茄子",
+        "url": "https://home.meishichina.com/recipe-590487.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与九步正文；支持茄子煎软后放青椒姜蒜；本配方不盐腌，使用少量水辅助软化。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a14",
+    "name": "肉末茄子",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "肉类小炒",
+    "minutes": 40,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🍆",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "肉末烧茄子",
+      "猪肉末炒茄子"
+    ],
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "猪肉末",
+        "amount": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 5.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "蚝油",
+        "amount": 5.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 60.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切茄子香料",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "茄子去蒂，切约1.5厘米粗、5厘米长条；蒜姜切末，葱切葱花。",
+        "check": "肉末单独盛放，刀板不要交叉接触熟食。"
+      },
+      {
+        "title": "先蒸软茄子",
+        "heat": "中火",
+        "seconds": 600,
+        "text": "{{茄子}}铺耐热盘，蒸锅水沸后上锅蒸10分钟。",
+        "check": "能用筷子穿透，戴手套取盘并倒掉盘中积水。"
+      },
+      {
+        "title": "调好咸鲜汁",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "将{{生抽}}、{{蚝油}}、{{白糖}}和{{清水}}拌匀。",
+        "check": "调味汁充分混匀。"
+      },
+      {
+        "title": "炒散肉末",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "平底锅加{{食用油}}，放{{猪肉末}}，炒散5分钟。",
+        "check": "最大肉末团中心至少75℃，没有大团结块。"
+      },
+      {
+        "title": "姜蒜炒香",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{姜}}和{{蒜}}，与肉末炒1分钟。",
+        "check": "蒜香出来，不粘焦。"
+      },
+      {
+        "title": "茄子合锅",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "放蒸软沥水的茄子，倒入调味汁，轻翻后煮3分钟。",
+        "check": "茄子均匀裹上肉末汁，汁充分沸腾。"
+      },
+      {
+        "title": "收汁撒葱",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "揭盖煮1–2分钟，撒{{葱}}拌匀，关火。",
+        "check": "汁稍稠，茄子不被搅成糊。"
+      },
+      {
+        "title": "盛出趁热吃",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "茄子和肉末汁一起装盘。",
+        "check": "配米饭，盘里不留大块未散开的肉团。"
+      }
+    ],
+    "tips": [
+      "肉末是咸鲜味，不加辣椒、醋和大量糖。",
+      "多人份茄子分盘蒸，肉末分批炒散；不要把茄条加粗来装更多。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦",
+      "软体贝类"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、蒸锅、耐热盘、平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 炒茄子",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/炒茄子.md",
+        "kind": "technique",
+        "path": "dishes/vegetable_dish/炒茄子.md",
+        "sha256": "64f9e3b89091a20ec15555e4ea03d81b5c5d76a97b2a8f0995d5bfdfcab5862c",
+        "note": "实际读取固定提交全文；支持肉末与茄子合炒，不采用原文高温热油及大量酱油。"
+      },
+      {
+        "title": "HowToCook · 蒲烧茄子",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/vegetable_dish/蒲烧茄子.md",
+        "kind": "technique",
+        "path": "dishes/vegetable_dish/蒲烧茄子.md",
+        "sha256": "95a54a805fef61b7cc166892f671b242c2bfb1e0204fb06e6acfc30eb1b069e0",
+        "note": "实际读取固定提交全文；仅支持先蒸软茄子再入平底锅的技法，不借用蒲烧调味。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a15",
+    "name": "肉末蒸蛋",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "蒸菜",
+    "minutes": 40,
+    "prepMinutes": 10,
+    "servings": 2,
+    "emoji": "🥚",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "肉末鸡蛋羹",
+      "肉末浇汁蒸蛋"
+    ],
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": 2.0,
+        "unit": "个"
+      },
+      {
+        "name": "温水",
+        "amount": 150.0,
+        "unit": "ml"
+      },
+      {
+        "name": "猪肉末",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "洋葱",
+        "amount": 40.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 6.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 1.0,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 30.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配肉末洋葱",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "洋葱切细丁，葱切葱花；肉末保持细碎，不夹大肉块。",
+        "check": "生肉工具与蛋羹盛放工具分开。"
+      },
+      {
+        "title": "兑水打蛋",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{鸡蛋}}打入碗中，加{{盐@0.5}}搅散；加入{{温水}}拌匀，温水不烫手。",
+        "check": "2个蛋去壳约100克，水约为蛋液重量1.5倍，可按实际蛋重调整。"
+      },
+      {
+        "title": "过滤分浅碗",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "蛋液过筛，分到耐热浅碗，液深不超过3厘米；每碗盖耐热小盘。",
+        "check": "多人份增加浅碗数量，不做更厚的一大碗。"
+      },
+      {
+        "title": "水沸蒸蛋",
+        "heat": "中小火",
+        "seconds": 900,
+        "text": "蒸锅水烧开后放入浅碗，保持稳定出汽蒸15分钟。",
+        "check": "中心凝固不晃水，蛋羹中心至少75℃；未凝固每次续蒸2分钟。"
+      },
+      {
+        "title": "焖蛋并炒肉",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "蒸熟后关火焖2分钟；另锅加{{食用油}}，下{{洋葱}}炒1分钟，再放{{猪肉末}}炒散4分钟。",
+        "check": "肉末团中心至少75℃，洋葱软熟。"
+      },
+      {
+        "title": "肉末煮汁",
+        "heat": "中火",
+        "seconds": 120,
+        "text": "肉锅加入{{生抽}}、{{盐@0.5}}、{{清水}}，煮2分钟。",
+        "check": "汁沸腾，肉末不干硬。"
+      },
+      {
+        "title": "撒葱浇头",
+        "heat": "小火",
+        "seconds": 30,
+        "text": "肉末中放{{葱}}拌30秒；用隔热手套取蛋羹，将熟肉末汁均匀浇上。",
+        "check": "不把生肉铺到已熟蛋羹上。"
+      },
+      {
+        "title": "趁温热吃",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "稍放到入口不烫时食用。",
+        "check": "蛋羹平滑凝固，肉末熟透。"
+      }
+    ],
+    "tips": [
+      "蛋液水比按去壳重量控制，鸡蛋大小变化时适度调整，不追求半个鸡蛋。",
+      "浅碗盖盘防滴水，取盘戴隔热手套；1–6人都保持不超过3厘米深。"
+    ],
+    "allergens": [
+      "蛋",
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "蒸锅、耐热浅碗、耐热小盘、滤网、平底锅、厨房秤、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "悦悦玉食 · 肉末蒸蛋",
+        "url": "https://home.meishichina.com/recipe-225956.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与七步正文；支持蛋液兑1.5倍水过滤蒸制、炒熟肉末浇头，不是肉饼垫底蒸蛋。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a16",
+    "name": "黄焖鸡",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 65,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "黄焖鸡米饭配菜",
+      "香菇黄焖鸡"
+    ],
+    "ingredients": [
+      {
+        "name": "带骨鸡腿块",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "鲜香菇",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "土豆",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "青椒",
+        "amount": 80.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 3.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 500.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配食材",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "鸡腿块约4厘米，土豆削皮切2.5厘米块；鲜香菇洗净去硬柄切半，甜青椒去籽切块，姜切片。",
+        "check": "使用鲜香菇，不需泡发。"
+      },
+      {
+        "title": "沥干鸡块",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "{{带骨鸡腿块}}吸干表面水分，土豆沥干待用。",
+        "check": "生鸡刀板用后彻底清洗。"
+      },
+      {
+        "title": "煎香鸡肉",
+        "heat": "中火",
+        "seconds": 360,
+        "text": "锅加{{食用油}}，鸡块单层煎约6分钟，翻面。",
+        "check": "表面略金黄，量大分批。"
+      },
+      {
+        "title": "姜香调味",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{姜}}炒香，再加{{料酒}}、{{生抽}}、{{老抽}}、{{白糖}}翻匀1分钟。",
+        "check": "鸡块挂色，不糊锅。"
+      },
+      {
+        "title": "合入香菇土豆",
+        "heat": "小火",
+        "seconds": 1800,
+        "text": "加入{{鲜香菇}}、{{土豆}}、{{清水}}，烧开后盖盖小火焖30分钟；缺水补开水。",
+        "check": "土豆无硬芯，鸡肉松软，汤保持微沸。"
+      },
+      {
+        "title": "检查鸡肉",
+        "heat": "小火",
+        "seconds": 0,
+        "text": "最大鸡块最厚肉处测温，避骨中心至少75℃；不够就继续焖后复测。",
+        "check": "不能只凭鸡皮颜色或酱汁颜色判熟。"
+      },
+      {
+        "title": "青椒调味",
+        "heat": "中火",
+        "seconds": 180,
+        "text": "加入{{青椒}}和{{盐}}，揭盖煮3分钟。",
+        "check": "青椒软而保持绿色，土豆未煮散。"
+      },
+      {
+        "title": "收成浓汁",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "轻翻收汁约5分钟，保留能浇饭的适量浓汁，与米饭一起吃。",
+        "check": "汁能裹菜，不煮到锅底干。"
+      }
+    ],
+    "tips": [
+      "甜青椒无辣，若换尖椒辣度会改变。",
+      "人数增加块大小不变，分批煎鸡；焖煮使用足够大锅，盛装不超三分之二。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "HowToCook · 黄焖鸡",
+        "url": "https://github.com/Anduin2017/HowToCook/blob/c2063eb7050bac0cb998779c62fa08c649c9882f/dishes/meat_dish/黄焖鸡.md",
+        "kind": "recipe",
+        "path": "dishes/meat_dish/黄焖鸡.md",
+        "sha256": "c24bd558d9d8bf168bfc799af79599757c40dc3d0b46d3e088f21a329c23996d",
+        "note": "实际读取固定提交全文；支持鸡块、香菇、土豆焖烧与青椒末段加入；改用鲜香菇而非需预浸泡的干香菇。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a17",
+    "name": "香菇烧鸭",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 130,
+    "prepMinutes": 20,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "香菇焖鸭",
+      "鲜香菇烧鸭块"
+    ],
+    "ingredients": [
+      {
+        "name": "带骨鸭块",
+        "amount": 500.0,
+        "unit": "g"
+      },
+      {
+        "name": "鲜香菇",
+        "amount": 180.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 12.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 2.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 3.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 15.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 800.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配鸭菇",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "选普通肉鸭，鸭块保持4厘米；鲜香菇洗净去硬柄切半，姜切片，蒜拍裂，葱切段。",
+        "check": "老鸭所需时间明显更长，不套用此时长。"
+      },
+      {
+        "title": "焯鸭去沫",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{带骨鸭块}}冷水入锅，加{{姜@0.5}}和{{料酒}}，烧开撇沫后再煮5分钟。",
+        "check": "捞出冲净沥干，弃焯水。"
+      },
+      {
+        "title": "煸出鸭油",
+        "heat": "中火",
+        "seconds": 480,
+        "text": "锅加{{食用油}}，鸭块单层放入煸8分钟，翻面。",
+        "check": "鸭皮稍金黄，锅底有少量鸭油。"
+      },
+      {
+        "title": "炒香姜蒜",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "下{{姜@0.5}}、{{蒜}}、{{葱}}炒香，加{{生抽}}、{{老抽}}、{{白糖}}拌匀。",
+        "check": "酱汁裹鸭，不焦黑。"
+      },
+      {
+        "title": "先焖鸭肉",
+        "heat": "小火",
+        "seconds": 3600,
+        "text": "倒入{{清水}}烧开，盖盖小火焖60分钟；每20分钟看水位，缺水补开水。",
+        "check": "持续微沸，鸭肉开始软。"
+      },
+      {
+        "title": "香菇合锅",
+        "heat": "小火",
+        "seconds": 1200,
+        "text": "放{{鲜香菇}}与{{盐}}，继续盖盖小火煮20分钟。",
+        "check": "香菇软熟，鸭肉香菇味融合。"
+      },
+      {
+        "title": "查熟并收汁",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "鸭肉最厚处中心至少75℃且筷子较易穿入；仍韧继续加水焖，已软则揭盖收汁5分钟。",
+        "check": "保留少量浓汁，肉不干硬。"
+      },
+      {
+        "title": "挑葱盛菜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "挑出葱段，鸭块、香菇和汁一起装盘。",
+        "check": "注意鸭骨尖角，食用时细挑骨。"
+      }
+    ],
+    "tips": [
+      "肉鸭和老鸭差异大，以软烂检查为准；全程不用啤酒。",
+      "增量分批煸鸭，4厘米块不加大，焖锅不装过三分之二。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "zwhlz · 鸭肉焖香菇",
+        "url": "https://home.meishichina.com/recipe-58503.html",
+        "kind": "web",
+        "support": "technique",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整五步正文；仅支持鲜香菇配鸭及姜蒜煸香组合；其步骤无可靠焖熟用时，不能据变色判熟。"
+      },
+      {
+        "title": "blry2006 · 蘑菇炖鸭块",
+        "url": "https://home.meishichina.com/recipe-240601.html",
+        "kind": "web",
+        "support": "technique",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整五步正文；支持鸭块焯后煸香、砂锅约1小时炖制；鲜香菇、清水与酱油版独立编排。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a18",
+    "name": "板栗烧鸡",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 85,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "栗子烧鸡",
+      "板栗焖鸡"
+    ],
+    "ingredients": [
+      {
+        "name": "带骨鸡腿块",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "去皮生板栗",
+        "amount": 160.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "生抽",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 2.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 550.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "备料挑栗",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "鸡腿块约4厘米；用已去壳去内皮的生板栗，检查无霉斑，较大栗仁切半；姜切片、蒜拍裂、葱切段。",
+        "check": "栗仁不使用糖炒栗或熟蜜饯代替。"
+      },
+      {
+        "title": "焯净鸡块",
+        "heat": "中大火",
+        "seconds": 180,
+        "text": "{{带骨鸡腿块}}冷水入锅，加{{姜@0.5}}和{{料酒}}，烧开撇沫后再煮3分钟，捞出洗净沥干。",
+        "check": "焯水弃去，锅洗净。"
+      },
+      {
+        "title": "煎香鸡肉",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "锅加{{食用油}}，鸡块单层煎5分钟，量大分批。",
+        "check": "鸡皮微黄，锅底无焦糊。"
+      },
+      {
+        "title": "炒料调味",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "放{{姜@0.5}}、{{蒜}}、{{葱}}炒香，加{{生抽}}、{{老抽}}、{{白糖}}翻匀。",
+        "check": "酱汁均匀裹肉。"
+      },
+      {
+        "title": "先焖鸡块",
+        "heat": "小火",
+        "seconds": 1200,
+        "text": "倒入{{清水}}烧开，盖盖小火焖20分钟。",
+        "check": "持续微沸，肉开始松软。"
+      },
+      {
+        "title": "栗子加入",
+        "heat": "小火",
+        "seconds": 1500,
+        "text": "放{{去皮生板栗}}与{{盐}}，轻翻后盖盖再焖25分钟；汤少补开水。",
+        "check": "板栗能被筷子穿过，内部粉熟而无硬芯。"
+      },
+      {
+        "title": "检查熟度",
+        "heat": "小火",
+        "seconds": 0,
+        "text": "最大鸡块厚肉中心至少75℃且肉软；栗仁未软继续煮5–10分钟。",
+        "check": "避开骨头测温，不以栗仁颜色判熟。"
+      },
+      {
+        "title": "收汁上桌",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "揭盖轻翻收汁5分钟，挑出葱段后装盘。",
+        "check": "鸡块完整，栗仁少量裂开即可，不搅成栗泥。"
+      }
+    ],
+    "tips": [
+      "板栗含有硬芯时不要急着出锅；增量保持栗仁大小与鸡块尺寸。",
+      "若买带壳板栗，剥壳剥皮时间另加约20分钟；表中总时长按已去皮生栗仁计算。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "零零落落2011 · 板栗烧鸡",
+        "url": "https://m.meishichina.com/recipe/431938/",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的配料列表及步骤2至12；支持焯鸡、酱色烧鸡和中途放板栗；改为普通锅与已去皮生板栗，未复制自动程序用时。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a19",
+    "name": "冬瓜烧肉",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "焖炖",
+    "minutes": 45,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🥘",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "五花肉烧冬瓜",
+      "冬瓜焖肉片"
+    ],
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": 180.0,
+        "unit": "g"
+      },
+      {
+        "name": "冬瓜",
+        "amount": 400.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 6.0,
+        "unit": "g"
+      },
+      {
+        "name": "蒜",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 8.0,
+        "unit": "g"
+      },
+      {
+        "name": "生抽",
+        "amount": 12.0,
+        "unit": "ml"
+      },
+      {
+        "name": "老抽",
+        "amount": 2.0,
+        "unit": "ml"
+      },
+      {
+        "name": "白糖",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "淀粉",
+        "amount": 4.0,
+        "unit": "g"
+      },
+      {
+        "name": "盐",
+        "amount": 0.5,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 8.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 240.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切肉腌制",
+        "heat": "不开火",
+        "seconds": 600,
+        "text": "{{五花肉}}切2毫米片，拌{{生抽@0.5}}、{{淀粉@0.5}}、{{清水@0.0833333333}}，腌10分钟。",
+        "check": "腌肉放冰箱或尽快烹煮，不长时间常温放置。"
+      },
+      {
+        "title": "同时切冬瓜",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "腌肉时冬瓜去皮去瓤，切约1厘米厚块；姜蒜切末、葱切葱花。",
+        "check": "冬瓜块大小一致。"
+      },
+      {
+        "title": "煸熟肉片",
+        "heat": "中火",
+        "seconds": 300,
+        "text": "锅加{{食用油}}，放腌好的肉片炒散5分钟，肉厚处中心至少75℃。",
+        "check": "肉片熟透并析出少量油。"
+      },
+      {
+        "title": "炒香调色",
+        "heat": "中小火",
+        "seconds": 60,
+        "text": "加{{姜}}、{{蒜}}炒香，再放{{生抽@0.5}}、{{老抽}}和{{白糖}}拌匀。",
+        "check": "肉片挂色，锅底不焦。"
+      },
+      {
+        "title": "肉片先焖",
+        "heat": "小火",
+        "seconds": 360,
+        "text": "倒入{{清水@0.8333333334}}，烧开后盖盖小火焖6分钟。",
+        "check": "薄五花肉软而未煮干。"
+      },
+      {
+        "title": "冬瓜后放",
+        "heat": "小火",
+        "seconds": 720,
+        "text": "加{{冬瓜}}和{{盐}}，盖盖煮12分钟，中途轻翻。",
+        "check": "冬瓜由白变半透明，筷子可穿。"
+      },
+      {
+        "title": "勾薄芡",
+        "heat": "中火",
+        "seconds": 60,
+        "text": "将{{淀粉@0.5}}与{{清水@0.0833333333}}搅匀，边搅锅边倒入，沸腾约1分钟。",
+        "check": "汁稍稠即可，不成厚糊。"
+      },
+      {
+        "title": "撒葱盛出",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "加{{葱}}拌匀关火，肉片冬瓜与汁一同装盘。",
+        "check": "冬瓜软润，汁能薄薄裹住。"
+      }
+    ],
+    "tips": [
+      "腌肉10分钟可与切冬瓜重叠，开火前所有原料备齐。",
+      "1–6人都保持薄肉片和1厘米冬瓜块；炒肉分批，合锅不装过满。"
+    ],
+    "allergens": [
+      "大豆",
+      "可能含小麦"
+    ],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "掀帘晨曦datura · 冬瓜烧肉",
+        "url": "https://home.meishichina.com/recipe-276154.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与二十步正文；支持薄五花肉先烧、冬瓜后放、淀粉收汁；独立定量并省辛辣香料。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  },
+  {
+    "id": "v9a20",
+    "name": "莲藕炖排骨",
+    "category": "家常菜",
+    "cuisine": "家常风味",
+    "group": "汤羹",
+    "minutes": 155,
+    "prepMinutes": 15,
+    "servings": 2,
+    "emoji": "🍲",
+    "spicy": false,
+    "difficulty": 2,
+    "difficultyReason": "需要分次加料、焖煮或分批煎炒，先备齐再开火。",
+    "aliases": [
+      "莲藕排骨汤",
+      "排骨炖莲藕"
+    ],
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": 450.0,
+        "unit": "g"
+      },
+      {
+        "name": "莲藕",
+        "amount": 350.0,
+        "unit": "g"
+      },
+      {
+        "name": "姜",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "葱",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "料酒",
+        "amount": 10.0,
+        "unit": "ml"
+      },
+      {
+        "name": "盐",
+        "amount": 2.0,
+        "unit": "g"
+      },
+      {
+        "name": "白胡椒粉",
+        "amount": 0.3,
+        "unit": "g"
+      },
+      {
+        "name": "食用油",
+        "amount": 0.0,
+        "unit": "ml"
+      },
+      {
+        "name": "清水",
+        "amount": 1500.0,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": "备料选藕",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "选适合炖汤的粉藕，洗净去皮，切3厘米滚刀块；姜切片，葱切段。",
+        "check": "检查藕孔内泥沙，切面洗净。"
+      },
+      {
+        "title": "焯净排骨",
+        "heat": "中大火",
+        "seconds": 300,
+        "text": "{{排骨}}保持约4厘米段，冷水入锅，加{{姜@0.5}}和{{料酒}}，烧开撇沫后再煮5分钟。",
+        "check": "碎骨屑洗净，焯水弃去。"
+      },
+      {
+        "title": "换锅清汤",
+        "heat": "中大火",
+        "seconds": 60,
+        "text": "排骨温水冲净，放带盖汤锅，加{{清水}}、{{姜@0.5}}和{{葱}}，烧开后持续沸腾1分钟。",
+        "check": "锅内不超过容量三分之二。"
+      },
+      {
+        "title": "先炖排骨",
+        "heat": "小火",
+        "seconds": 3600,
+        "text": "盖盖小火炖60分钟，每20分钟查水量，明显减少时补开水。",
+        "check": "汤持续微沸，肉开始变软。"
+      },
+      {
+        "title": "放藕续炖",
+        "heat": "小火",
+        "seconds": 3600,
+        "text": "加入{{莲藕}}，再次烧开后盖盖小火炖60分钟。",
+        "check": "莲藕内部粉熟、筷子可轻松穿入。"
+      },
+      {
+        "title": "检查排骨",
+        "heat": "小火",
+        "seconds": 0,
+        "text": "最大排骨厚肉中心至少75℃，肉软且不费力能剥离骨头；不够软则继续炖。",
+        "check": "粉藕与脆藕口感不同，脆藕也应无生硬芯。"
+      },
+      {
+        "title": "加盐胡椒",
+        "heat": "小火",
+        "seconds": 180,
+        "text": "加入{{盐}}、{{白胡椒粉}}，再煮3分钟，挑出葱段。",
+        "check": "汤清香，味道均匀。"
+      },
+      {
+        "title": "盛汤上桌",
+        "heat": "不开火",
+        "seconds": 0,
+        "text": "排骨、莲藕与汤一起盛出，稍放到入口不烫再食用。",
+        "check": "食用时挑净骨头碎片。"
+      }
+    ],
+    "tips": [
+      "粉藕更容易煮出绵粉口感；脆藕煮熟后仍可能保持一定脆感。",
+      "增量时排骨和藕块尺寸不变，用足够大的汤锅或分两锅；锅内留防溢空间。"
+    ],
+    "allergens": [],
+    "equipment": "菜刀、砧板、厨房秤、量勺、带盖平底锅、食品温度计",
+    "pairing": "配米饭与一盘清爽蔬菜。",
+    "sources": [
+      {
+        "title": "阳台上的草莓 · 莲藕排骨汤",
+        "url": "https://home.meishichina.com/recipe-529180.html",
+        "kind": "web",
+        "support": "recipe",
+        "checked": "2026-10-01",
+        "note": "本轮读取搜索工具返回的完整配料与五步正文；支持普通锅先炖排骨1小时、莲藕后加；不用卤料包与未入步骤的醋。"
+      }
+    ],
+    "videos": [],
+    "tokenAmounts": true,
+    "review": {
+      "editorial": "source-read-family-formula",
+      "kitchen": "not-tested",
+      "device": "pending"
+    }
+  }
+]

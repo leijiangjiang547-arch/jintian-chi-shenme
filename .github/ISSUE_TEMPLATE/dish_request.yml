@@ -1,0 +1,19 @@
+name: 补菜建议
+description: 告诉我们你想做、但菜谱里还没有的菜
+title: "补菜建议："
+body:
+  - type: markdown
+    attributes:
+      value: "感谢你的建议。内容会公开，请不要填写联系方式、地址或其他个人信息。我们会按常见程度和做法可行性安排后续菜谱。"
+  - type: input
+    id: dish
+    attributes:
+      label: 想吃的菜名
+      placeholder: 如：葱爆羊肉
+    validations:
+      required: true
+  - type: textarea
+    id: preference
+    attributes:
+      label: 希望的口味或做法
+      placeholder: 可选，如：少辣、偏软烂

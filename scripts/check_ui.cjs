@@ -17,13 +17,13 @@ const page=name=>{w.history.replaceState(null,'','#'+name);w.dispatchEvent(new w
 const loadAll=()=>{while(d.querySelector('[data-more]'))click('[data-more]');};
 const expected=f=>w.CookCore.filter(w.RECIPES,f).length;
 try {
- assert.match(d.querySelector('#main').textContent,/300 道/);
- page('recipes');click('[data-category=""]');assert.equal(d.querySelectorAll('.recipe-card').length,36);loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,300);
+ assert.match(d.querySelector('#main').textContent,/340 道/);
+ page('recipes');click('[data-category=""]');assert.equal(d.querySelectorAll('.recipe-card').length,36);loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,340);
  assert.doesNotMatch(d.querySelector('#main').textContent,/新增|验收版|新 ·/);
  click('[data-difficulty="3"]');input('#cuisine','湘菜','change');
  assert.equal(d.querySelectorAll('.recipe-card').length,Math.min(36,expected({cuisine:'湘菜',difficulty:3})));click('[data-difficulty="2"]');assert.ok(d.querySelector('[data-open="d88"]'),'everyday Hunan dish');
  assert.equal(d.querySelectorAll('.recipe-card').length,Math.min(36,expected({cuisine:'湘菜',difficulty:2})));
- click('[data-reset-filters]');loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,300);
+ click('[data-reset-filters]');loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,340);
  input('#cuisine','鲁菜','change');assert.equal(d.querySelectorAll('.recipe-card').length,Math.min(36,expected({cuisine:'鲁菜'})));
  click('[data-category="早餐"]');assert.equal(d.querySelector('#cuisine'),null);
  loadAll();assert.equal(d.querySelectorAll('.recipe-card').length,107);
@@ -48,5 +48,5 @@ try {
  page('shopping');assert.match(d.querySelector('#main').textContent,/香蕉厚蛋烧/);
  assert.ok(d.querySelectorAll('.shop-item').length>0);
  assert.deepEqual(errors,[]);
- console.log('DOM QA passed: 300 details and cooking navigation; ranked search; 97 filtered breakfasts; bounded batches; servings; existing favorites; shopping. Not visual/device QA.');
+ console.log('DOM QA passed: 340 details and cooking navigation; ranked search; 97 filtered breakfasts; bounded batches; servings; existing favorites; shopping. Not visual/device QA.');
 } finally {w.close();}
